@@ -1,0 +1,1048 @@
+﻿Bá»˜ CÃ”NG THÆ¯Æ NGTRÆ¯á»œNG Äáº I Há»ŒC CÃ”NG NGHIá»†P TP. Há»’ CHÃ MINHKHOA CÃ”NG NGHá»† THÃ”NG TINBá»˜ CÃ”NG THÆ¯Æ NGTRÆ¯á»œNG Äáº I Há»ŒC CÃ”NG NGHIá»†P TP. Há»’ CHÃ MINHKHOA CÃ”NG NGHá»† THÃ”NG TIN
+
+
+
+
+
+TÃŠN Äá»€ TÃ€I
+XÃ‚Y Dá»°NG á»¨NG Dá»¤NG GIÃšP TÃŒM KIáº¾M VÃ€ Gá»¢I Ã NHÃ€ HÃ€NG Sá»¬ Dá»¤NG MONGDB GEOSPATIAL VÃ€ CHATBOT AIXÃ‚Y Dá»°NG á»¨NG Dá»¤NG GIÃšP TÃŒM KIáº¾M VÃ€ Gá»¢I Ã NHÃ€ HÃ€NG Sá»¬ Dá»¤NG MONGDB GEOSPATIAL VÃ€ CHATBOT AI
+
+
+
+
+NGÃ€NH: CÃ”NG NGHá»† THÃ”NG TIN
+			MÃƒ CHUYÃŠN NGÃ€NH: 7480201
+			
+			                   SINH VIÃŠN:	HOÃ€NG GIA HÃ€O		21121381 
+				HUá»²NH Táº¤N QUANG	21125671
+			                   GVHD:  	THS. Äá»– HÃ€ PHÆ¯Æ NG
+			
+
+THÃ€NH PHá» Há»’ CHÃ MINH, THÃNG 12 NÄ‚M 2025
+Bá»˜ CÃ”NG THÆ¯Æ NGTRÆ¯á»œNG Äáº I Há»ŒC CÃ”NG NGHIá»†P TP. Há»’ CHÃ MINHKHOA CÃ”NG NGHá»† THÃ”NG TINBá»˜ CÃ”NG THÆ¯Æ NGTRÆ¯á»œNG Äáº I Há»ŒC CÃ”NG NGHIá»†P TP. Há»’ CHÃ MINHKHOA CÃ”NG NGHá»† THÃ”NG TIN
+
+
+
+XÃ‚Y Dá»°NG á»¨NG Dá»¤NG GIÃšP TÃŒM KIáº¾M VÃ€ Gá»¢I Ã NHÃ€ HÃ€NG Sá»¬ Dá»¤NG MONGDB GEOSPATIAL VÃ€ CHATBOT AIXÃ‚Y Dá»°NG á»¨NG Dá»¤NG GIÃšP TÃŒM KIáº¾M VÃ€ Gá»¢I Ã NHÃ€ HÃ€NG Sá»¬ Dá»¤NG MONGDB GEOSPATIAL VÃ€ CHATBOT AITÃŠN Äá»€ TÃ€I
+
+
+
+
+
+NGÃ€NH: CÃ”NG NGHá»† THÃ”NG TIN
+MÃƒ CHUYÃŠN NGÃ€NH: 7480201
+			
+			                  SINH VIÃŠN:	HOÃ€NG GIA HÃ€O		21121381 
+				HUá»²NH Táº¤N QUANG	21125671
+			                   GVHD:  	THS. Äá»– HÃ€ PHÆ¯Æ NG
+			
+
+
+THÃ€NH PHá» Há»’ CHÃ MINH, THÃNG 12 NÄ‚M 2025
+THÃ€NH PHá» Há»’ CHÃ MINH, THÃNG 12 NÄ‚M 2025
+
+
+
+INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY
+FACULTY OF INFORMATION TECHNOLOGY
+
+
+
+BUILDING AN APP TO HELP FIND AND RECOMMEND RESTAURANTS USING MONGDB GEOSPATIAL AND AI CHATBOTFOR DINING RECOMMENDATIONSBUILDING AN APP TO HELP FIND AND RECOMMEND RESTAURANTS USING MONGDB GEOSPATIAL AND AI CHATBOTFOR DINING RECOMMENDATIONS
+
+
+
+
+
+			MAJOR: INFORMATION TECHNOLOGY			                               MAJOR CODE: 7480201									                          STUDENTS:         HOANG GIA HAO 		21121381			                       	         HUYNH TAN QUANG 	21125671				                            SUPERVISOR:       MSC. DO HA PHUONGMAJOR: INFORMATION TECHNOLOGY			                               MAJOR CODE: 7480201									                          STUDENTS:         HOANG GIA HAO 		21121381			                       	         HUYNH TAN QUANG 	21125671				                            SUPERVISOR:       MSC. DO HA PHUONG
+
+
+
+
+				
+
+
+
+
+HO CHI MINH CITY, DECEMBER 2025
+
+TÃ“M Táº®T
+Trong bá»‘i cáº£nh ThÃ nh phá»‘ Há»“ ChÃ­ Minh Ä‘ang kháº³ng Ä‘á»‹nh vá»‹ tháº¿ lÃ  trung tÃ¢m kinh táº¿ vÃ  du lá»‹ch hÃ ng Ä‘áº§u, nhu cáº§u tráº£i nghiá»‡m áº©m thá»±c cháº¥t lÆ°á»£ng cao káº¿t há»£p vá»›i sá»± tiá»‡n lá»£i trong quy trÃ¬nh Ä‘áº·t chá»— ngÃ y cÃ ng trá»Ÿ nÃªn cáº¥p thiáº¿t. Tuy nhiÃªn, tÃ¬nh tráº¡ng quÃ¡ táº£i cá»¥c bá»™ vÃ  thiáº¿u há»¥t thÃ´ng tin vá» dá»‹ch vá»¥ váº«n lÃ  rÃ o cáº£n lá»›n Ä‘á»‘i vá»›i du khÃ¡ch. KhÃ³a luáº­n nÃ y táº­p trung nghiÃªn cá»©u, thiáº¿t káº¿ vÃ  triá»ƒn khai website â€œFood Mapâ€ má»™t ná»n táº£ng sá»‘ hÃ³a toÃ n diá»‡n nháº±m giáº£i quyáº¿t bÃ i toÃ¡n káº¿t ná»‘i giá»¯a thá»±c khÃ¡ch vÃ  cÃ¡c cÆ¡ sá»Ÿ kinh doanh Äƒn uá»‘ng táº¡i Ä‘á»‹a bÃ n ThÃ nh phá»‘ Há»“ ChÃ­ Minh.
+Vá» máº·t cÃ´ng nghá»‡, há»‡ thá»‘ng Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn ná»n táº£ng kiáº¿n trÃºc hiá»‡n Ä‘áº¡i vá»›i nÃ²ng cá»‘t lÃ  MongoDB Geospatial, Ä‘Ã³ng vai trÃ² cÆ¡ sá»Ÿ dá»¯ liá»‡u chÃ­nh giÃºp tá»‘i Æ°u hÃ³a kháº£ nÄƒng lÆ°u trá»¯ vÃ  truy váº¥n khÃ´ng gian Ä‘á»‹a lÃ½, cho phÃ©p Ä‘á»‹nh vá»‹ vÃ  hiá»ƒn thá»‹ báº£n Ä‘á»“ nhÃ  hÃ ng theo thá»i gian thá»±c. BÃªn cáº¡nh Ä‘Ã³, Ä‘á»ƒ nÃ¢ng táº§m tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng, á»©ng dá»¥ng tÃ­ch há»£p Chatbot AI váº­n hÃ nh trÃªn ná»n táº£ng Google Gemini API. ThÃ´ng qua ká»¹ thuáº­t RAG (Retrieval-Augmented Generation), Chatbot Ä‘Ã³ng vai trÃ² nhÆ° má»™t trá»£ lÃ½ thÃ´ng minh, cÃ³ kháº£ nÄƒng phÃ¢n tÃ­ch sá»Ÿ thÃ­ch vÃ  nhu cáº§u cá»§a ngÆ°á»i dÃ¹ng Ä‘á»ƒ trÃ­ch xuáº¥t dá»¯ liá»‡u, tá»« Ä‘Ã³ Ä‘Æ°a ra danh sÃ¡ch gá»£i Ã½ cÃ¡c nhÃ  hÃ ng phÃ¹ há»£p nháº¥t giÃºp ngÆ°á»i dÃ¹ng dá»… dÃ ng lá»±a chá»n.
+Vá» máº·t nghiá»‡p vá»¥, dá»± Ã¡n mang láº¡i má»™t há»‡ sinh thÃ¡i kÃ©p tá»‘i Æ°u cho cáº£ hai Ä‘á»‘i tÆ°á»£ng. Äá»‘i vá»›i ngÆ°á»i dÃ¹ng, á»©ng dá»¥ng cung cáº¥p tiá»‡n Ã­ch tÃ­ch há»£p cho phÃ©p tham kháº£o thá»±c Ä‘Æ¡n sá»‘ hÃ³a, thá»±c hiá»‡n Ä‘áº·t mÃ³n trÆ°á»›c (Pre-order) song song vá»›i viá»‡c Ä‘áº·t bÃ n tá»« xa, giÃºp chá»§ Ä‘á»™ng thá»i gian vÃ  cÃ¡ nhÃ¢n hÃ³a tráº£i nghiá»‡m Äƒn uá»‘ng. Äá»‘i vá»›i Ä‘Æ¡n vá»‹ kinh doanh, há»‡ thá»‘ng cung cáº¥p cÃ´ng cá»¥ quáº£n trá»‹ chuyÃªn sÃ¢u nháº±m giÃ¡m sÃ¡t tráº¡ng thÃ¡i Ä‘áº·t chá»—, giÃºp tá»‘i Æ°u hÃ³a cÃ´ng suáº¥t phá»¥c vá»¥ vÃ  giáº£m thiá»ƒu rá»§i ro há»§y bÃ n khÃ´ng bÃ¡o trÆ°á»›c.
+
+
+
+
+ABSTRACT
+As Ho Chi Minh City solidifies its status as a premier economic and tourism hub, the demand for high-quality culinary experiences combined with convenient reservation processes has become increasingly urgent. However, localized overcrowding and a lack of transparent service information remain significant barriers for visitors. This thesis focuses on the research, design, and implementation of the website â€œFood Mapâ€, a comprehensive digital platform aimed at addressing the connectivity challenge between diners and food and beverage (F&B) establishments within Ho Chi Minh City.
+Regarding technology, the system is constructed upon a modern architecture with MongoDB Geospatial serving as the core database. This optimizes geospatial storage and querying capabilities, enabling real-time localization and mapping of restaurants. Furthermore, to elevate the user experience, the application integrates an AI Chatbot powered by the Google Gemini API. Utilizing RAG (Retrieval-Augmented Generation) techniques, the Chatbot functions as an intelligent culinary assistant capable of analyzing user preferences and requirements to extract data, thereby providing a curated list of the most suitable restaurant recommendations to facilitate user decision-making.
+In terms of business operations, the project delivers a dual ecosystem optimized for both stakeholders. For users, the application offers an integrated utility process: allowing access to digital menus and enabling pre-ordering in parallel with remote table reservation. This helps users proactively manage their time and personalize their dining experience. For businesses, the system provides specialized management tools to monitor reservation status, thereby optimizing service capacity and minimizing the risk of unannounced cancellations (no-shows).
+
+Lá»œI Cáº¢M Æ N
+Äá»ƒ hoÃ n thÃ nh khÃ³a luáº­n tá»‘t nghiá»‡p nÃ y, trÆ°á»›c háº¿t, chÃºng em xin bÃ y tá» lÃ²ng kÃ­nh trá»ng vÃ  lá»i cáº£m Æ¡n chÃ¢n thÃ nh nháº¥t Ä‘áº¿n Ban GiÃ¡m hiá»‡u cÃ¹ng toÃ n thá»ƒ quÃ½ Tháº§y, CÃ´ táº¡i TrÆ°á»ng Äáº¡i há»c CÃ´ng nghiá»‡p ThÃ nh phá»‘ Há»“ ChÃ­ Minh. MÃ´i trÆ°á»ng giÃ¡o dá»¥c chuyÃªn nghiá»‡p cÃ¹ng nhá»¯ng kiáº¿n thá»©c ná»n táº£ng quÃ½ bÃ¡u mÃ  quÃ½ Tháº§y, CÃ´ Ä‘Ã£ táº­n tÃ¬nh truyá»n Ä‘áº¡t trong suá»‘t bá»‘n nÄƒm qua chÃ­nh lÃ  hÃ nh trang vá»¯ng cháº¯c nháº¥t, giÃºp chÃºng em cÃ³ Ä‘á»§ nÄƒng lá»±c vÃ  tÆ° duy Ä‘á»ƒ thá»±c hiá»‡n Ä‘á» tÃ i nghiÃªn cá»©u nÃ y.
+Äáº·c biá»‡t, chÃºng em xin gá»­i lá»i tri Ã¢n sÃ¢u sáº¯c Ä‘áº¿n ThS. Äá»— HÃ  PhÆ°Æ¡ng - ngÆ°á»i giáº£ng viÃªn Ä‘Ã£ trá»±c tiáº¿p hÆ°á»›ng dáº«n vÃ  Ä‘á»“ng hÃ nh cÃ¹ng chÃºng em trong suá»‘t quÃ¡ trÃ¬nh thá»±c hiá»‡n khÃ³a luáº­n. Tháº§y khÃ´ng chá»‰ Ä‘Æ°a ra nhá»¯ng Ä‘á»‹nh hÆ°á»›ng nghiÃªn cá»©u rÃµ rÃ ng mÃ  cÃ²n táº­n tÃ¢m Ä‘Æ°a ra nhá»¯ng gÃ³p Ã½ chuyÃªn mÃ´n thiáº¿t thá»±c, giÃºp nhÃ³m kháº¯c phá»¥c cÃ¡c trá»Ÿ ngáº¡i ká»¹ thuáº­t Ä‘á»ƒ hoÃ n thiá»‡n Ä‘á» tÃ i: â€œXÃ¢y dá»±ng á»©ng dá»¥ng giÃºp tÃ¬m kiáº¿m vÃ  gá»£i Ã½ nhÃ  hÃ ng sá»­ dá»¥ng MongDb Geospatial vÃ  Chatbot AIâ€.
+ChÃºng em cÅ©ng xin trÃ¢n trá»ng gá»­i lá»i cáº£m Æ¡n Ä‘áº¿n quÃ½ Tháº§y, CÃ´ thuá»™c Khoa CÃ´ng nghá»‡ ThÃ´ng tin. Sá»± chá»‰ báº£o táº­n tÃ¬nh vÃ  nhá»¯ng kinh nghiá»‡m thá»±c tiá»…n mÃ  quÃ½ Tháº§y, CÃ´ chia sáº» Ä‘Ã£ gÃ³p pháº§n xÃ¢y dá»±ng tÆ° duy láº­p trÃ¬nh vÃ  ká»¹ nÄƒng giáº£i quyáº¿t váº¥n Ä‘á», giÃºp chÃºng em tá»± tin hÆ¡n trÃªn con Ä‘Æ°á»ng nghiÃªn cá»©u khoa há»c vÃ  phÃ¡t triá»ƒn sá»± nghiá»‡p trong tÆ°Æ¡ng lai.
+Cuá»‘i cÃ¹ng, sá»± giÃºp Ä‘á»¡ cá»§a gia Ä‘Ã¬nh vÃ  sá»± sáº» chia, khÃ­ch lá»‡ tá»« báº¡n bÃ¨ lÃ  nguá»“n Ä‘á»™ng viÃªn tinh tháº§n to lá»›n, lÃ  háº­u phÆ°Æ¡ng vá»¯ng cháº¯c luÃ´n á»§ng há»™ vÃ  táº¡o Ä‘iá»u kiá»‡n tá»‘t nháº¥t Ä‘á»ƒ chÃºng em hoÃ n thÃ nh tá»‘t khÃ³a luáº­n tá»‘t nghiá»‡p.
+Do kiáº¿n thá»©c vÃ  thá»i gian cÃ²n háº¡n cháº¿, khÃ³a luáº­n khÃ³ trÃ¡nh khá»i nhá»¯ng thiáº¿u sÃ³t. ChÃºng em ráº¥t mong nháº­n Ä‘Æ°á»£c nhá»¯ng Ã½ kiáº¿n Ä‘Ã³ng gÃ³p quÃ½ bÃ¡u tá»« quÃ½ Tháº§y, CÃ´ vÃ  Há»™i Ä‘á»“ng chuyÃªn mÃ´n Ä‘á»ƒ Ä‘á» tÃ i Ä‘Æ°á»£c hoÃ n thiá»‡n vÃ  phÃ¡t triá»ƒn tá»‘t hÆ¡n.
+ChÃºng em xin chÃ¢n thÃ nh cáº£m Æ¡n!
+
+
+
+
+Nháº­n xÃ©t cá»§a giáº£ng viÃªn hÆ°á»›ng dáº«n
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				TP. Há»“ ChÃ­ Minh, ngÃ yâ€¦. thÃ¡ngâ€¦. nÄƒmâ€¦.
+	                                                                              Chá»¯ kÃ½ cá»§a giáº£ng viÃªn
+
+
+Nháº­n xÃ©t cá»§a giáº£ng viÃªn pháº£n biá»‡n 1
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				TP. Há»“ ChÃ­ Minh, ngÃ yâ€¦. thÃ¡ngâ€¦.  nÄƒmâ€¦.
+	                                                                              Chá»¯ kÃ½ cá»§a giáº£ng viÃªn
+
+
+Nháº­n xÃ©t cá»§a giáº£ng viÃªn pháº£n biá»‡n 2
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				TP. Há»“ ChÃ­ Minh, ngÃ yâ€¦. thÃ¡ngâ€¦.  nÄƒmâ€¦.
+	                                                                              Chá»¯ kÃ½ cá»§a giáº£ng viÃªn
+
+
+
+DANH Má»¤C HÃŒNH áº¢NH
+	HÃ¬nh  1 Cáº¥u trÃºc cá»§a má»™t á»©ng dá»¥ng Next.js	10
+	HÃ¬nh  2 Server-Side Rendering (SSR)	11
+	HÃ¬nh  3 Static Site Generation (SSG)	12
+	HÃ¬nh  4 MapBox	21
+	HÃ¬nh  5 MongoDB	37
+	HÃ¬nh  6 SÆ¡ Ä‘á»“ luá»“ng xá»­ lÃ½ thá»±c táº¿ cá»§a AI Agent trÃªn ná»n táº£ng n8n	45
+	HÃ¬nh  7 Giao diá»‡n trang chá»§ cá»§a ShopeeFood	47
+	HÃ¬nh  8 Giao diá»‡n trang ShopeeFood	48
+	HÃ¬nh  9 Giao diá»‡n trang chi tiáº¿t sáº£n pháº©m cá»§a ShopeeFood	48
+	HÃ¬nh  10 Giao diá»‡n trang há»“ sÆ¡ cá»§a tÃ´i cá»§a ShopeeFood.vn	49
+	HÃ¬nh  11 Giao diá»‡n trang chá»§ cá»§a Foody.vn	51
+	HÃ¬nh  12 Giao diá»‡n trang chi tiáº¿t sáº£n pháº©m cá»§a Foody.vn	52
+	HÃ¬nh  13 Giao diá»‡n trang tÃ i khoáº£n cá»§a Foody.vn	52
+	HÃ¬nh  14 Giao diá»‡n Website cá»§a ná»n táº£ng Riviu	55
+	HÃ¬nh  15 Giao diá»‡n hiá»ƒn thá»‹ bÃ i Ä‘Ã¡nh giÃ¡ trÃªn ná»n táº£ng Riviu	55
+	HÃ¬nh  16 SÆ¡ Ä‘á»“ kiáº¿n trÃºc há»‡ thá»‘ng(Nest.js -Next.js-MongoDB)	58
+	HÃ¬nh  17 SÆ¡ Ä‘á»“ Usecase tá»•ng quÃ¡t	62
+	HÃ¬nh  18 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng kÃ½	63
+	HÃ¬nh  19 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng nháº­p	65
+	HÃ¬nh  20 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ Usecase quÃªn máº­t kháº©u	67
+	HÃ¬nh  21 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng xuáº¥t	69
+	HÃ¬nh  22 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘áº·t mÃ³n	71
+	HÃ¬nh  23 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase táº¡o bÃ i viáº¿t blog	74
+	HÃ¬nh  24 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase cáº­p nháº­t tÃ i khoáº£n	77
+	HÃ¬nh  25 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Ã¡nh giÃ¡	79
+	HÃ¬nh  26 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ nhÃ  hÃ ng	81
+	HÃ¬nh  27 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n	84
+	HÃ¬nh  28 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng	86
+	HÃ¬nh  29 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ review	88
+	HÃ¬nh  30 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Äƒng nháº­p	98
+	HÃ¬nh  31 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Äƒng kÃ½	98
+	HÃ¬nh  32 SÆ¡ Ä‘á»“ tuáº§n tá»± gá»­i mÃ£ PIN	99
+	HÃ¬nh  33 SÆ¡ Ä‘á»“ tuáº§n tá»± xÃ¡c thá»±c mÃ£ PIN	99
+	HÃ¬nh  34 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘áº·t máº­t kháº©u má»›i	100
+	HÃ¬nh  35 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Ã¡nh giÃ¡	100
+	HÃ¬nh  36 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘áº·t mÃ³n	101
+	HÃ¬nh  37 SÆ¡ Ä‘á»“ tuáº§n tá»± viáº¿t blog	101
+	HÃ¬nh  38 SÆ¡ Ä‘á»“ tuáº§n tá»± TrÃ² chuyá»‡n ngÆ°á»i dÃ¹ng	102
+	HÃ¬nh  39 LÆ°á»£c Ä‘á»“ cÆ¡ sá»Ÿ dá»¯ liá»‡u dáº¡ng logical (Entity - Relationship Diagram)	103
+	HÃ¬nh  40 Modle xin vá»‹ trÃ­	126
+	HÃ¬nh  41 Giao diá»‡n trang chá»§	126
+	HÃ¬nh  42 Giao diá»‡n trang Ä‘Äƒng nháº­p	127
+	HÃ¬nh  43 Giao diá»‡n khÃ´i phá»¥c máº­t kháº©u	127
+	HÃ¬nh  44 Giao diá»‡n nháº­p mÃ£ pin xÃ¡c nháº­n	128
+	HÃ¬nh  45 Giao diá»‡n email gá»­i mÃ£ PIN xÃ¡c nháº­n Ä‘áº·t láº¡i máº­t kháº©u	128
+	HÃ¬nh  46 Giao diá»‡n táº¡o máº­t kháº©u má»›i	129
+	HÃ¬nh  47 Giao diá»‡n trang Ä‘Äƒng kÃ½	129
+	HÃ¬nh  48 Giao diá»‡n trang quÃ¡n gáº§n báº¡n	130
+	HÃ¬nh  49 Giao diá»‡n trang mÃ³n Äƒn Æ°u Ä‘Ã£i hot	130
+	HÃ¬nh  50 Giao diá»‡n trang danh sÃ¡ch quÃ¡n	131
+	HÃ¬nh  51 Giao diá»‡n trang chi tiáº¿t nhÃ  hÃ ng	131
+	HÃ¬nh  52 Giao diá»‡n trang viáº¿t blog	132
+	HÃ¬nh  53 Giao diá»‡n chatbot	132
+	HÃ¬nh  54 Model chatbot	133
+	HÃ¬nh  55 Giao diá»‡n trang tá»•ng quan cá»§a owner	133
+	HÃ¬nh  56 Giao diá»‡n trang quáº£n lÃ½ thÃ´ng tin nhÃ  hÃ ng	134
+	HÃ¬nh  57 Giao diá»‡n xem Ä‘Ã¡nh giÃ¡ vÃ  pháº£n há»“i	134
+	HÃ¬nh  58 Giao diá»‡n trang quáº£n lÃ½ menu nhÃ  hÃ ng	135
+	HÃ¬nh  59 Giao diá»‡n trang thÃªm menu nhÃ  hÃ ng	135
+	HÃ¬nh  60 Giao diá»‡n trang  xá»­ lÃ½ Ä‘áº·t bÃ n	136
+	HÃ¬nh  61 Giao diá»‡n trang tá»•ng quan admin	136
+	HÃ¬nh  62 Giao diá»‡n trang danh sÃ¡ch nhÃ  hÃ ng	137
+	HÃ¬nh  63 Giao diá»‡n trang danh sÃ¡ch bÃ i viáº¿t	137
+	HÃ¬nh  64 Giao diá»‡n trang thÃ´ng tin ngÆ°á»i dÃ¹ng	138
+	HÃ¬nh  65 Giao diá»‡n trang táº¡o bÃ i viáº¿t blog	138
+	HÃ¬nh  66 Giao diá»‡n thÃªm sáº£n pháº©m vÃ o giá» hÃ ng	139
+	HÃ¬nh  67 Giao diá»‡n form Ä‘iá»n thÃ´ng tin Ä‘áº·t bÃ n	139
+
+	
+
+DANH Má»¤C Báº¢NG
+	Báº£ng 1 Äáº·c táº£ Usecase ÄÄƒng kÃ½	64
+	Báº£ng 2 Äáº·c táº£ usecase Ä‘Äƒng nháº­p	66
+	Báº£ng 3 Äáº·c táº£ usecase quÃªn máº­t kháº©u	68
+	Báº£ng 4 Äáº·c táº£ usecase Ä‘Äƒng xuáº¥t	70
+	Báº£ng 5 Äáº·c táº£ Usecase Ä‘áº·t mÃ³n	74
+	Báº£ng 6 Äáº·c táº£ usecase quáº£n lÃ½ blog	76
+	Báº£ng 7 Äáº·c táº£ usecase cáº­p nháº­t tÃ i khoáº£n	78
+	Báº£ng 8 Äáº·c táº£ usecase Ä‘Ã¡nh giÃ¡	80
+	Báº£ng 9 Äáº·c táº£ usecase quáº£n lÃ½ nhÃ  hÃ ng	83
+	Báº£ng 10 Äáº·c táº£ usecase Ä‘áº·t mÃ³n	85
+	Báº£ng 11 Äáº·c táº£ usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng	87
+	Báº£ng 12 Äáº·c táº£ usecase quáº£n lÃ½ review	89
+	Báº£ng 13 Báº£ng mÃ£ thÃ´ng bÃ¡o há»‡ thá»‘ng	97
+	Báº£ng 14 Äáº·c táº£ báº£ng users trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	107
+	Báº£ng 15 Äáº·c táº£ báº£ng UserHistory trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	107
+	Báº£ng 16 Äáº·c táº£ báº£ng Reviews trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	109
+	Báº£ng 17 Äáº·c táº£ báº£ng Restaurants trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	112
+	Báº£ng 18 Äáº·c táº£ báº£ng Categories trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	114
+	Báº£ng 19 Äáº·c táº£ báº£ng Blogs trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	118
+	Báº£ng 20 Äáº·c táº£ báº£ng trong cÆ¡ sá»Ÿ dá»¯ liá»‡u Menu	122
+	Báº£ng 21 Äáº·c táº£ báº£ng PreOrders trong cÆ¡ sá»Ÿ dá»¯ liá»‡u	125
+	Báº£ng 22 Báº£ng Ká»‹ch báº£n Kiá»ƒm thá»­ Pháº§n má»m	146
+	Báº£ng 23 Báº£ng BÃ¡o cÃ¡o Káº¿t quáº£ Kiá»ƒm thá»­	148
+	
+	
+	
+	
+
+DANH Má»¤C Tá»ª VIáº¾T Táº®T
+
+	
+	
+CHÆ¯Æ NG I: GIá»šI THIá»†U
+1.1 Äáº·t váº¥n Ä‘á»
+Trong bá»‘i cáº£nh há»™i nháº­p vÃ  phÃ¡t triá»ƒn, Viá»‡t Nam Ä‘ang tá»«ng bÆ°á»›c kháº³ng Ä‘á»‹nh vá»‹ tháº¿ trÃªn báº£n Ä‘á»“ du lá»‹ch quá»‘c táº¿, trong Ä‘Ã³ áº©m thá»±c Ä‘Ã³ng vai trÃ² lÃ  má»™t trong nhá»¯ng yáº¿u tá»‘ then chá»‘t táº¡o nÃªn sá»©c hÃºt Ä‘á»‘i vá»›i du khÃ¡ch. Äáº·c biá»‡t táº¡i ThÃ nh phá»‘ Há»“ ChÃ­ Minh - trung tÃ¢m kinh táº¿ vÃ  vÄƒn hÃ³a lá»›n nháº¥t cáº£ nÆ°á»›c - nhu cáº§u du lá»‹ch káº¿t há»£p tráº£i nghiá»‡m áº©m thá»±c cá»§a du khÃ¡ch trong vÃ  ngoÃ i nÆ°á»›c Ä‘ang ghi nháº­n sá»± tÄƒng trÆ°á»Ÿng máº¡nh máº½. Tuy nhiÃªn, thá»±c táº¿ cho tháº¥y du khÃ¡ch hiá»‡n nay Ä‘ang pháº£i Ä‘á»‘i máº·t vá»›i nhiá»u háº¡n cháº¿ Ä‘Ã¡ng ká»ƒ liÃªn quan Ä‘áº¿n sá»± thiáº¿u há»¥t thÃ´ng tin chÃ­nh xÃ¡c vÃ  cháº¥t lÆ°á»£ng khÃ´ng Ä‘Æ°á»£c Ä‘áº£m báº£o.
+Váº¥n Ä‘á» cáº¥p thiáº¿t nháº¥t hiá»‡n nay lÃ  tÃ¬nh tráº¡ng thÃ´ng tin giÃ¡ cáº£ chÆ°a Ä‘Æ°á»£c niÃªm yáº¿t cÃ´ng khai hoáº·c thiáº¿u sá»± nháº¥t quÃ¡n táº¡i má»™t sá»‘ Ä‘iá»ƒm Ä‘áº¿n ná»•i tiáº¿ng nhÆ° khu vá»±c chá»£ Báº¿n ThÃ nh, phá»‘ Ä‘i bá»™, hay cÃ¡c khu phá»‘ áº©m thá»±c Ä‘Ãªm sáº§m uáº¥t. Äiá»u nÃ y gÃ¢y khÃ³ khÄƒn cho du khÃ¡ch trong viá»‡c xÃ¡c Ä‘á»‹nh má»©c chi phÃ­ thá»±c táº¿ so vá»›i giÃ¡ trá»‹ dá»‹ch vá»¥. BÃªn cáº¡nh Ä‘Ã³, nhá»¯ng lo ngáº¡i vá» tiÃªu chuáº©n vá»‡ sinh an toÃ n thá»±c pháº©m táº¡i cÃ¡c cÆ¡ sá»Ÿ kinh doanh Äƒn uá»‘ng, cÅ©ng nhÆ° sá»± chÃªnh lá»‡ch giá»¯a cháº¥t lÆ°á»£ng sáº£n pháº©m thá»±c táº¿ so vá»›i thÃ´ng tin quáº£ng bÃ¡ trÃªn cÃ¡c phÆ°Æ¡ng tiá»‡n truyá»n thÃ´ng, Ä‘ang áº£nh hÆ°á»Ÿng trá»±c tiáº¿p Ä‘áº¿n niá»m tin vÃ  tráº£i nghiá»‡m cá»§a du khÃ¡ch. Máº·c dÃ¹ khá»‘i lÆ°á»£ng thÃ´ng tin vá» Ä‘á»‹a Ä‘iá»ƒm Äƒn uá»‘ng hiá»‡n nay ráº¥t lá»›n, nhÆ°ng láº¡i tá»“n táº¡i trong tÃ¬nh tráº¡ng rá»i ráº¡c, phÃ¢n tÃ¡n, thiáº¿u tÃ­nh há»‡ thá»‘ng vÃ  cÃ¡c cÆ¡ cháº¿ kiá»ƒm chá»©ng Ä‘á»™ tin cáº­y.
+CÃ¡c ná»n táº£ng cÃ´ng nghá»‡ hiá»‡n hÃ nh chá»§ yáº¿u táº­p trung vÃ o dá»‹ch vá»¥ giao nháº­n Ä‘á»“ Äƒn hoáº·c Ä‘Ã¡nh giÃ¡ dá»±a trÃªn cá»™ng Ä‘á»“ng, bá»™c lá»™ nhiá»u háº¡n cháº¿ trong viá»‡c há»— trá»£ du khÃ¡ch tra cá»©u thÃ´ng tin xÃ¡c thá»±c. NgÆ°á»i dÃ¹ng thÆ°á»ng gáº·p khÃ³ khÄƒn trong viá»‡c sÃ ng lá»c cÃ¡c Ä‘á»‹a Ä‘iá»ƒm uy tÃ­n, Ä‘áº£m báº£o vá»‡ sinh vÃ  phÃ¹ há»£p vá»›i lá»™ trÃ¬nh tham quan giá»¯a má»™t lÆ°á»£ng thÃ´ng tin quÃ¡ táº£i vÃ  chÆ°a Ä‘Æ°á»£c kiá»ƒm duyá»‡t cháº·t cháº½.
+Xuáº¥t phÃ¡t tá»« nhu cáº§u thá»±c táº¿ Ä‘Ã³, viá»‡c nghiÃªn cá»©u vÃ  xÃ¢y dá»±ng há»‡ thá»‘ng â€œBáº£n Ä‘á»“ áº©m thá»±c du lá»‹châ€ lÃ  vÃ´ cÃ¹ng cáº¥p thiáº¿t. Äá» tÃ i Ä‘á» xuáº¥t phÃ¡t triá»ƒn giáº£i phÃ¡p tÃ­ch há»£p cÃ´ng nghá»‡ báº£n Ä‘á»“ sá»‘ hiá»‡n Ä‘áº¡i nháº±m tá»‘i Æ°u hÃ³a hiá»‡u suáº¥t tÃ¬m kiáº¿m dá»¯ liá»‡u theo vá»‹ trÃ­ Ä‘á»‹a lÃ½, há»— trá»£ du khÃ¡ch Ä‘á»‹nh vá»‹ chÃ­nh xÃ¡c vÃ  thuáº­n tiá»‡n cÃ¡c cÆ¡ sá»Ÿ kinh doanh uy tÃ­n. Äáº·c biá»‡t, há»‡ thá»‘ng tÃ­ch há»£p Trá»£ lÃ½ áº£o thÃ´ng minh Ä‘Ã³ng vai trÃ² nhÆ° má»™t ngÆ°á»i hÆ°á»›ng dáº«n viÃªn, cÃ³ kháº£ nÄƒng phÃ¢n tÃ­ch nhu cáº§u cÃ¡ nhÃ¢n hÃ³a Ä‘á»ƒ Ä‘á» xuáº¥t cÃ¡c Ä‘á»‹a Ä‘iá»ƒm Ä‘áº£m báº£o tiÃªu chÃ­ vá» cháº¥t lÆ°á»£ng, vá»‡ sinh vÃ  giÃ¡ cáº£ rÃµ rÃ ng. Giáº£i phÃ¡p nÃ y khÃ´ng chá»‰ gÃ³p pháº§n nÃ¢ng cao tráº£i nghiá»‡m an toÃ n cho du khÃ¡ch mÃ  cÃ²n há»— trá»£ cÃ¡c Ä‘Æ¡n vá»‹ kinh doanh quáº£n lÃ½ vÃ  tÆ°Æ¡ng tÃ¡c hiá»‡u quáº£ vá»›i khÃ¡ch hÃ ng thÃ´ng qua há»‡ thá»‘ng giao tiáº¿p trá»±c tuyáº¿n.
+1.2 LÃ½ do chá»n Ä‘á» tÃ i
+TrÆ°á»›c bá»‘i cáº£nh thá»±c táº¿ nÃªu trÃªn, Ä‘á» tÃ i â€œBáº£n Ä‘á»“ áº©m thá»±c du lá»‹ch - á»¨ng dá»¥ng Ä‘á»‹nh vá»‹ vÃ  quáº£n lÃ½ dá»¯ liá»‡u nhÃ  hÃ ng sá»­ dá»¥ng cÃ´ng nghá»‡ báº£n Ä‘á»“ sá»‘ vÃ  tÃ­ch há»£p Trá»£ lÃ½ áº£o AIâ€ Ä‘Æ°á»£c tÃ¡c giáº£ lá»±a chá»n nghiÃªn cá»©u vÃ  thá»±c hiá»‡n xuáº¥t phÃ¡t tá»« ba Ä‘á»™ng lá»±c then chá»‘t sau:
+Thá»© nháº¥t lÃ  tÃ­nh cáº¥p thiáº¿t trong viá»‡c nÃ¢ng cao tráº£i nghiá»‡m du lá»‹ch thÃ´ng minh vÃ  giáº£i quyáº¿t sá»± báº¥t cáº­p cá»§a há»‡ thá»‘ng thÃ´ng tin hiá»‡n táº¡i. Táº¡i cÃ¡c trung tÃ¢m du lá»‹ch lá»›n nhÆ° ThÃ nh phá»‘ Há»“ ChÃ­ Minh, máº·c dÃ¹ tÃ i nguyÃªn áº©m thá»±c vÃ´ cÃ¹ng Ä‘a dáº¡ng vÃ  phong phÃº, há»‡ thá»‘ng thÃ´ng tin phá»¥c vá»¥ du khÃ¡ch váº«n tá»“n táº¡i nhiá»u háº¡n cháº¿, Ä‘áº·c biá»‡t lÃ  tÃ¬nh tráº¡ng dá»¯ liá»‡u phÃ¢n tÃ¡n, thiáº¿u tÃ­nh há»‡ thá»‘ng vÃ  chÆ°a cÃ³ cÆ¡ cháº¿ kiá»ƒm chá»©ng Ä‘á»™ tin cáº­y. KhÃ¡ch du lá»‹ch, Ä‘áº·c biá»‡t lÃ  khÃ¡ch quá»‘c táº¿ hoáº·c du khÃ¡ch tá»« cÃ¡c Ä‘á»‹a phÆ°Æ¡ng khÃ¡c, thÆ°á»ng gáº·p pháº£i rÃ o cáº£n lá»›n vá» ngÃ´n ngá»¯, thiáº¿u sá»± am hiá»ƒu vá» Ä‘á»‹a bÃ n vÃ  tÃ¢m lÃ½ e ngáº¡i Ä‘á»‘i vá»›i cÃ¡c váº¥n Ä‘á» vá» an toÃ n dá»‹ch vá»¥, Ä‘iá»ƒn hÃ¬nh lÃ  tÃ¬nh tráº¡ng thÃ´ng tin giÃ¡ cáº£ thiáº¿u nháº¥t quÃ¡n vÃ  cháº¥t lÆ°á»£ng khÃ´ng Ä‘Æ°á»£c Ä‘áº£m báº£o. Nhu cáº§u cá»§a thá»‹ trÆ°á»ng Ä‘Ã£ chuyá»ƒn dá»‹ch máº¡nh máº½ tá»« viá»‡c tra cá»©u thá»¥ Ä‘á»™ng sang mong muá»‘n cÃ³ má»™t trá»£ lÃ½ du lá»‹ch thÃ´ng minh Ä‘á»ƒ Ä‘Æ°a ra cÃ¡c gá»£i Ã½ chÃ­nh xÃ¡c vÃ  an toÃ n. Äá» tÃ i Ä‘Æ°á»£c thá»±c hiá»‡n nháº±m giáº£i quyáº¿t nhá»¯ng báº¥t cáº­p nÃ y, cung cáº¥p má»™t ná»n táº£ng chuyÃªn biá»‡t giÃºp tá»‘i Æ°u hÃ³a hÃ nh trÃ¬nh khÃ¡m phÃ¡ vÄƒn hÃ³a áº©m thá»±c cho du khÃ¡ch.
+Thá»© hai lÃ  yÃªu cáº§u á»©ng dá»¥ng cÃ¡c cÃ´ng nghá»‡ tiÃªn tiáº¿n Ä‘á»ƒ giáº£i quyáº¿t bÃ i toÃ¡n tá»‘i Æ°u hÃ³a Ä‘á»‹nh vá»‹ vÃ  tÆ° váº¥n tá»± Ä‘á»™ng. NghiÃªn cá»©u nÃ y lÃ  bÆ°á»›c Ä‘i tiÃªn phong trong viá»‡c tÃ­ch há»£p Ä‘a dáº¡ng cÃ¡c giáº£i phÃ¡p ká»¹ thuáº­t hiá»‡n Ä‘áº¡i vÃ o lÄ©nh vá»±c du lá»‹ch. Cá»¥ thá»ƒ, Ä‘á» tÃ i táº­p trung khai thÃ¡c sá»©c máº¡nh cá»§a cÃ´ng nghá»‡ lÆ°u trá»¯ vÃ  xá»­ lÃ½ dá»¯ liá»‡u khÃ´ng gian (Geospatial Database) nháº±m giáº£i quyáº¿t bÃ i toÃ¡n phá»©c táº¡p vá» truy váº¥n vá»‹ trÃ­ Ä‘á»‹a lÃ½ vá»›i tá»‘c Ä‘á»™ cao vÃ  Ä‘á»™ trá»… tháº¥p, Ä‘Ã¡p á»©ng nhu cáº§u tÃ¬m kiáº¿m Ä‘á»‹a Ä‘iá»ƒm theo thá»i gian thá»±c (LBS) khi du khÃ¡ch Ä‘ang di chuyá»ƒn. Äáº·c biá»‡t, viá»‡c á»©ng dá»¥ng cÃ¡c mÃ´ hÃ¬nh ngÃ´n ngá»¯ lá»›n (LLMs) vÃ  cÃ´ng nghá»‡ TrÃ­ tuá»‡ nhÃ¢n táº¡o táº¡o sinh (Generative AI) giÃºp chuyá»ƒn Ä‘á»•i hoÃ n toÃ n mÃ´ hÃ¬nh tÆ°Æ¡ng tÃ¡c giá»¯a ngÆ°á»i vÃ  mÃ¡y. Tá»« cÆ¡ cháº¿ â€œnháº­p liá»‡u - tÃ¬m kiáº¿mâ€ truyá»n thá»‘ng, há»‡ thá»‘ng chuyá»ƒn sang cÆ¡ cháº¿ â€œhá»™i thoáº¡i - tÆ° váº¥nâ€ tá»± nhiÃªn, Ä‘Ã³ng vai trÃ² nhÆ° má»™t hÆ°á»›ng dáº«n viÃªn báº£n Ä‘á»‹a áº£o, khÃ´ng chá»‰ cung cáº¥p thÃ´ng tin mÃ  cÃ²n phÃ¢n tÃ­ch nhu cáº§u Ä‘á»ƒ xÃ¢y dá»±ng lá»‹ch trÃ¬nh tráº£i nghiá»‡m phÃ¹ há»£p nháº¥t.
+Thá»© ba lÃ  Ã½ nghÄ©a thá»±c tiá»…n vÃ  giÃ¡ trá»‹ xÃ£ há»™i trong viá»‡c thÃºc Ä‘áº©y chuyá»ƒn Ä‘á»•i sá»‘ ngÃ nh du lá»‹ch. Äá» tÃ i khÃ´ng chá»‰ dá»«ng láº¡i á»Ÿ viá»‡c hiá»‡n thá»±c hÃ³a cÃ¡c kiáº¿n thá»©c cÃ´ng nghá»‡ thÃ´ng tin vÃ o má»™t sáº£n pháº©m á»©ng dá»¥ng cá»¥ thá»ƒ, mÃ  cÃ²n hÆ°á»›ng tá»›i viá»‡c táº¡o ra nhá»¯ng giÃ¡ trá»‹ cá»™ng Ä‘á»“ng sÃ¢u sáº¯c. á»¨ng dá»¥ng Ä‘Æ°á»£c ká»³ vá»ng trá»Ÿ thÃ nh cáº§u ná»‘i tin cáº­y: má»™t máº·t giÃºp du khÃ¡ch an tÃ¢m tráº£i nghiá»‡m áº©m thá»±c, giáº£m thiá»ƒu cÃ¡c rá»§i ro vá» dá»‹ch vá»¥ kÃ©m vÃ  tÃ¬nh tráº¡ng thÃ´ng tin giÃ¡ cáº£ khÃ´ng minh báº¡ch; máº·t khÃ¡c há»— trá»£ cÃ¡c Ä‘Æ¡n vá»‹ kinh doanh dá»‹ch vá»¥ Äƒn uá»‘ng (F&B) chÃ¢n chÃ­nh tiáº¿p cáº­n hiá»‡u quáº£ nguá»“n khÃ¡ch du lá»‹ch tiá»m nÄƒng. ThÃ´ng qua viá»‡c á»©ng dá»¥ng cÃ´ng nghá»‡ giao tiáº¿p thá»i gian thá»±c, há»‡ thá»‘ng giÃºp tá»‘i Æ°u hÃ³a quy trÃ¬nh váº­n hÃ nh vÃ  tÆ°Æ¡ng tÃ¡c tá»©c thá»i giá»¯a doanh nghiá»‡p vÃ  khÃ¡ch hÃ ng, gÃ³p pháº§n xÃ¢y dá»±ng hÃ¬nh áº£nh du lá»‹ch áº©m thá»±c Viá»‡t Nam chuyÃªn nghiá»‡p, hiá»‡n Ä‘áº¡i vÃ  an toÃ n trong ká»· nguyÃªn sá»‘. 
+1.3 Má»¥c tiÃªu nghiÃªn cá»©u
+TrÃªn cÆ¡ sá»Ÿ phÃ¢n tÃ­ch bá»‘i cáº£nh thá»±c tiá»…n vÃ  tÃ­nh cáº¥p thiáº¿t cá»§a Ä‘á» tÃ i, nghiÃªn cá»©u xÃ¡c Ä‘á»‹nh cÃ¡c má»¥c tiÃªu cá»‘t lÃµi cáº§n Ä‘áº¡t Ä‘Æ°á»£c nhÆ° sau:
+1.3.1. Má»¥c tiÃªu tá»•ng quÃ¡t 
+NghiÃªn cá»©u hÆ°á»›ng tá»›i viá»‡c kiáº¿n táº¡o vÃ  hoÃ n thiá»‡n há»‡ sinh thÃ¡i sá»‘ â€œBáº£n Ä‘á»“ áº©m thá»±c du lá»‹châ€ Ä‘Ã³ng vai trÃ² cáº§u ná»‘i tin cáº­y giá»¯a khÃ¡ch du lá»‹ch vÃ  vÄƒn hÃ³a áº©m thá»±c báº£n Ä‘á»‹a. Há»‡ thá»‘ng cung cáº¥p giáº£i phÃ¡p tra cá»©u áº©m thá»±c du lá»‹ch thÃ´ng minh, tá»‘i Æ°u hÃ³a theo nhu cáº§u cÃ¡ nhÃ¢n, Ä‘áº£m báº£o ngÆ°á»i dÃ¹ng tiáº¿p cáº­n Ä‘Æ°á»£c dá»‹ch vá»¥ vÃ  cháº¥t lÆ°á»£ng mÃ³n Äƒn tÆ°Æ¡ng xá»©ng vá»›i ká»³ vá»ng.
+ThÃ´ng qua viá»‡c giáº£i quyáº¿t cÃ¡c báº¥t cáº­p vá» thÃ´ng tin rá»i ráº¡c vÃ  thiáº¿u kiá»ƒm chá»©ng, há»‡ thá»‘ng hÆ°á»›ng Ä‘áº¿n má»¥c tiÃªu mang láº¡i tráº£i nghiá»‡m du lá»‹ch liá»n máº¡ch tá»« viá»‡c xÃ³a bá» rÃ o cáº£n ngÃ´n ngá»¯, minh báº¡ch hÃ³a giÃ¡ cáº£ Ä‘áº¿n cÃ¡ nhÃ¢n hÃ³a hÃ nh trÃ¬nh khÃ¡m phÃ¡. ÄÃ­ch Ä‘áº¿n cuá»‘i cÃ¹ng lÃ  giáº£i quyáº¿t triá»‡t Ä‘á»ƒ bÃ i toÃ¡n tÃ¬m kiáº¿m Ä‘á»‹a Ä‘iá»ƒm Äƒn uá»‘ng an toÃ n vÃ  chuáº©n vá»‹ cho du khÃ¡ch khi Ä‘áº·t chÃ¢n Ä‘áº¿n vÃ¹ng Ä‘áº¥t má»›i.
+1.3.2. Má»¥c tiÃªu cá»¥ thá»ƒ 
+Äá»ƒ hiá»‡n thá»±c hÃ³a má»¥c tiÃªu tá»•ng quÃ¡t, nghiÃªn cá»©u táº­p trung giáº£i quyáº¿t ba nhÃ³m bÃ i toÃ¡n ká»¹ thuáº­t vÃ  nghiá»‡p vá»¥ chuyÃªn sÃ¢u:
+XÃ¢y dá»±ng háº¡ táº§ng dá»¯ liá»‡u khÃ´ng gian vÃ  cÆ¡ cháº¿ kiá»ƒm soÃ¡t cháº¥t lÆ°á»£ng. Thiáº¿t káº¿ vÃ  triá»ƒn khai cÆ¡ sá»Ÿ dá»¯ liá»‡u sá»­ dá»¥ng cÃ´ng nghá»‡ MongoDB Geospatial nháº±m tá»‘i Æ°u hÃ³a kháº£ nÄƒng lÆ°u trá»¯ vÃ  truy váº¥n dá»¯ liá»‡u Ä‘á»‹a lÃ½ phá»©c táº¡p vá»›i hiá»‡u suáº¥t cao. Äá»“ng thá»i, xÃ¢y dá»±ng há»‡ thá»‘ng quáº£n trá»‹ vá»›i cÃ¡c quy trÃ¬nh sÃ ng lá»c nghiÃªm ngáº·t, Ä‘áº£m báº£o cÃ¡c Ä‘á»‹a Ä‘iá»ƒm hiá»ƒn thá»‹ trÃªn báº£n Ä‘á»“ Ä‘á»u Ä‘Ã¡p á»©ng tiÃªu chuáº©n vá» vá»‡ sinh an toÃ n thá»±c pháº©m vÃ  minh báº¡ch giÃ¡ cáº£, giÃºp du khÃ¡ch phÃ²ng trÃ¡nh rá»§i ro vá» dá»‹ch vá»¥ kÃ©m cháº¥t lÆ°á»£ng.
+PhÃ¡t triá»ƒn vÃ  tÃ­ch há»£p Trá»£ lÃ½ áº£o thÃ´ng minh. á»¨ng dá»¥ng cÃ¡c cÃ´ng nghá»‡ trÃ­ tuá»‡ nhÃ¢n táº¡o tiÃªn tiáº¿n bao gá»“m mÃ´ hÃ¬nh ngÃ´n ngá»¯ lá»›n Google Gemini káº¿t há»£p ná»n táº£ng n8n Ä‘á»ƒ xÃ¢y dá»±ng há»‡ thá»‘ng trá»£ lÃ½ áº£o tÆ°Æ¡ng tÃ¡c thÃ´ng minh. Thay vÃ¬ chá»‰ tráº£ lá»i theo ká»‹ch báº£n cÃ³ sáºµn, há»‡ thá»‘ng nÃ y Ä‘Æ°á»£c huáº¥n luyá»‡n Ä‘á»ƒ tháº¥u hiá»ƒu ngá»¯ cáº£nh vÃ  nhu cáº§u thá»±c táº¿ cá»§a ngÆ°á»i dÃ¹ng, tá»« Ä‘Ã³ Ä‘Æ°a ra cÃ¡c lá»™ trÃ¬nh Äƒn uá»‘ng Ä‘Æ°á»£c cÃ¡ nhÃ¢n hÃ³a cao Ä‘á»™ vÃ  há»— trá»£ phiÃªn dá»‹ch ngÃ´n ngá»¯, Ä‘Ã³ng vai trÃ² nhÆ° má»™t ngÆ°á»i báº¡n Ä‘á»“ng hÃ nh am hiá»ƒu Ä‘á»‹a phÆ°Æ¡ng.
+HoÃ n thiá»‡n tráº£i nghiá»‡m tÆ°Æ¡ng tÃ¡c thá»i gian thá»±c. XÃ¢y dá»±ng giao diá»‡n ngÆ°á»i dÃ¹ng trá»±c quan tÃ­ch há»£p báº£n Ä‘á»“ sá»‘, há»— trá»£ Ä‘á»‹nh vá»‹ vÃ  dáº«n Ä‘Æ°á»ng chÃ­nh xÃ¡c. á»¨ng dá»¥ng cÃ´ng nghá»‡ WebSocket Ä‘á»ƒ thiáº¿t láº­p kÃªnh giao tiáº¿p tá»©c thá»i, cho phÃ©p cáº­p nháº­t tráº¡ng thÃ¡i Ä‘áº·t bÃ n vÃ  pháº£n há»“i Ä‘Æ¡n hÃ ng ngay láº­p tá»©c. BÃªn cáº¡nh Ä‘Ã³, triá»ƒn khai há»‡ thá»‘ng Ä‘Ã¡nh giÃ¡ minh báº¡ch nháº±m táº¡o dá»±ng cá»™ng Ä‘á»“ng chia sáº» tráº£i nghiá»‡m khÃ¡ch quan, gÃ³p pháº§n nÃ¢ng cao uy tÃ­n cho cÃ¡c cÆ¡ sá»Ÿ kinh doanh Ä‘áº¡t chuáº©n.
+1.4 Pháº¡m vi Ä‘á» tÃ i vÃ  giá»›i háº¡n cá»§a Ä‘á» tÃ i
+Äá»ƒ Ä‘áº£m báº£o tÃ­nh kháº£ thi vÃ  táº­p trung nguá»“n lá»±c giáº£i quyáº¿t triá»‡t Ä‘á»ƒ cÃ¡c váº¥n Ä‘á» cá»‘t lÃµi trong khuÃ´n khá»• thá»i gian thá»±c hiá»‡n khÃ³a luáº­n, Ä‘á» tÃ i giá»›i háº¡n pháº¡m vi nghiÃªn cá»©u vÃ  triá»ƒn khai trÃªn cÃ¡c phÆ°Æ¡ng diá»‡n sau:
+1.4.1. Vá» pháº¡m vi chá»©c nÄƒng 
+Há»‡ thá»‘ng Ä‘Æ°á»£c Ä‘á»‹nh hÆ°á»›ng phÃ¡t triá»ƒn chuyÃªn sÃ¢u vÃ o tráº£i nghiá»‡m â€œDu lá»‹ch thÃ´ng minhâ€ vÃ  â€œKáº¿t ná»‘i tin cáº­yâ€, cá»¥ thá»ƒ:
+NhÃ³m tÃ­nh nÄƒng nghiá»‡p vá»¥ cá»‘t lÃµi. Táº­p trung hoÃ n thiá»‡n cÃ¡c chá»©c nÄƒng thiáº¿t yáº¿u phá»¥c vá»¥ nhu cáº§u tÃ¬m kiáº¿m thá»±c táº¿ cá»§a ngÆ°á»i dÃ¹ng. Há»‡ thá»‘ng há»— trá»£ tra cá»©u Ä‘a chiá»u dá»±a trÃªn ngá»¯ cáº£nh ngÆ°á»i dÃ¹ng (nhÆ° tÃ¬m kiáº¿m theo tÃªn mÃ³n Äƒn cá»¥ thá»ƒ, loáº¡i hÃ¬nh áº©m thá»±c mong muá»‘n hoáº·c tÃ¬m quÃ¡n Äƒn gáº§n vá»‹ trÃ­ hiá»‡n táº¡i) káº¿t há»£p vá»›i Há»‡ thá»‘ng Ä‘Ã¡nh giÃ¡, xáº¿p háº¡ng minh báº¡ch nháº±m loáº¡i bá» thÃ´ng tin áº£o, nÃ¢ng cao Ä‘á»™ tin cáº­y cá»§a dá»¯ liá»‡u.
+Há»‡ thá»‘ng trá»£ lÃ½ áº£o tÆ°Æ¡ng tÃ¡c thÃ´ng minh. TÃ­nh nÄƒng nÃ y Ä‘Æ°á»£c giá»›i háº¡n trong pháº¡m vi tÆ° váº¥n áº©m thá»±c vÃ  vÄƒn hÃ³a. Äáº·c biá»‡t, Trá»£ lÃ½ áº£o hoáº¡t Ä‘á»™ng dá»±a trÃªn cÆ¡ cháº¿ truy xuáº¥t dá»¯ liá»‡u trá»±c tiáº¿p tá»« cÆ¡ sá»Ÿ dá»¯ liá»‡u cá»§a há»‡ thá»‘ng. Thay vÃ¬ tráº£ lá»i dá»±a trÃªn kiáº¿n thá»©c phá»• quÃ¡t, Trá»£ lÃ½ áº£o sáº½ trÃ­ch xuáº¥t cÃ¡c thÃ´ng tin xÃ¡c thá»±c (nhÆ° tÃªn quÃ¡n, Ä‘á»‹a chá»‰, má»©c giÃ¡ trung bÃ¬nh, giá» má»Ÿ cá»­a) Ä‘á»ƒ pháº£n há»“i ngÆ°á»i dÃ¹ng, Ä‘áº£m báº£o tÃ­nh chÃ­nh xÃ¡c vÃ  Ä‘á»“ng bá»™ vá»›i dá»¯ liá»‡u thá»±c táº¿.
+CÆ¡ cháº¿ thanh toÃ¡n. NghiÃªn cá»©u khÃ´ng Ä‘i sÃ¢u vÃ o viá»‡c tÃ­ch há»£p cÃ¡c cá»•ng thanh toÃ¡n trung gian phá»©c táº¡p. Thay vÃ o Ä‘Ã³, há»‡ thá»‘ng táº­p trung tá»‘i Æ°u hÃ³a quy trÃ¬nh xÃ¡c nháº­n thanh toÃ¡n trá»±c tiáº¿p linh hoáº¡t qua mÃ£ QR hoáº·c chuyá»ƒn khoáº£n nhanh, phÃ¹ há»£p vá»›i thá»±c táº¿ váº­n hÃ nh cá»§a cÃ¡c quÃ¡n Äƒn Ä‘á»‹a phÆ°Æ¡ng vá»«a vÃ  nhá».
+1.4.2. Vá» pháº¡m vi cÃ´ng nghá»‡
+ Äá» tÃ i giá»›i háº¡n viá»‡c nghiÃªn cá»©u vÃ  Ã¡p dá»¥ng cÃ¡c cÃ´ng nghá»‡ tá»‘i Æ°u nháº¥t cho bÃ i toÃ¡n Ä‘á»‹nh vá»‹ vÃ  há»— trá»£ ngÆ°á»i dÃ¹ng di chuyá»ƒn liÃªn tá»¥c, Æ°u tiÃªn tráº£i nghiá»‡m trÃªn thiáº¿t bá»‹ di Ä‘á»™ng.
+Háº¡ táº§ng dá»¯ liá»‡u: Sá»­ dá»¥ng cÃ´ng nghá»‡ MongoDB Geospatial lÃ m ná»n táº£ng lÆ°u trá»¯ chÃ­nh Ä‘á»ƒ xá»­ lÃ½ hiá»‡u quáº£ cÃ¡c truy váº¥n khÃ´ng gian phá»©c táº¡p vá»›i Ä‘á»™ trá»… tháº¥p.
+CÃ´ng nghá»‡ hiá»ƒn thá»‹ vÃ  dáº«n Ä‘Æ°á»ng: Sá»­ dá»¥ng Mapbox GL JS lÃ m ná»n táº£ng hiá»ƒn thá»‹ báº£n Ä‘á»“ ná»n nhá» kháº£ nÄƒng tÃ¹y biáº¿n giao diá»‡n trá»±c quan. Äá»‘i vá»›i chá»©c nÄƒng Ä‘iá»u hÆ°á»›ng vÃ  chá»‰ Ä‘Æ°á»ng thá»i gian thá»±c, há»‡ thá»‘ng sá»­ dá»¥ng cÆ¡ cháº¿ chuyá»ƒn tiáº¿p sang cÃ¡c á»©ng dá»¥ng báº£n Ä‘á»“ chuyÃªn dá»¥ng (Google Maps, Apple Maps). Giáº£i phÃ¡p nÃ y giÃºp táº­n dá»¥ng nguá»“n dá»¯ liá»‡u giao thÃ´ng chÃ­nh xÃ¡c sáºµn cÃ³, Ä‘áº£m báº£o du khÃ¡ch luÃ´n tÃ¬m Ä‘Æ°á»£c lá»™ trÃ¬nh tá»‘i Æ°u mÃ  khÃ´ng lÃ m tÄƒng Ä‘á»™ phá»©c táº¡p khÃ´ng cáº§n thiáº¿t cho há»‡ thá»‘ng.
+1.4.3. Vá» pháº¡m vi dá»¯ liá»‡u vÃ  khÃ´ng gian
+Khu vá»±c triá»ƒn khai: Trong pháº¡m vi nghiÃªn cá»©u hiá»‡n táº¡i, há»‡ thá»‘ng chá»‰ táº­p trung triá»ƒn khai vÃ  thu tháº­p dá»¯ liá»‡u táº¡i Ä‘á»‹a bÃ n ThÃ nh phá»‘ Há»“ ChÃ­ Minh. Cá»¥ thá»ƒ, dá»¯ liá»‡u Ä‘Æ°á»£c chuáº©n hÃ³a Æ°u tiÃªn cho cÃ¡c khu vá»±c trung tÃ¢m vÃ  Ä‘iá»ƒm nÃ³ng du lá»‹ch (nhÆ° Quáº­n 1, Quáº­n 3, Quáº­n 5).
+TiÃªu chuáº©n dá»¯ liá»‡u: Dá»¯ liá»‡u Ä‘Æ°a vÃ o há»‡ thá»‘ng Ä‘Æ°á»£c giá»›i háº¡n á»Ÿ cÃ¡c Ä‘á»‹a Ä‘iá»ƒm Ä‘Ã£ qua quy trÃ¬nh sÃ ng lá»c cÆ¡ báº£n, Ä‘áº£m báº£o tÃ­nh minh báº¡ch vá» giÃ¡ cáº£ vÃ  Ä‘á»‹a chá»‰ Ä‘á»ƒ cam káº¿t cháº¥t lÆ°á»£ng Ä‘áº§u ra cho ngÆ°á»i dÃ¹ng.
+1.4.4. Háº¡n cháº¿ cá»§a Ä‘á» tÃ i 
+BÃªn cáº¡nh cÃ¡c pháº¡m vi nÃªu trÃªn, Ä‘á» tÃ i cÃ²n tá»“n táº¡i má»™t sá»‘ háº¡n cháº¿ khÃ¡ch quan trong giai Ä‘oáº¡n hiá»‡n táº¡i:
+Háº¡n cháº¿ vá» há»— trá»£ Ä‘a ngÃ´n ngá»¯: Há»‡ thá»‘ng hiá»‡n táº¡i táº­p trung tá»‘i Æ°u hÃ³a dá»¯ liá»‡u vÃ  giao diá»‡n ngÆ°á»i dÃ¹ng cho ngÃ´n ngá»¯ tiáº¿ng Viá»‡t. TÃ­nh nÄƒng há»— trá»£ tiáº¿ng Anh vÃ  cÃ¡c ngÃ´n ngá»¯ quá»‘c táº¿ khÃ¡c chÆ°a Ä‘Æ°á»£c tÃ­ch há»£p hoÃ n chá»‰nh á»Ÿ phiÃªn báº£n nÃ y.
+Háº¡n cháº¿ vá» pháº¡m vi Ä‘á»‹a lÃ½: Do giá»›i háº¡n vá» thá»i gian vÃ  nguá»“n lá»±c, há»‡ thá»‘ng chÆ°a bao phá»§ dá»¯ liá»‡u á»Ÿ cÃ¡c tá»‰nh thÃ nh du lá»‹ch khÃ¡c ngoÃ i ThÃ nh phá»‘ Há»“ ChÃ­ Minh. Viá»‡c má»Ÿ rá»™ng quy mÃ´ dá»¯ liá»‡u toÃ n quá»‘c lÃ  hÆ°á»›ng phÃ¡t triá»ƒn Ä‘Æ°á»£c Ä‘á» xuáº¥t trong tÆ°Æ¡ng lai.
+1.5 Cáº¥u trÃºc khÃ³a luáº­n
+Cáº¥u trÃºc cá»§a khÃ³a luáº­n Ä‘Æ°á»£c tá»• chá»©c cháº·t cháº½ thÃ nh 06 chÆ°Æ¡ng vá»›i ná»™i dung chi tiáº¿t nhÆ° sau:
+ChÆ°Æ¡ng 1: Giá»›i thiá»‡u TrÃ¬nh bÃ y tá»•ng quan vá» bá»‘i cáº£nh nghiÃªn cá»©u, kháº³ng Ä‘á»‹nh tÃ­nh cáº¥p thiáº¿t cá»§a Ä‘á» tÃ i trong viá»‡c phÃ¡t triá»ƒn du lá»‹ch thÃ´ng minh. Äá»“ng thá»i, chÆ°Æ¡ng nÃ y xÃ¡c Ä‘á»‹nh rÃµ má»¥c tiÃªu nghiÃªn cá»©u, Ä‘á»‘i tÆ°á»£ng, pháº¡m vi vÃ  giá»›i háº¡n triá»ƒn khai cá»§a há»‡ thá»‘ng â€œBáº£n Ä‘á»“ áº©m thá»±c du lá»‹châ€.
+ChÆ°Æ¡ng 2: CÆ¡ sá»Ÿ LÃ½ thuyáº¿t Há»‡ thá»‘ng hÃ³a cÃ¡c kiáº¿n thá»©c ná»n táº£ng vÃ  cÃ´ng nghá»‡ chá»§ chá»‘t Ä‘Æ°á»£c Ã¡p dá»¥ng trong Ä‘á» tÃ i, bao gá»“m: Kiáº¿n trÃºc Next.js, cÃ´ng nghá»‡ cÆ¡ sá»Ÿ dá»¯ liá»‡u khÃ´ng gian MongoDB Geospatial, ká»¹ thuáº­t truy xuáº¥t dá»¯ liá»‡u tÄƒng cÆ°á»ng á»©ng dá»¥ng trong xÃ¢y dá»±ng trá»£ lÃ½ áº£o thÃ´ng minh vÃ  quy trÃ¬nh tá»± Ä‘á»™ng hÃ³a vá»›i ná»n táº£ng n8n.
+ChÆ°Æ¡ng 3: Kháº£o sÃ¡t vÃ  ÄÃ¡nh giÃ¡ cÃ¡c Ná»n táº£ng hiá»‡n cÃ³ Táº­p trung kháº£o sÃ¡t, phÃ¢n tÃ­ch Ä‘áº·c Ä‘iá»ƒm vÃ  quy trÃ¬nh váº­n hÃ nh cá»§a cÃ¡c á»©ng dá»¥ng tra cá»©u, giao nháº­n Ä‘á»“ Äƒn phá»• biáº¿n cÅ©ng nhÆ° cÃ¡c kÃªnh Ä‘Ã¡nh giÃ¡ áº©m thá»±c trÃªn máº¡ng xÃ£ há»™i hiá»‡n nay. Qua Ä‘Ã³, nghiÃªn cá»©u chá»‰ ra nhá»¯ng Æ°u Ä‘iá»ƒm vÃ  cÃ¡c háº¡n cháº¿ tá»“n Ä‘á»ng vá» tÃ­nh xÃ¡c thá»±c cá»§a thÃ´ng tin, lÃ m cÆ¡ sá»Ÿ thá»±c tiá»…n Ä‘á»ƒ Ä‘á» xuáº¥t giáº£i phÃ¡p thiáº¿t káº¿ há»‡ thá»‘ng tá»‘i Æ°u hÆ¡n.
+ChÆ°Æ¡ng 4: PhÃ¢n tÃ­ch vÃ  Äáº·c táº£ Chá»©c nÄƒng Há»‡ thá»‘ng PhÃ¢n tÃ­ch chi tiáº¿t cÃ¡c yÃªu cáº§u nghiá»‡p vá»¥ vÃ  Ä‘áº·c táº£ chá»©c nÄƒng cá»§a há»‡ thá»‘ng. Ná»™i dung táº­p trung lÃ m rÃµ cÃ¡c luá»“ng dá»¯ liá»‡u tÆ°Æ¡ng tÃ¡c giá»¯a ngÆ°á»i dÃ¹ng, báº£n Ä‘á»“ sá»‘ vÃ  há»‡ thá»‘ng trá»£ lÃ½ áº£o thÃ´ng minh nháº±m Ä‘áº£m báº£o tÃ­nh logic vÃ  hiá»‡u quáº£ váº­n hÃ nh.
+ChÆ°Æ¡ng 5: Thiáº¿t káº¿ vÃ  Triá»ƒn khai Há»‡ thá»‘ng TrÃ¬nh bÃ y chi tiáº¿t kiáº¿n trÃºc tá»•ng thá»ƒ cá»§a há»‡ thá»‘ng, thiáº¿t káº¿ giao diá»‡n vÃ  tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng. ChÆ°Æ¡ng nÃ y cÅ©ng mÃ´ táº£ quÃ¡ trÃ¬nh hiá»‡n thá»±c hÃ³a cÃ¡c chá»©c nÄƒng cá»‘t lÃµi trÃªn mÃ´i trÆ°á»ng thá»±c táº¿, tá»« viá»‡c xÃ¢y dá»±ng cÆ¡ sá»Ÿ dá»¯ liá»‡u Ä‘áº¿n tÃ­ch há»£p cÃ¡c dá»‹ch vá»¥ trÃ­ tuá»‡ nhÃ¢n táº¡o.
+ChÆ°Æ¡ng 6: Káº¿t luáº­n vÃ  HÆ°á»›ng phÃ¡t triá»ƒn Tá»•ng káº¿t cÃ¡c káº¿t quáº£ Ä‘áº¡t Ä‘Æ°á»£c so vá»›i má»¥c tiÃªu Ä‘áº·t ra ban Ä‘áº§u, nhÃ¬n nháº­n khÃ¡ch quan cÃ¡c háº¡n cháº¿ cÃ²n tá»“n táº¡i cá»§a há»‡ thá»‘ng. Tá»« Ä‘Ã³, Ä‘á» xuáº¥t lá»™ trÃ¬nh nÃ¢ng cáº¥p vÃ  má»Ÿ rá»™ng quy mÃ´ á»©ng dá»¥ng trong tÆ°Æ¡ng lai.
+
+
+
+CHÆ¯Æ NG II: CÆ  Sá»ž LÃ THUYáº¾T
+2.1 Front-end
+2.1.1  Next.js
+Next.js Ä‘Æ°á»£c Ä‘á»‹nh nghÄ©a lÃ  má»™t framework toÃ n diá»‡n (comprehensive framework) Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn ná»n táº£ng thÆ° viá»‡n React, cung cáº¥p giáº£i phÃ¡p tá»‘i Æ°u cho quy trÃ¬nh phÃ¡t triá»ƒn á»©ng dá»¥ng web hiá»‡n Ä‘áº¡i [20]. Framework nÃ y tÃ­ch há»£p sáºµn cÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t tiÃªn tiáº¿n bao gá»“m render phÃ­a mÃ¡y chá»§ (Server-Side Rendering - SSR), táº¡o trang tÄ©nh (Static Site Generation - SSG), há»‡ thá»‘ng Ä‘á»‹nh tuyáº¿n tá»± Ä‘á»™ng vÃ  kháº£ nÄƒng tÃ­ch há»£p API linh hoáº¡t [21]. Nhá» nhá»¯ng Ä‘áº·c tÃ­nh nÃ y, Next.js trá»Ÿ thÃ nh cÃ´ng cá»¥ Ä‘áº¯c lá»±c Ä‘á»ƒ xÃ¢y dá»±ng Ä‘a dáº¡ng cÃ¡c loáº¡i hÃ¬nh pháº§n má»m, tá»« blog cÃ¡ nhÃ¢n, trang thÃ´ng tin doanh nghiá»‡p cho Ä‘áº¿n cÃ¡c ná»n táº£ng thÆ°Æ¡ng máº¡i Ä‘iá»‡n tá»­ quy mÃ´ lá»›n [16].
+Má»¥c tiÃªu cá»‘t lÃµi cá»§a Next.js lÃ  giáº£i quyáº¿t cÃ¡c háº¡n cháº¿ vá» hiá»‡u nÄƒng vÃ  kháº£ nÄƒng hiá»ƒn thá»‹ thÆ°á»ng gáº·p á»Ÿ cÃ¡c á»©ng dá»¥ng React thuáº§n tÃºy (Client-side Rendering), Ä‘áº·c biá»‡t lÃ  váº¥n Ä‘á» tá»‘i Æ°u hÃ³a cÃ´ng cá»¥ tÃ¬m kiáº¿m (SEO) vÃ  tá»‘c Ä‘á»™ táº£i trang ban Ä‘áº§u [14]. ThÃ´ng qua cÆ¡ cháº¿ render tá»« phÃ­a server hoáº·c táº¡o trang tÄ©nh ngay táº¡i thá»i Ä‘iá»ƒm build, Next.js Ä‘áº£m báº£o ná»™i dung Ä‘Æ°á»£c hiá»ƒn thá»‹ tá»©c thá»i giÃºp ngÆ°á»i dÃ¹ng truy cáº­p nhanh chÃ³ng, Ä‘á»“ng thá»i táº¡o Ä‘iá»u kiá»‡n thuáº­n lá»£i cho cÃ¡c cÃ´ng cá»¥ tÃ¬m kiáº¿m láº­p chá»‰ má»¥c dá»¯ liá»‡u hiá»‡u quáº£ [16], [20].
+
+
+HÃ¬nh  1 Cáº¥u trÃºc cá»§a má»™t á»©ng dá»¥ng Next.js [20]
+2.1.1.1 CÃ¡c tÃ­nh nÄƒng chÃ­nh cá»§a Next.js
+2.1.1.1.1 Server-Side Rendering (SSR) 
+Server-Side Rendering (SSR) lÃ  má»™t cÆ¡ cháº¿ váº­n hÃ nh cá»‘t lÃµi cá»§a Next.js, cho phÃ©p mÃ£ nguá»“n HTML cá»§a trang web Ä‘Æ°á»£c khá»Ÿi táº¡o vÃ  hoÃ n thiá»‡n trÃªn mÃ¡y chá»§ (server) trÆ°á»›c khi gá»­i pháº£n há»“i vá» trÃ¬nh duyá»‡t cá»§a ngÆ°á»i dÃ¹ng [21]. Ká»¹ thuáº­t nÃ y giÃºp cáº£i thiá»‡n Ä‘Ã¡ng ká»ƒ tá»‘c Ä‘á»™ hiá»ƒn thá»‹ ná»™i dung (First Contentful Paint), mang láº¡i tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng mÆ°á»£t mÃ , Ä‘áº·c biá»‡t trong Ä‘iá»u kiá»‡n káº¿t ná»‘i máº¡ng bÄƒng thÃ´ng tháº¥p hoáº·c khÃ´ng á»•n Ä‘á»‹nh [14]. Äá»“ng thá»i, SSR Ä‘Ã³ng vai trÃ² then chá»‘t trong viá»‡c nÃ¢ng cao hiá»‡u quáº£ SEO do ná»™i dung trang web Ä‘Æ°á»£c hiá»ƒn thá»‹ Ä‘áº§y Ä‘á»§ ngay tá»« láº§n táº£i Ä‘áº§u tiÃªn, táº¡o Ä‘iá»u kiá»‡n thuáº­n lá»£i cho cÃ¡c bot tÃ¬m kiáº¿m truy cáº­p dá»¯ liá»‡u [16].
+
+
+
+HÃ¬nh  2 Server-Side Rendering (SSR) [14]
+CÃ¡c lá»£i Ã­ch chÃ­nh:
+Tá»‘i Æ°u hÃ³a kháº£ nÄƒng láº­p chá»‰ má»¥c: CÃ¡c cÃ´ng cá»¥ tÃ¬m kiáº¿m nhÆ° Google cÃ³ thá»ƒ dá»… dÃ ng tiáº¿p cáº­n vÃ  phÃ¢n tÃ­ch ná»™i dung trang web ngay láº­p tá»©c mÃ  khÃ´ng cáº§n chá» quÃ¡ trÃ¬nh thá»±c thi JavaScript á»Ÿ phÃ­a client, tá»« Ä‘Ã³ giÃºp cáº£i thiá»‡n thá»© háº¡ng trÃªn trang káº¿t quáº£ tÃ¬m kiáº¿m [16].
+NÃ¢ng cao hiá»‡u suáº¥t táº£i trang: NgÆ°á»i dÃ¹ng sáº½ nháº­n Ä‘Æ°á»£c giao diá»‡n trang web Ä‘Ã£ Ä‘Æ°á»£c render sáºµn tá»« server, giÃºp giáº£m thiá»ƒu Ä‘á»™ trá»… vÃ  thá»i gian chá» Ä‘á»£i Ä‘á»‘i vá»›i cÃ¡c trang web cÃ³ chá»©a nhiá»u dá»¯ liá»‡u Ä‘á»™ng [14].
+2.1.1.1.2 Static Site Generation (SSG):
+Song song vá»›i SSR, Next.js cung cáº¥p giáº£i phÃ¡p Static Site Generation (SSG), cho phÃ©p khá»Ÿi táº¡o toÃ n bá»™ mÃ£ nguá»“n HTML cá»§a cÃ¡c trang web ngay táº¡i thá»i Ä‘iá»ƒm xÃ¢y dá»±ng á»©ng dá»¥ng (build time) [21]. CÃ¡c trang tÄ©nh nÃ y sau Ä‘Ã³ Ä‘Æ°á»£c lÆ°u trá»¯ vÃ  cÃ³ thá»ƒ phá»¥c vá»¥ ngÆ°á»i dÃ¹ng ngay láº­p tá»©c mÃ  khÃ´ng cáº§n thÃ´ng qua bÆ°á»›c xá»­ lÃ½ logic táº¡i mÃ¡y chá»§ cho má»—i lÆ°á»£t truy cáº­p [14]. ÄÃ¢y Ä‘Æ°á»£c xem lÃ  giáº£i phÃ¡p tá»‘i Æ°u nháº¥t cho cÃ¡c website cÃ³ ná»™i dung Ã­t thay Ä‘á»•i nhÆ° trang tin tá»©c (blog), trang tÃ i liá»‡u hoáº·c trang giá»›i thiá»‡u sáº£n pháº©m [16].
+
+HÃ¬nh  3 Static Site Generation (SSG) [21]
+CÃ¡c lá»£i Ã­ch ná»•i báº­t:
+Hiá»‡u nÄƒng vÆ°á»£t trá»™i: Do cÃ¡c trang Ä‘Ã£ Ä‘Æ°á»£c táº¡o sáºµn (pre-rendered) vÃ  lÆ°u trá»¯ dÆ°á»›i dáº¡ng tá»‡p tÄ©nh, há»‡ thá»‘ng cÃ³ thá»ƒ tá»‘i Ä‘a hÃ³a tá»‘c Ä‘á»™ pháº£n há»“i vÃ  giáº£m táº£i Ä‘Ã¡ng ká»ƒ cho mÃ¡y chá»§ [21].
+Há»— trá»£ SEO hiá»‡u quáº£: TÆ°Æ¡ng tá»± nhÆ° SSR, SSG táº¡o ra cÃ¡c tá»‡p HTML hoÃ n chá»‰nh giÃºp cÃ¡c cÃ´ng cá»¥ tÃ¬m kiáº¿m dá»… dÃ ng thu tháº­p vÃ  láº­p chá»‰ má»¥c dá»¯ liá»‡u [16].
+Tá»‘i Æ°u chi phÃ­ váº­n hÃ nh: Viá»‡c phá»¥c vá»¥ cÃ¡c tá»‡p tÄ©nh tiÃªu tá»‘n Ã­t tÃ i nguyÃªn hÆ¡n vÃ  cho phÃ©p tÃ­ch há»£p dá»… dÃ ng vá»›i cÃ¡c máº¡ng phÃ¢n phá»‘i ná»™i dung (CDN) Ä‘á»ƒ tÄƒng tá»‘c Ä‘á»™ truy cáº­p toÃ n cáº§u [16].
+
+2.1.1.1.3 Incremental Static Regeneration (ISR):
+Incremental Static Regeneration (ISR) lÃ  má»™t tÃ­nh nÄƒng tiÃªn tiáº¿n cho phÃ©p há»‡ thá»‘ng cáº­p nháº­t ná»™i dung cá»§a cÃ¡c trang tÄ©nh cá»¥ thá»ƒ mÃ  khÃ´ng yÃªu cáº§u pháº£i tÃ¡i cáº¥u trÃºc (rebuild) toÃ n bá»™ trang web. CÆ¡ cháº¿ nÃ y mang láº¡i sá»± linh hoáº¡t tá»‘i Ä‘a trong viá»‡c quáº£n lÃ½ ná»™i dung, Ä‘áº£m báº£o dá»¯ liá»‡u hiá»ƒn thá»‹ tá»›i ngÆ°á»i dÃ¹ng luÃ´n duy trÃ¬ tÃ­nh cáº­p nháº­t mÃ  khÃ´ng Ä‘Ã¡nh Ä‘á»•i hiá»‡u nÄƒng.[19]
+CÃ¡c lá»£i Ã­ch chÃ­nh:
+Cáº­p nháº­t linh hoáº¡t: Cho phÃ©p lÃ m má»›i dá»¯ liá»‡u trÃªn ná»n táº£ng trang tÄ©nh mÃ  khÃ´ng cáº§n thá»±c hiá»‡n quy trÃ¬nh build láº¡i toÃ n bá»™ á»©ng dá»¥ng, giÃºp tiáº¿t kiá»‡m tÃ i nguyÃªn vÃ  thá»i gian triá»ƒn khai [19].
+CÃ¢n báº±ng hiá»‡u nÄƒng: Duy trÃ¬ tá»‘c Ä‘á»™ pháº£n há»“i vÆ°á»£t trá»™i cá»§a cÃ´ng nghá»‡ trang tÄ©nh, Ä‘á»“ng thá»i váº«n Ä‘áº£m báº£o kháº£ nÄƒng cáº­p nháº­t ná»™i dung Ä‘á»™ng tÆ°Æ¡ng tá»± nhÆ° Render phÃ­a mÃ¡y chá»§ (SSR) [19].
+2.1.1.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.1.1.2.1 Æ¯u Ä‘iá»ƒm cá»§a Next.js
+Tá»‘i Æ°u hÃ³a SEO vÆ°á»£t trá»™i: ThÃ´ng qua cÆ¡ cháº¿ SSR vÃ  SSG, ná»™i dung trang web Ä‘Æ°á»£c hiá»ƒn thá»‹ hoÃ n chá»‰nh ngay tá»« láº§n táº£i Ä‘áº§u tiÃªn, giÃºp cÃ¡c trÃ¬nh thu tháº­p thÃ´ng tin láº­p chá»‰ má»¥c hiá»‡u quáº£ [16].
+Hiá»‡u suáº¥t váº­n hÃ nh cao: Cáº£i thiá»‡n tá»‘c Ä‘á»™ táº£i trang vÃ  nÃ¢ng cao tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng (UX), yáº¿u tá»‘ then chá»‘t Ä‘á»‘i vá»›i cÃ¡c ná»n táº£ng thÆ°Æ¡ng máº¡i Ä‘iá»‡n tá»­ [14].
+Kháº£ nÄƒng má»Ÿ rá»™ng linh hoáº¡t: ÄÃ¡p á»©ng tá»‘t cÃ¡c yÃªu cáº§u cá»§a há»‡ thá»‘ng phá»©c táº¡p nhá» kháº£ nÄƒng má»Ÿ rá»™ng (scalability) vÃ  tÃ­ch há»£p dá»… dÃ ng vá»›i há»‡ sinh thÃ¡i cÃ´ng nghá»‡ Ä‘a dáº¡ng [20].
+Tá»‘i Æ°u hÃ³a tÃ i nguyÃªn mÃ£ nguá»“n: CÆ¡ cháº¿ tá»± Ä‘á»™ng chia nhá» mÃ£ nguá»“n (Automatic Code Splitting) giÃºp giáº£m thiá»ƒu dung lÆ°á»£ng táº£i xuá»‘ng ban Ä‘áº§u, tá»‘i Æ°u hÃ³a bÄƒng thÃ´ng [20].
+2.1.1.2.2 NhÆ°á»£c Ä‘iá»ƒm cá»§a Next.js
+Äá»™ phá»©c táº¡p ká»¹ thuáº­t: Viá»‡c tÃ­ch há»£p cÃ¡c tÃ­nh nÄƒng nÃ¢ng cao lÃ m tÄƒng má»©c Ä‘á»™ phá»©c táº¡p cá»§a kiáº¿n trÃºc, Ä‘Ã²i há»i Ä‘á»™i ngÅ© phÃ¡t triá»ƒn cÃ³ kiáº¿n thá»©c chuyÃªn sÃ¢u vá» cáº£ React vÃ  server-side [16].
+CÃ¢n nháº¯c Ä‘á»‘i vá»›i dá»± Ã¡n quy mÃ´ nhá»: Äá»‘i vá»›i cÃ¡c á»©ng dá»¥ng Ä‘Æ¡n giáº£n, viá»‡c triá»ƒn khai Next.js cÃ³ thá»ƒ gÃ¢y lÃ£ng phÃ­ tÃ i nguyÃªn hÆ¡n so vá»›i sá»­ dá»¥ng React thuáº§n tÃºy [14].
+YÃªu cáº§u háº¡ táº§ng triá»ƒn khai: ÄÃ²i há»i mÃ´i trÆ°á»ng mÃ¡y chá»§ há»— trá»£ Node.js Ä‘á»ƒ thá»±c hiá»‡n SSR, dáº«n Ä‘áº¿n tÄƒng chi phÃ­ váº­n hÃ nh vÃ  Ä‘á»™ phá»©c táº¡p trong cáº¥u hÃ¬nh háº¡ táº§ng [21].
+2.1.2 Axios
+2.1.2.1 Axios lÃ  gÃ¬?
+Axios Ä‘Æ°á»£c Ä‘á»‹nh nghÄ©a lÃ  má»™t thÆ° viá»‡n HTTP client hoáº¡t Ä‘á»™ng dá»±a trÃªn cÆ¡ cháº¿ Promise, Ä‘Æ°á»£c thiáº¿t káº¿ Ä‘á»ƒ tÆ°Æ¡ng thÃ­ch vá»›i cáº£ mÃ´i trÆ°á»ng trÃ¬nh duyá»‡t (browser) vÃ  Node.js. Vá» máº·t chá»©c nÄƒng, Ä‘Ã¢y lÃ  cÃ´ng cá»¥ há»— trá»£ cÃ¡c á»©ng dá»¥ng JavaScript thá»±c hiá»‡n viá»‡c gá»­i yÃªu cáº§u Ä‘áº¿n mÃ¡y chá»§ nháº±m trao Ä‘á»•i dá»¯ liá»‡u. Má»™t Ä‘áº·c tÃ­nh ná»•i báº­t cá»§a Axios lÃ  kháº£ nÄƒng â€œisomorphicâ€, cho phÃ©p láº­p trÃ¬nh viÃªn sá»­ dá»¥ng Ä‘á»“ng nháº¥t má»™t Ä‘oáº¡n mÃ£ nguá»“n trÃªn cáº£ mÃ´i trÆ°á»ng front-end (thÃ´ng qua XMLHttpRequest) vÃ  back-end (thÃ´ng qua module http cá»§a Node.js).[3]
+Vá»›i cÃ¡c tÃ­nh nÄƒng cá»‘t lÃµi sau:
+Há»— trá»£ Promise API: Tá»‘i Æ°u hÃ³a viá»‡c xá»­ lÃ½ cÃ¡c yÃªu cáº§u báº¥t Ä‘á»“ng bá»™ vÃ  tÃ­ch há»£p liá»n máº¡ch vá»›i cÃº phÃ¡p async/await trong JavaScript hiá»‡n Ä‘áº¡i [3].
+CÆ¡ cháº¿ Interceptors: Cung cáº¥p kháº£ nÄƒng can thiá»‡p, giÃ¡m sÃ¡t vÃ  tÃ¹y chá»‰nh cÃ¡c yÃªu cáº§u (request) hoáº·c pháº£n há»“i (response) trÆ°á»›c khi chÃºng Ä‘Æ°á»£c gá»­i Ä‘i hoáº·c Ä‘Æ°á»£c xá»­ lÃ½ bá»Ÿi logic á»©ng dá»¥ng [3].
+Tá»± Ä‘á»™ng chuyá»ƒn Ä‘á»•i dá»¯ liá»‡u: Há»‡ thá»‘ng tá»± Ä‘á»™ng tuáº§n tá»± hÃ³a dá»¯ liá»‡u JavaScript thÃ nh chuá»—i JSON khi gá»­i yÃªu cáº§u vÃ  phÃ¢n tÃ­ch cÃº phÃ¡p dá»¯ liá»‡u JSON thÃ nh Ä‘á»‘i tÆ°á»£ng JavaScript khi nháº­n pháº£n há»“i [3].
+Há»§y bá» yÃªu cáº§u (Cancel Request): Cung cáº¥p cÆ¡ cháº¿ quáº£n lÃ½ tÃ i nguyÃªn hiá»‡u quáº£ báº±ng cÃ¡ch cho phÃ©p há»§y cÃ¡c yÃªu cáº§u Ä‘ang trong tráº¡ng thÃ¡i chá», giÃºp ngÄƒn cháº·n tÃ¬nh tráº¡ng rÃ² rá»‰ bá»™ nhá»› [3].
+Xá»­ lÃ½ lá»—i trá»±c quan: Tá»± Ä‘á»™ng nháº­n diá»‡n cÃ¡c mÃ£ tráº¡ng thÃ¡i HTTP náº±m ngoÃ i pháº¡m vi 200 lÃ  lá»—i, giÃºp Ä‘Æ¡n giáº£n hÃ³a quy trÃ¬nh báº¯t vÃ  xá»­ lÃ½ ngoáº¡i lá»‡ [3].
+Báº£o máº­t: TÃ­ch há»£p sáºµn cÃ¡c cÆ¡ cháº¿ báº£o vá»‡ phÃ­a client nháº±m chá»‘ng láº¡i cÃ¡c cuá»™c táº¥n cÃ´ng giáº£ máº¡o yÃªu cáº§u chÃ©o trang (XSRF) [3].
+2.1.2.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.1.2.2.1 Æ¯u Ä‘iá»ƒm
+ ÄÆ¡n giáº£n hÃ³a quy trÃ¬nh xá»­ lÃ½ lá»—i: KhÃ¡c vá»›i Fetch API, Axios tá»± Ä‘á»™ng tá»« chá»‘i (reject) promise khi gáº·p cÃ¡c mÃ£ lá»—i HTTP (nhÆ° 404, 500), cho phÃ©p láº­p trÃ¬nh viÃªn táº­p trung xá»­ lÃ½ lá»—i táº¡i khá»‘i catch() mÃ  khÃ´ng cáº§n kiá»ƒm tra thá»§ cÃ´ng tráº¡ng thÃ¡i pháº£n há»“i [3].
+Kháº£ nÄƒng can thiá»‡p máº¡nh máº½ (Interceptors): ÄÃ¢y lÃ  Æ°u Ä‘iá»ƒm vÆ°á»£t trá»™i cho phÃ©p triá»ƒn khai cÃ¡c logic chung cho toÃ n bá»™ á»©ng dá»¥ng, vÃ­ dá»¥ nhÆ° tá»± Ä‘á»™ng Ä‘Ã­nh kÃ¨m token xÃ¡c thá»±c vÃ o header hoáº·c xá»­ lÃ½ lá»—i 401 táº¡i má»™t Ä‘iá»ƒm duy nháº¥t [3].
+Tá»± Ä‘á»™ng hÃ³a xá»­ lÃ½ JSON: GiÃºp mÃ£ nguá»“n trá»Ÿ nÃªn ngáº¯n gá»n hÆ¡n báº±ng cÃ¡ch loáº¡i bá» cÃ¡c thao tÃ¡c thá»§ cÃ´ng nhÆ° JSON.stringify() cho request body hoáº·c response.json() khi Ä‘á»c dá»¯ liá»‡u tráº£ vá» [3].
+Kháº£ nÄƒng tÆ°Æ¡ng thÃ­ch ngÆ°á»£c: Nhá» Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn ná»n táº£ng XMLHttpRequest, Axios cÃ³ kháº£ nÄƒng hoáº¡t Ä‘á»™ng á»•n Ä‘á»‹nh trÃªn cÃ¡c trÃ¬nh duyá»‡t cÅ©, kháº¯c phá»¥c háº¡n cháº¿ cá»§a Fetch API [3].
+2.1.2.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Phá»¥ thuá»™c vÃ o thÆ° viá»‡n bÃªn ngoÃ i: Axios khÃ´ng pháº£i lÃ  module tÃ­ch há»£p sáºµn nhÆ° Fetch API, do Ä‘Ã³ yÃªu cáº§u quy trÃ¬nh cÃ i Ä‘áº·t vÃ  cáº¥u hÃ¬nh ban Ä‘áº§u trong dá»± Ã¡n [3].
+TÄƒng dung lÆ°á»£ng á»©ng dá»¥ng: Viá»‡c tÃ­ch há»£p Axios sáº½ lÃ m tÄƒng kÃ­ch thÆ°á»›c tá»‡p bundle JavaScript táº£i xuá»‘ng phÃ­a client, lÃ  yáº¿u tá»‘ cáº§n cÃ¢n nháº¯c trong cÃ¡c bÃ i toÃ¡n tá»‘i Æ°u hÃ³a hiá»‡u suáº¥t kháº¯t khe [3].
+CÃ¢n nháº¯c Ä‘á»‘i vá»›i dá»± Ã¡n quy mÃ´ nhá»: Äá»‘i vá»›i cÃ¡c tÃ¡c vá»¥ máº¡ng Ä‘Æ¡n giáº£n khÃ´ng yÃªu cáº§u tÃ­nh nÄƒng nÃ¢ng cao, viá»‡c sá»­ dá»¥ng Axios cÃ³ thá»ƒ trá»Ÿ nÃªn khÃ´ng cáº§n thiáº¿t; trong trÆ°á»ng há»£p nÃ y, Fetch API thuáº§n tÃºy lÃ  lá»±a chá»n tá»‘i Æ°u hÆ¡n.
+2.1.3 Tailwind CSS
+2.1.3.1 Tailwind CSS lÃ  gÃ¬? 
+Tailwind CSS Ä‘Æ°á»£c Ä‘á»‹nh nghÄ©a lÃ  má»™t framework CSS hiá»‡n Ä‘áº¡i Ä‘Æ°á»£c xÃ¢y dá»±ng dá»±a trÃªn triáº¿t lÃ½ â€œutility-firstâ€ (Æ°u tiÃªn tiá»‡n Ã­ch). KhÃ¡c biá»‡t hoÃ n toÃ n so vá»›i cÃ¡c framework truyá»n thá»‘ng nhÆ° Bootstrap vá»‘n cung cáº¥p cÃ¡c thÃ nh pháº§n giao diá»‡n (components) Ä‘Æ°á»£c thiáº¿t káº¿ sáºµn, Tailwind cung cáº¥p má»™t há»‡ thá»‘ng cÃ¡c lá»›p tiá»‡n Ã­ch cáº¥p tháº¥p (low-level utility classes). PhÆ°Æ¡ng phÃ¡p tiáº¿p cáº­n nÃ y cho phÃ©p láº­p trÃ¬nh viÃªn xÃ¢y dá»±ng giao diá»‡n tÃ¹y chá»‰nh linh hoáº¡t ngay trong tá»‡p HTML mÃ  khÃ´ng cáº§n viáº¿t CSS thá»§ cÃ´ng, giÃºp tá»‘i Æ°u hÃ³a quy trÃ¬nh phÃ¡t triá»ƒn.[17]
+CÃ¡c Ä‘áº·c Ä‘iá»ƒm ká»¹ thuáº­t cá»‘t lÃµi:
+Kiáº¿n trÃºc Utility-First: Cung cáº¥p hÃ ng ngÃ n lá»›p tiá»‡n Ã­ch nhá» gá»n (nhÆ° flex, pt-4, text-center), cho phÃ©p kiá»ƒm soÃ¡t chi tiáº¿t tá»«ng khÃ­a cáº¡nh cá»§a giao diá»‡n thiáº¿t káº¿ mÃ  khÃ´ng bá»‹ rÃ ng buá»™c bá»Ÿi cÃ¡c máº«u cÃ³ sáºµn [17].
+Kháº£ nÄƒng tÃ¹y biáº¿n cao (Customization): Há»‡ thá»‘ng cho phÃ©p Ä‘á»‹nh nghÄ©a vÃ  má»Ÿ rá»™ng â€œDesign Systemâ€ (há»‡ thá»‘ng thiáº¿t káº¿) riÃªng biá»‡t thÃ´ng qua tá»‡p cáº¥u hÃ¬nh tailwind.config.js. Láº­p trÃ¬nh viÃªn cÃ³ thá»ƒ thiáº¿t láº­p cÃ¡c biáº¿n sá»‘ vá» mÃ u sáº¯c, phÃ´ng chá»¯, vÃ  kÃ­ch thÆ°á»›c Ä‘á»ƒ Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n cho toÃ n bá»™ dá»± Ã¡n.
+Há»— trá»£ Responsive vÃ  Dark Mode: TÃ­ch há»£p sáºµn cÃ¡c tiá»n tá»‘ biáº¿n thá»ƒ (modifiers) nhÆ° md:, lg:, dark:, cho phÃ©p Ã¡p dá»¥ng cÃ¡c kiá»ƒu dÃ¡ng (styles) cÃ³ Ä‘iá»u kiá»‡n dá»±a trÃªn kÃ­ch thÆ°á»›c mÃ n hÃ¬nh hoáº·c cháº¿ Ä‘á»™ hiá»ƒn thá»‹ cá»§a thiáº¿t bá»‹ [17].
+Tá»‘i Æ°u hÃ³a hiá»‡u suáº¥t: ThÃ´ng qua cÆ¡ cháº¿ â€œPurgeCSSâ€ (hoáº·c JIT engine trong cÃ¡c phiÃªn báº£n má»›i), Tailwind tá»± Ä‘á»™ng loáº¡i bá» cÃ¡c lá»›p CSS khÃ´ng Ä‘Æ°á»£c sá»­ dá»¥ng trong quÃ¡ trÃ¬nh Ä‘Ã³ng gÃ³i (build), Ä‘áº£m báº£o kÃ­ch thÆ°á»›c tá»‡p CSS cuá»‘i cÃ¹ng á»Ÿ má»©c nhá» nháº¥t Ä‘á»ƒ tá»‘i Æ°u tá»‘c Ä‘á»™ táº£i trang.
+2.1.3.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.1.3.2.1 Æ¯u Ä‘iá»ƒm
+TÄƒng tá»‘c Ä‘á»™ phÃ¡t triá»ƒn: Viá»‡c sá»­ dá»¥ng cÃ¡c lá»›p tiá»‡n Ã­ch trá»±c tiáº¿p trong HTML giÃºp giáº£m thiá»ƒu thá»i gian chuyá»ƒn Ä‘á»•i ngá»¯ cáº£nh giá»¯a cÃ¡c tá»‡p mÃ£ nguá»“n, cho phÃ©p xÃ¢y dá»±ng giao diá»‡n nhanh chÃ³ng [17].
+TÃ­nh nháº¥t quÃ¡n cá»§a giao diá»‡n: Viá»‡c tuÃ¢n thá»§ cÃ¡c giÃ¡ trá»‹ Ä‘á»‹nh trÆ°á»›c trong tá»‡p cáº¥u hÃ¬nh giÃºp duy trÃ¬ sá»± Ä‘á»“ng bá»™ vá» thiáº¿t káº¿ trÃªn toÃ n bá»™ á»©ng dá»¥ng.
+Hiá»‡u suáº¥t vÆ°á»£t trá»™i: KÃ­ch thÆ°á»›c tá»‡p CSS production ráº¥t nhá» nhá» cÆ¡ cháº¿ loáº¡i bá» mÃ£ thá»«a, giÃºp cáº£i thiá»‡n Ä‘Ã¡ng ká»ƒ thá»i gian táº£i trang.
+
+Dá»… dÃ ng báº£o trÃ¬: Phong cÃ¡ch thiáº¿t káº¿ co-located (Ä‘áº·t style cÃ¹ng vá»›i cáº¥u trÃºc HTML) giÃºp viá»‡c chá»‰nh sá»­a hoáº·c xÃ³a bá» thÃ nh pháº§n trá»Ÿ nÃªn an toÃ n hÆ¡n, trÃ¡nh hiá»‡n tÆ°á»£ng xung Ä‘á»™t CSS toÃ n cá»¥c [17].
+2.1.3.2.2 NhÆ°á»£c Ä‘iá»ƒm
+ÄÆ°á»ng cong há»c táº­p ban Ä‘áº§u: NgÆ°á»i má»›i báº¯t Ä‘áº§u cáº§n thá»i gian Ä‘á»ƒ lÃ m quen vÃ  ghi nhá»› há»‡ thá»‘ng tÃªn lá»›p tiá»‡n Ã­ch thay vÃ¬ sá»­ dá»¥ng CSS thuáº§n tÃºy .
+MÃ£ nguá»“n HTML dÃ i dÃ²ng: Viá»‡c Ã¡p dá»¥ng nhiá»u lá»›p tiá»‡n Ã­ch trÃªn má»™t pháº§n tá»­ cÃ³ thá»ƒ khiáº¿n mÃ£ HTML trá»Ÿ nÃªn rá»‘i vÃ  khÃ³ Ä‘á»c náº¿u khÃ´ng cÃ³ phÆ°Æ¡ng phÃ¡p tá»• chá»©c component há»£p lÃ½.
+Thiáº¿u cÃ¡c thÃ nh pháº§n dá»±ng sáºµn: Do khÃ´ng cung cáº¥p sáºµn cÃ¡c UI components (nhÆ° Buttons, Cards, Navbars), láº­p trÃ¬nh viÃªn pháº£i tá»‘n nhiá»u cÃ´ng sá»©c hÆ¡n trong giai Ä‘oáº¡n Ä‘áº§u Ä‘á»ƒ xÃ¢y dá»±ng láº¡i cÃ¡c thÃ nh pháº§n cÆ¡ báº£n.
+YÃªu cáº§u thiáº¿t láº­p mÃ´i trÆ°á»ng: Äá»ƒ táº­n dá»¥ng cÃ¡c tÃ­nh nÄƒng tá»‘i Æ°u hÃ³a, Tailwind yÃªu cáº§u quy trÃ¬nh cÃ i Ä‘áº·t vÃ  cáº¥u hÃ¬nh build process (nhÆ° PostCSS) phá»©c táº¡p hÆ¡n so vá»›i viá»‡c nhÃºng má»™t tá»‡p CSS thÃ´ng thÆ°á»ng.
+2.1.4 Zustand
+2.1.4.1 Zustand lÃ  gÃ¬? 
+Zustand lÃ  má»™t giáº£i phÃ¡p quáº£n lÃ½ tráº¡ng thÃ¡i (state management) dÃ nh cho React, Ä‘Æ°á»£c thiáº¿t káº¿ vá»›i tiÃªu chÃ­ nhá» gá»n, tá»‘c Ä‘á»™ xá»­ lÃ½ nhanh vÃ  kháº£ nÄƒng má»Ÿ rá»™ng linh hoáº¡t. KhÃ¡c vá»›i cÃ¡c thÆ° viá»‡n truyá»n thá»‘ng thÆ°á»ng yÃªu cáº§u cáº¥u trÃºc phá»©c táº¡p, Zustand Ä‘Æ°á»£c xÃ¢y dá»±ng dá»±a trÃªn triáº¿t lÃ½ tá»‘i giáº£n, táº­n dá»¥ng tá»‘i Ä‘a sá»©c máº¡nh cá»§a React Hooks Ä‘á»ƒ cung cáº¥p má»™t cÆ¡ cháº¿ quáº£n lÃ½ tráº¡ng thÃ¡i toÃ n cá»¥c hiá»‡u quáº£ mÃ  khÃ´ng cáº§n Ä‘áº¿n cÃ¡c khÃ¡i niá»‡m rÆ°á»m rÃ  hay mÃ£ nguá»“n máº«u (boilerplate) dÆ° thá»«a.[11]
+CÃ¡c Ä‘áº·c Ä‘iá»ƒm ká»¹ thuáº­t ná»•i báº­t:
+Kiáº¿n trÃºc dá»±a trÃªn Hook: ThÆ° viá»‡n cung cáº¥p API Ä‘Æ¡n giáº£n thÃ´ng qua cÃ¡c hook tÃ¹y chá»‰nh, cho phÃ©p cÃ¡c thÃ nh pháº§n (components) trong á»©ng dá»¥ng â€œÄ‘Äƒng kÃ½â€ vÃ  pháº£n á»©ng trá»±c tiáº¿p vá»›i nhá»¯ng thay Ä‘á»•i cá»§a tráº¡ng thÃ¡i mÃ  khÃ´ng cáº§n thÃ´ng qua cÃ¡c lá»›p trung gian [11].
+CÆ¡ cháº¿ tá»‘i Æ°u hÃ³a Re-render: Zustand hoáº¡t Ä‘á»™ng dá»±a trÃªn nguyÃªn lÃ½ â€œÄ‘Äƒng kÃ½ cÃ³ chá»n lá»câ€ (selective subscription) [11]. Há»‡ thá»‘ng chá»‰ tá»± Ä‘á»™ng render láº¡i component khi vÃ  chá»‰ khi pháº§n tráº¡ng thÃ¡i cá»¥ thá»ƒ mÃ  component Ä‘Ã³ Ä‘ang theo dÃµi cÃ³ sá»± thay Ä‘á»•i, giÃºp loáº¡i bá» hoÃ n toÃ n cÃ¡c láº§n render khÃ´ng cáº§n thiáº¿t [11].
+Loáº¡i bá» Context Provider: Má»™t Æ°u Ä‘iá»ƒm lá»›n cá»§a Zustand lÃ  khÃ´ng yÃªu cáº§u pháº£i bá»c á»©ng dá»¥ng trong cÃ¡c â€œProviderâ€ [11]. Äiá»u nÃ y giÃºp giáº£i quyáº¿t váº¥n Ä‘á» lá»“ng ghÃ©p quÃ¡ sÃ¢u (Provider hell) vÃ  cho phÃ©p truy cáº­p tráº¡ng thÃ¡i tá»« báº¥t ká»³ vá»‹ trÃ­ nÃ o trong cÃ¢y component má»™t cÃ¡ch dá»… dÃ ng [11].
+Quáº£n lÃ½ táº­p trung tinh gá»n: Cho phÃ©p quáº£n lÃ½ tráº¡ng thÃ¡i theo mÃ´ hÃ¬nh táº­p trung tÆ°Æ¡ng tá»± Redux nhÆ°ng loáº¡i bá» sá»± phá»©c táº¡p cá»§a viá»‡c Ä‘á»‹nh nghÄ©a actions hay reducers, giÃºp logic cáº­p nháº­t dá»¯ liá»‡u trá»Ÿ nÃªn trá»±c quan hÆ¡n [11].
+2.1.6.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.1.6.2.1 Æ¯u Ä‘iá»ƒm
+Sá»± Ä‘Æ¡n giáº£n vÃ  ngáº¯n gá»n: Quy trÃ¬nh thiáº¿t láº­p vÃ  sá»­ dá»¥ng Zustand yÃªu cáº§u lÆ°á»£ng mÃ£ nguá»“n ráº¥t Ã­t [11]. Láº­p trÃ¬nh viÃªn cÃ³ thá»ƒ khá»Ÿi táº¡o kho chá»©a (store) vÃ  cáº­p nháº­t tráº¡ng thÃ¡i chá»‰ trong vÃ i dÃ²ng lá»‡nh, giÃºp mÃ£ nguá»“n sáº¡ch sáº½ vÃ  dá»… báº£o trÃ¬ [11].
+Hiá»‡u suáº¥t vÆ°á»£t trá»™i: Nhá» cÆ¡ cháº¿ chá»‰ láº¯ng nghe nhá»¯ng thay Ä‘á»•i cáº§n thiáº¿t, Zustand Ä‘áº¡t hiá»‡u suáº¥t cao vÃ  háº¡n cháº¿ tá»‘i Ä‘a viá»‡c tiÃªu tá»‘n tÃ i nguyÃªn cho cÃ¡c tÃ¡c vá»¥ render giao diá»‡n [11].
+TÆ°Æ¡ng thÃ­ch há»‡ sinh thÃ¡i React: Kiáº¿n trÃºc cá»§a thÆ° viá»‡n hoÃ n toÃ n tÆ°Æ¡ng thÃ­ch vÃ  hoáº¡t Ä‘á»™ng tá»± nhiÃªn vá»›i cÃ¡c dá»± Ã¡n React hiá»‡n Ä‘áº¡i sá»­ dá»¥ng Functional Components vÃ  Hooks [11].
+TÃ­nh linh hoáº¡t cao: KhÃ´ng Ã¡p Ä‘áº·t cáº¥u trÃºc thÆ° má»¥c hay quy táº¯c Ä‘áº·t tÃªn nghiÃªm ngáº·t, cho phÃ©p Ä‘á»™i ngÅ© phÃ¡t triá»ƒn tá»± do tá»• chá»©c mÃ£ nguá»“n theo nhu cáº§u dá»± Ã¡n [11].
+2.1.6.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Thiáº¿u tÃ­nh cáº¥u trÃºc rÃ ng buá»™c: Sá»± linh hoáº¡t quÃ¡ má»©c cÃ³ thá»ƒ trá»Ÿ thÃ nh Ä‘iá»ƒm yáº¿u Ä‘á»‘i vá»›i cÃ¡c Ä‘á»™i ngÅ© thiáº¿u kinh nghiá»‡m, dáº«n Ä‘áº¿n viá»‡c táº¡o ra cÃ¡c logic cáº­p nháº­t tráº¡ng thÃ¡i tÃ¹y tiá»‡n, khÃ³ kiá»ƒm soÃ¡t hoáº·c gÃ¢y biáº¿n Ä‘á»•i dá»¯ liá»‡u ngoÃ i Ã½ muá»‘n.
+Kháº£ nÄƒng gá»¡ lá»—i háº¡n cháº¿ á»Ÿ dá»± Ã¡n lá»›n: So vá»›i quy trÃ¬nh luá»“ng dá»¯ liá»‡u má»™t chiá»u nghiÃªm ngáº·t cá»§a Redux, viá»‡c truy váº¿t nguá»“n gá»‘c thay Ä‘á»•i tráº¡ng thÃ¡i trong Zustand cÃ³ thá»ƒ khÃ³ khÄƒn hÆ¡n trong cÃ¡c há»‡ thá»‘ng quy mÃ´ lá»›n.
+Há»‡ sinh thÃ¡i khiÃªm tá»‘n: Máº·c dÃ¹ há»— trá»£ middleware, nhÆ°ng há»‡ sinh thÃ¡i cÃ¡c cÃ´ng cá»¥ há»— trá»£ vÃ  tiá»‡n Ã­ch má»Ÿ rá»™ng cá»§a Zustand chÆ°a phong phÃº vÃ  lÃ¢u Ä‘á»i nhÆ° cÃ¡c thÆ° viá»‡n quáº£n lÃ½ tráº¡ng thÃ¡i Ä‘Ã£ phá»• biáº¿n trÆ°á»›c Ä‘Ã³.
+2.1.5 Mapbox vÃ  Mapbox GL JS
+2.1.5.1 Mapbox GL JS lÃ  gÃ¬? 
+Mapbox GL JS lÃ  má»™t thÆ° viá»‡n JavaScript mÃ£ nguá»“n má»Ÿ chuyÃªn dá»¥ng cho viá»‡c hiá»ƒn thá»‹ báº£n Ä‘á»“ tÆ°Æ¡ng tÃ¡c trÃªn trÃ¬nh duyá»‡t web. KhÃ¡c vá»›i cÃ¡c giáº£i phÃ¡p báº£n Ä‘á»“ truyá»n thá»‘ng sá»­ dá»¥ng hÃ¬nh áº£nh tÄ©nh (raster tiles), Mapbox GL JS táº­n dá»¥ng sá»©c máº¡nh cá»§a cÃ´ng nghá»‡ WebGL Ä‘á»ƒ káº¿t xuáº¥t (render) báº£n Ä‘á»“ tá»« cÃ¡c vector tiles. Kiáº¿n trÃºc nÃ y cho phÃ©p hiá»ƒn thá»‹ báº£n Ä‘á»“ vá»›i Ä‘á»™ sáº¯c nÃ©t cao, há»— trá»£ cÃ¡c thao tÃ¡c xoay 3D, thay Ä‘á»•i gÃ³c nhÃ¬n vÃ  tÃ¹y biáº¿n giao diá»‡n mÆ°á»£t mÃ  theo thá»i gian thá»±c.[7]
+
+HÃ¬nh  4 MapBox [7]
+
+CÃ¡c Ä‘áº·c Ä‘iá»ƒm ká»¹ thuáº­t ná»•i báº­t:
+CÃ´ng nghá»‡ Render Vector: Thay vÃ¬ táº£i cÃ¡c máº£nh áº£nh (tiles) cá»‘ Ä‘á»‹nh, há»‡ thá»‘ng táº£i dá»¯ liá»‡u vector nháº¹ vÃ  váº½ láº¡i ngay trÃªn trÃ¬nh duyá»‡t. Äiá»u nÃ y giÃºp tá»‘i Æ°u hÃ³a hiá»‡u suáº¥t táº£i trang vÃ  cho phÃ©p ngÆ°á»i dÃ¹ng phÃ³ng to, thu nhá» mÃ  khÃ´ng gáº·p hiá»‡n tÆ°á»£ng vá»¡ hÃ¬nh.[7]
+Kháº£ nÄƒng tÃ¹y biáº¿n giao diá»‡n (Styling): ÄÃ¢y lÃ  Æ°u Ä‘iá»ƒm lá»›n nháº¥t cá»§a Mapbox. ThÃ´ng qua â€œMapbox Style Specificationâ€, láº­p trÃ¬nh viÃªn cÃ³ toÃ n quyá»n kiá»ƒm soÃ¡t má»i chi tiáº¿t hiá»ƒn thá»‹, tá»« mÃ u sáº¯c Ä‘Æ°á»ng phá»‘, tÃ²a nhÃ  Ä‘áº¿n phÃ´ng chá»¯, giÃºp táº¡o ra cÃ¡c báº£n Ä‘á»“ Ä‘á»“ng bá»™ vá»›i nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u cá»§a á»©ng dá»¥ng.[7]
+Hiá»‡u á»©ng tÆ°Æ¡ng tÃ¡c: Há»— trá»£ hiá»ƒn thá»‹ cÃ¡c Ä‘iá»ƒm Ä‘Ã¡nh dáº¥u (Marker) tÃ¹y chá»‰nh vÃ  cÃ¡c cá»­a sá»• thÃ´ng tin (Popup) Ä‘á»™ng, giÃºp nÃ¢ng cao tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng khi tra cá»©u Ä‘á»‹a Ä‘iá»ƒm.[7]
+2.1.5.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.1.5.2.1 Æ¯u Ä‘iá»ƒm
+Kháº£ nÄƒng tÃ¹y biáº¿n giao diá»‡n vÆ°á»£t trá»™i: ÄÃ¢y lÃ  tháº¿ máº¡nh lá»›n nháº¥t cá»§a Mapbox GL JS so vá»›i cÃ¡c Ä‘á»‘i thá»§. Ná»n táº£ng cho phÃ©p láº­p trÃ¬nh viÃªn kiá»ƒm soÃ¡t tuyá»‡t Ä‘á»‘i (full control) má»i thÃ nh pháº§n hiá»ƒn thá»‹ trÃªn báº£n Ä‘á»“, tá»« mÃ u sáº¯c, phÃ´ng chá»¯, Ä‘á»™ Ä‘áº­m nháº¡t cá»§a cÃ¡c lá»›p báº£n Ä‘á»“ (layers) cho Ä‘áº¿n viá»‡c táº¡o ra cÃ¡c hiá»‡u á»©ng 3D trá»±c quan. Äiá»u nÃ y giÃºp Ä‘á»™i ngÅ© phÃ¡t triá»ƒn dá»… dÃ ng xÃ¢y dá»±ng giao diá»‡n báº£n Ä‘á»“ Ä‘á»“ng bá»™ vá»›i bá»™ nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u (Brand Identity) cá»§a á»©ng dá»¥ng.[7]
+Hiá»‡u nÄƒng render Ä‘á»“ há»a cao: Nhá» á»©ng dá»¥ng cÃ´ng nghá»‡ WebGL vÃ  Vector Tiles, Mapbox GL JS mang láº¡i tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng mÆ°á»£t mÃ  ngay cáº£ khi thao tÃ¡c vá»›i lÆ°á»£ng dá»¯ liá»‡u lá»›n. CÃ¡c hÃ nh Ä‘á»™ng nhÆ° phÃ³ng to, thu nhá», xoay chiá»u (rotate) hay thay Ä‘á»•i gÃ³c nhÃ¬n (pitch) Ä‘á»u diá»…n ra tá»©c thá»i (real-time) mÃ  khÃ´ng gáº·p hiá»‡n tÆ°á»£ng giáº­t lag hay vá»¡ háº¡t nhÆ° cÃ´ng nghá»‡ Raster Tiles truyá»n thá»‘ng.[7]
+Há»‡ sinh thÃ¡i má»Ÿ vÃ  linh hoáº¡t: Mapbox cung cáº¥p tÃ i liá»‡u ká»¹ thuáº­t (Documentation) ráº¥t chi tiáº¿t vÃ  há»— trá»£ máº¡nh máº½ viá»‡c tÃ­ch há»£p cÃ¡c nguá»“n dá»¯ liá»‡u tÃ¹y chá»‰nh (GeoJSON). Äiá»u nÃ y táº¡o thuáº­n lá»£i lá»›n cho viá»‡c phÃ¡t triá»ƒn cÃ¡c tÃ­nh nÄƒng nÃ¢ng cao nhÆ° hiá»ƒn thá»‹ vÃ¹ng nhiá»‡t (heatmap) hay cá»¥m vá»‹ trÃ­ (clustering) nhÃ  hÃ ng.[7]
+2.1.5.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Háº¡n cháº¿ vá» dá»¯ liá»‡u Ä‘á»‹a Ä‘iá»ƒm (POI) táº¡i Viá»‡t Nam: Máº·c dÃ¹ Mapbox cÃ³ Ä‘á»™ phá»§ toÃ n cáº§u, nhÆ°ng máº­t Ä‘á»™ dá»¯ liá»‡u vá» cÃ¡c Ä‘á»‹a Ä‘iá»ƒm cÃ´ng cá»™ng (POI - Points of Interest) vÃ  Ä‘á»™ chÃ­nh xÃ¡c cá»§a Ä‘á»‹a chá»‰ táº¡i thá»‹ trÆ°á»ng Viá»‡t Nam váº«n cÃ²n khoáº£ng cÃ¡ch so vá»›i Google Maps. CÃ¡c con háº»m nhá» hoáº·c Ä‘á»‹a Ä‘iá»ƒm má»›i má»Ÿ thÆ°á»ng Ä‘Æ°á»£c cáº­p nháº­t cháº­m hÆ¡n.
+Äá»™ chÃ­nh xÃ¡c cá»§a tÃ­nh nÄƒng dáº«n Ä‘Æ°á»ng: Thuáº­t toÃ¡n tÃ¬m Ä‘Æ°á»ng cá»§a Mapbox hoáº¡t Ä‘á»™ng tá»‘t vá» máº·t ká»¹ thuáº­t, nhÆ°ng dá»¯ liá»‡u giao thÃ´ng thá»i gian thá»±c (Real-time Traffic) táº¡i Viá»‡t Nam chÆ°a Ä‘á»§ phong phÃº Ä‘á»ƒ Ä‘Æ°a ra cÃ¡c lá»™ trÃ¬nh trÃ¡nh táº¯c Ä‘Æ°á»ng tá»‘i Æ°u nháº¥t nhÆ° Google Maps.
+MÃ´ hÃ¬nh chi phÃ­ khi má»Ÿ rá»™ng quy mÃ´: Máº·c dÃ¹ cÃ³ gÃ³i miá»…n phÃ­ hÃ o phÃ³ng, nhÆ°ng chi phÃ­ cá»§a Mapbox dá»±a trÃªn sá»‘ lÆ°á»£t táº£i báº£n Ä‘á»“ (Map loads). Äá»‘i vá»›i cÃ¡c á»©ng dá»¥ng cÃ³ lÆ°á»£ng truy cáº­p lá»›n (High traffic), chi phÃ­ váº­n hÃ nh cÃ³ thá»ƒ tÄƒng nhanh náº¿u khÃ´ng cÃ³ chiáº¿n lÆ°á»£c tá»‘i Æ°u bá»™ nhá»› Ä‘á»‡m (caching) hiá»‡u quáº£.
+Äá»™ phá»©c táº¡p trong triá»ƒn khai: Äá»ƒ khai thÃ¡c háº¿t sá»©c máº¡nh tÃ¹y biáº¿n cá»§a Mapbox, láº­p trÃ¬nh viÃªn cáº§n cÃ³ kiáº¿n thá»©c nháº¥t Ä‘á»‹nh vá» Ä‘á»“ há»a mÃ¡y tÃ­nh vÃ  cáº¥u trÃºc dá»¯ liá»‡u khÃ´ng gian, táº¡o ra má»™t â€œÄ‘Æ°á»ng cong há»c táº­pâ€ (learning curve) dá»‘c hÆ¡n so vá»›i viá»‡c nhÃºng Google Maps Ä‘Æ¡n thuáº§n.
+2.1.6 Tá»•ng quan vá» Google Maps Platform
+2.1.6.1 Google Maps Platform lÃ  gÃ¬?
+Google Maps Platform lÃ  má»™t há»‡ sinh thÃ¡i dá»‹ch vá»¥ báº£n Ä‘á»“ vÃ  Ä‘á»‹nh vá»‹ toÃ n diá»‡n Ä‘Æ°á»£c phÃ¡t triá»ƒn bá»Ÿi Google, cung cáº¥p bá»™ cÃ´ng cá»¥ API vÃ  SDK máº¡nh máº½ cho phÃ©p cÃ¡c nhÃ  phÃ¡t triá»ƒn tÃ­ch há»£p báº£n Ä‘á»“, dá»¯ liá»‡u Ä‘á»‹a Ä‘iá»ƒm vÃ  tÃ­nh nÄƒng chá»‰ Ä‘Æ°á»ng vÃ o á»©ng dá»¥ng web hoáº·c di Ä‘á»™ng. Ná»n táº£ng nÃ y sá»Ÿ há»¯u cÆ¡ sá»Ÿ dá»¯ liá»‡u khá»•ng lá»“ vá» máº¡ng lÆ°á»›i giao thÃ´ng, Ä‘á»‹a Ä‘iá»ƒm cÃ´ng cá»™ng (POI) vÃ  dá»¯ liá»‡u giao thÃ´ng thá»i gian thá»±c trÃªn pháº¡m vi toÃ n cáº§u.[5]
+Trong khuÃ´n khá»• Ä‘á» tÃ i, Google Maps Platform khÃ´ng Ä‘Æ°á»£c sá»­ dá»¥ng lÃ m lá»›p hiá»ƒn thá»‹ chÃ­nh (do Ä‘Ã£ sá»­ dá»¥ng Mapbox GL JS Ä‘á»ƒ tá»‘i Æ°u hÃ³a kháº£ nÄƒng tÃ¹y biáº¿n), mÃ  Ä‘Ã³ng vai trÃ² lÃ  giáº£i phÃ¡p há»— trá»£ thiáº¿t yáº¿u cho chá»©c nÄƒng Ä‘iá»u hÆ°á»›ng vÃ  dáº«n Ä‘Æ°á»ng (Navigation) thÃ´ng qua cÆ¡ cháº¿ liÃªn káº¿t sÃ¢u (Deep Linking).
+CÃ¡c tÃ­nh nÄƒng cá»‘t lÃµi Ä‘Æ°á»£c á»©ng dá»¥ng:
+Directions API: Cung cáº¥p kháº£ nÄƒng tÃ­nh toÃ¡n lá»™ trÃ¬nh di chuyá»ƒn chÃ­nh xÃ¡c giá»¯a hai Ä‘iá»ƒm, bao gá»“m khoáº£ng cÃ¡ch, thá»i gian dá»± kiáº¿n vÃ  cÃ¡c hÆ°á»›ng dáº«n ráº½ chi tiáº¿t cho nhiá»u loáº¡i phÆ°Æ¡ng tiá»‡n khÃ¡c nhau nhÆ° xe mÃ¡y, Ã´ tÃ´, hay Ä‘i bá»™ [5].
+Deep Linking (URL Scheme): Cho phÃ©p á»©ng dá»¥ng khá»Ÿi cháº¡y trá»±c tiáº¿p á»©ng dá»¥ng Google Maps Ä‘Ã£ cÃ i Ä‘áº·t trÃªn thiáº¿t bá»‹ cá»§a ngÆ°á»i dÃ¹ng vá»›i cÃ¡c tham sá»‘ Ä‘á»‹nh sáºµn nhÆ° tá»a Ä‘á»™ Ä‘iá»ƒm Ä‘i vÃ  Ä‘iá»ƒm Ä‘áº¿n [5].
+Dá»¯ liá»‡u giao thÃ´ng thá»i gian thá»±c (Real-time Traffic): Há»‡ thá»‘ng táº­n dá»¥ng lá»›p dá»¯ liá»‡u giao thÃ´ng cá»§a Google Ä‘á»ƒ Ä‘á» xuáº¥t cÃ¡c lá»™ trÃ¬nh tá»‘i Æ°u nháº¥t, giÃºp ngÆ°á»i dÃ¹ng trÃ¡nh cÃ¡c tuyáº¿n Ä‘Æ°á»ng Ä‘ang táº¯c ngháº½n hoáº·c gáº·p sá»± cá»‘ [5].
+2.1.6.1 ÄÃ¡nh giÃ¡ Æ¯u vÃ  NhÆ°á»£c Ä‘iá»ƒm
+2.1.6.1.1 Æ¯u Ä‘iá»ƒm
+Äá»™ chÃ­nh xÃ¡c dá»¯ liá»‡u vÆ°á»£t trá»™i: Táº¡i thá»‹ trÆ°á»ng Viá»‡t Nam, Google Maps Ä‘Æ°á»£c Ä‘Ã¡nh giÃ¡ lÃ  ná»n táº£ng báº£n Ä‘á»“ cÃ³ dá»¯ liá»‡u chi tiáº¿t vÃ  cáº­p nháº­t nhanh nháº¥t, Ä‘áº·c biá»‡t lÃ  thÃ´ng tin vá» cÃ¡c con háº»m, sá»‘ nhÃ  vÃ  tÃ¬nh tráº¡ng giao thÃ´ng thá»i gian thá»±c.
+Tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng quen thuá»™c: Vá»›i Ä‘á»™ phá»• biáº¿n rá»™ng rÃ£i, viá»‡c chuyá»ƒn hÆ°á»›ng sang giao diá»‡n Google Maps mang láº¡i cáº£m giÃ¡c tin cáº­y vÃ  dá»… sá»­ dá»¥ng cho ngÆ°á»i dÃ¹ng cuá»‘i.
+Kháº£ nÄƒng tá»‘i Æ°u lá»™ trÃ¬nh: CÃ¡c thuáº­t toÃ¡n tÃ¬m Ä‘Æ°á»ng cá»§a Google Maps cÃ³ kháº£ nÄƒng xá»­ lÃ½ cÃ¡c tÃ¬nh huá»‘ng giao thÃ´ng phá»©c táº¡p, giÃºp Ä‘Æ°a ra lá»™ trÃ¬nh di chuyá»ƒn tiáº¿t kiá»‡m thá»i gian nháº¥t [5].
+2.1.6.1.2 NhÆ°á»£c Ä‘iá»ƒm
+Chi phÃ­ váº­n hÃ nh cao: Google Maps Platform Ã¡p dá»¥ng mÃ´ hÃ¬nh tÃ­nh phÃ­ dá»±a trÃªn má»©c Ä‘á»™ sá»­ dá»¥ng (pay-as-you-go). Náº¿u tÃ­ch há»£p trá»±c tiáº¿p báº£n Ä‘á»“ hiá»ƒn thá»‹ hoáº·c gá»i API chá»‰ Ä‘Æ°á»ng quÃ¡ nhiá»u, chi phÃ­ cÃ³ thá»ƒ tÄƒng Ä‘á»™t biáº¿n Ä‘á»‘i vá»›i cÃ¡c á»©ng dá»¥ng cÃ³ lÆ°á»£ng truy cáº­p lá»›n.[5]
+Háº¡n cháº¿ vá» tÃ¹y biáº¿n giao diá»‡n: So vá»›i Mapbox, kháº£ nÄƒng tÃ¹y biáº¿n giao diá»‡n báº£n Ä‘á»“ (styling) cá»§a Google Maps cÃ³ pháº§n háº¡n cháº¿ hÆ¡n trong viá»‡c táº¡o ra cÃ¡c báº£n Ä‘á»“ mang Ä‘áº­m dáº¥u áº¥n thÆ°Æ¡ng hiá»‡u.
+Phá»¥ thuá»™c vÃ o á»©ng dá»¥ng bÃªn thá»© ba: Viá»‡c sá»­ dá»¥ng cÆ¡ cháº¿ Deep Linking Ä‘á»“ng nghÄ©a vá»›i viá»‡c ngÆ°á»i dÃ¹ng báº¯t buá»™c pháº£i cÃ i Ä‘áº·t á»©ng dá»¥ng Google Maps trÃªn thiáº¿t bá»‹ Ä‘á»ƒ cÃ³ tráº£i nghiá»‡m dáº«n Ä‘Æ°á»ng tá»‘t nháº¥t.
+2.2 Back-end
+2.2.1 NestJS
+2.2.1.1 NestJS lÃ  gÃ¬? 
+NestJS lÃ  má»™t framework mÃ£ nguá»“n má»Ÿ hiá»‡n Ä‘áº¡i dÃ¹ng Ä‘á»ƒ xÃ¢y dá»±ng cÃ¡c á»©ng dá»¥ng phÃ­a mÃ¡y chá»§ (server-side) hiá»‡u quáº£ vÃ  cÃ³ kháº£ nÄƒng má»Ÿ rá»™ng trÃªn ná»n táº£ng Node.js. Äáº·c Ä‘iá»ƒm ná»•i báº­t cá»§a NestJS lÃ  viá»‡c sá»­ dá»¥ng TypeScript lÃ m ngÃ´n ngá»¯ láº­p trÃ¬nh chÃ­nh, káº¿t há»£p hÃ i hÃ²a cÃ¡c nguyÃªn lÃ½ cá»§a Láº­p trÃ¬nh hÆ°á»›ng Ä‘á»‘i tÆ°á»£ng (OOP), Láº­p trÃ¬nh hÃ m (FP) vÃ  Láº­p trÃ¬nh pháº£n á»©ng chá»©c nÄƒng (FRP).[9]
+Kiáº¿n trÃºc cá»§a NestJS chá»‹u áº£nh hÆ°á»Ÿng máº¡nh máº½ tá»« Angular, giÃºp giáº£i quyáº¿t váº¥n Ä‘á» vá» kiáº¿n trÃºc á»©ng dá»¥ng trong há»‡ sinh thÃ¡i Node.js. Há»‡ thá»‘ng Ä‘Æ°á»£c xÃ¢y dá»±ng dá»±a trÃªn cÃ¡c thÃ nh pháº§n cá»‘t lÃµi bao gá»“m Modules (MÃ´-Ä‘un), Controllers (Bá»™ Ä‘iá»u khiá»ƒn) vÃ  Providers (Dá»‹ch vá»¥/NhÃ  cung cáº¥p). Äáº·c biá»‡t, viá»‡c tÃ­ch há»£p sáºµn cÆ¡ cháº¿ Dependency Injection (TiÃªm phá»¥ thuá»™c) giÃºp táº¡o ra cÃ¡c á»©ng dá»¥ng backend cÃ³ Ä‘á»™ tin cáº­y cao, dá»… dÃ ng báº£o trÃ¬ vÃ  má»Ÿ rá»™ng.[9]
+CÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t ná»•i báº­t:
+Kiáº¿n trÃºc MÃ´-Ä‘un (Modular Architecture): Cho phÃ©p phÃ¢n chia á»©ng dá»¥ng thÃ nh cÃ¡c mÃ´-Ä‘un chá»©c nÄƒng Ä‘á»™c láº­p, giÃºp viá»‡c quáº£n lÃ½ mÃ£ nguá»“n vÃ  má»Ÿ rá»™ng dá»± Ã¡n trá»Ÿ nÃªn dá»… dÃ ng vÃ  khoa há»c hÆ¡n [9].
+Há»— trá»£ TypeScript toÃ n diá»‡n: NestJS táº­n dá»¥ng tá»‘i Ä‘a lá»£i Ã­ch cá»§a há»‡ thá»‘ng kiá»ƒu tÄ©nh, máº·c dÃ¹ váº«n Ä‘áº£m báº£o kháº£ nÄƒng tÆ°Æ¡ng thÃ­ch vá»›i JavaScript thuáº§n tÃºy [9].
+CÆ¡ cháº¿ Dependency Injection (DI): TÃ­ch há»£p sáºµn há»‡ thá»‘ng DI máº¡nh máº½ Ä‘á»ƒ quáº£n lÃ½ sá»± phá»¥ thuá»™c giá»¯a cÃ¡c thÃ nh pháº§n, giÃºp mÃ£ nguá»“n Ä‘áº¡t Ä‘Æ°á»£c tÃ­nh lá»ng láº»o (loose coupling) [9].
+Há»‡ sinh thÃ¡i phong phÃº: Cung cáº¥p sáºµn cÃ¡c giáº£i phÃ¡p cho háº§u háº¿t cÃ¡c váº¥n Ä‘á» phá»• biáº¿n nhÆ° middleware, xÃ¡c thá»±c, vÃ  xá»­ lÃ½ dá»¯ liá»‡u, giÃºp giáº£m thiá»ƒu thá»i gian phÃ¡t triá»ƒn [9].
+2.2.1.2. Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.2.1.2.1. Æ¯u Ä‘iá»ƒm
+NÄƒng suáº¥t phÃ¡t triá»ƒn cao: Sá»± káº¿t há»£p giá»¯a TypeScript vÃ  kiáº¿n trÃºc rÃµ rÃ ng giÃºp láº­p trÃ¬nh viÃªn táº­p trung vÃ o logic nghiá»‡p vá»¥ thay vÃ¬ thiáº¿t láº­p cáº¥u trÃºc dá»± Ã¡n [9].
+Kháº£ nÄƒng má»Ÿ rá»™ng (Scalability): Kiáº¿n trÃºc mÃ´-Ä‘un lÃ  ná»n táº£ng vá»¯ng cháº¯c giÃºp há»‡ thá»‘ng dá»… dÃ ng má»Ÿ rá»™ng vÃ  duy trÃ¬ sá»± á»•n Ä‘á»‹nh [9].
+Há»‡ sinh thÃ¡i vÃ  cá»™ng Ä‘á»“ng: NestJS sá»Ÿ há»¯u tÃ i liá»‡u ká»¹ thuáº­t chi tiáº¿t, Ä‘Æ°á»£c cáº­p nháº­t thÆ°á»ng xuyÃªn cÃ¹ng má»™t cá»™ng Ä‘á»“ng há»— trá»£ lá»›n máº¡nh [9].
+TÃ­nh linh hoáº¡t: NestJS cho phÃ©p tÃ­ch há»£p dá»… dÃ ng vá»›i nhiá»u thÆ° viá»‡n vÃ  cÃ´ng cá»¥ khÃ¡c trong há»‡ sinh thÃ¡i Node.js nhÆ° Express hoáº·c Fastify [9].
+Hiá»‡u nÄƒng I/O vÆ°á»£t trá»™i: ÄÆ°á»£c xÃ¢y dá»±ng trÃªn ná»n táº£ng Node.js, NestJS thá»«a hÆ°á»Ÿng cÆ¡ cháº¿ xá»­ lÃ½ báº¥t Ä‘á»“ng bá»™ giÃºp tá»‘i Æ°u hÃ³a tÃ i nguyÃªn server tá»‘t.
+2.2.1.2.2. NhÆ°á»£c Ä‘iá»ƒm
+ÄÆ°á»ng cong há»c táº­p (Learning Curve): Viá»‡c lÃ m quen vá»›i TypeScript vÃ  cÃ¡c khÃ¡i niá»‡m trá»«u tÆ°á»£ng nhÆ° Dependency Injection hay Decorators Ä‘Ã²i há»i thá»i gian Ä‘áº§u tÆ° nghiÃªn cá»©u.
+Äá»™ phá»©c táº¡p Ä‘á»‘i vá»›i dá»± Ã¡n nhá»: NestJS cÃ³ thá»ƒ bá»‹ xem lÃ  phá»©c táº¡p hÃ³a váº¥n Ä‘á» khi Ã¡p dá»¥ng cho cÃ¡c á»©ng dá»¥ng nguyÃªn máº«u (prototype) hoáº·c dá»± Ã¡n quÃ¡ Ä‘Æ¡n giáº£n.
+Rá»§i ro táº¯c ngháº½n Event Loop: Do Ä‘áº·c thÃ¹ Ä‘Æ¡n luá»“ng cá»§a Node.js, há»‡ thá»‘ng cÃ³ thá»ƒ gáº·p trá»Ÿ ngáº¡i khi xá»­ lÃ½ cÃ¡c tÃ¡c vá»¥ tÃ­nh toÃ¡n náº·ng (CPU-bound) náº¿u khÃ´ng Ä‘Æ°á»£c quáº£n lÃ½ luá»“ng ngáº§m tá»‘t.
+2.2.2 Redis
+2.2.2.1 Redis lÃ  gÃ¬?
+Redis (Remote Dictionary Server) lÃ  má»™t há»‡ thá»‘ng lÆ°u trá»¯ cáº¥u trÃºc dá»¯ liá»‡u trong bá»™ nhá»› (in-memory data structure store) mÃ£ nguá»“n má»Ÿ, Ä‘Æ°á»£c sá»­ dá»¥ng rá»™ng rÃ£i vá»›i vai trÃ² lÃ  cÆ¡ sá»Ÿ dá»¯ liá»‡u, bá»™ nhá»› Ä‘á»‡m (cache) vÃ  trÃ¬nh mÃ´i giá»›i tin nháº¯n (message broker). ÄÆ°á»£c phÃ¡t triá»ƒn tá»« nÄƒm 2009, Redis Ä‘Ã£ trá»Ÿ thÃ nh tiÃªu chuáº©n cÃ´ng nghiá»‡p cho cÃ¡c á»©ng dá»¥ng yÃªu cáº§u tá»‘c Ä‘á»™ pháº£n há»“i tá»©c thÃ¬ vÃ  kháº£ nÄƒng xá»­ lÃ½ lÆ°á»£ng dá»¯ liá»‡u lá»›n trong thá»i gian thá»±c.
+Äáº·c Ä‘iá»ƒm kiáº¿n trÃºc cá»‘t lÃµi cá»§a Redis lÃ  viá»‡c lÆ°u trá»¯ toÃ n bá»™ dá»¯ liá»‡u trá»±c tiáº¿p trÃªn bá»™ nhá»› truy cáº­p ngáº«u nhiÃªn (RAM) thay vÃ¬ á»• Ä‘Ä©a cá»©ng truyá»n thá»‘ng. CÆ¡ cháº¿ nÃ y giÃºp loáº¡i bá» Ä‘á»™ trá»… do cÃ¡c thao tÃ¡c nháº­p/xuáº¥t (I/O) trÃªn Ä‘Ä©a, cho phÃ©p há»‡ thá»‘ng Ä‘áº¡t Ä‘Æ°á»£c thÃ´ng lÆ°á»£ng (throughput) cá»±c cao vÃ  Ä‘á»™ trá»… (latency) á»Ÿ má»©c tháº¥p ká»· lá»¥c.
+CÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t ná»•i báº­t:
+Äa dáº¡ng cáº¥u trÃºc dá»¯ liá»‡u: VÆ°á»£t xa mÃ´ hÃ¬nh key-value Ä‘Æ¡n giáº£n, Redis há»— trá»£ sáºµn nhiá»u kiá»ƒu dá»¯ liá»‡u phá»©c táº¡p nhÆ° Strings, Hashes, Lists, Sets, Sorted Sets, vÃ  tháº­m chÃ­ lÃ  cÃ¡c cáº¥u trÃºc Ä‘á»‹a lÃ½ (Geospatial indexes). Äiá»u nÃ y cho phÃ©p láº­p trÃ¬nh viÃªn Ã¡nh xáº¡ cÃ¡c váº¥n Ä‘á» logic phá»©c táº¡p trá»±c tiáº¿p vÃ o táº§ng dá»¯ liá»‡u.
+TÃ­nh Ä‘a nÄƒng: Redis cÃ³ thá»ƒ váº­n hÃ nh linh hoáº¡t nhÆ° má»™t database chÃ­nh (primary database), má»™t lá»›p caching hiá»‡u nÄƒng cao Ä‘á»ƒ giáº£m táº£i cho database quan há»‡, hoáº·c má»™t há»‡ thá»‘ng Pub/Sub Ä‘á»ƒ xá»­ lÃ½ tin nháº¯n trong kiáº¿n trÃºc microservices.
+CÆ¡ cháº¿ bá»n vá»¯ng dá»¯ liá»‡u (Persistence): Máº·c dÃ¹ hoáº¡t Ä‘á»™ng trÃªn RAM, Redis váº«n cung cáº¥p cÃ¡c tÃ¹y chá»n lÆ°u trá»¯ dá»¯ liá»‡u xuá»‘ng á»• cá»©ng (nhÆ° RDB snapshots hoáº·c AOF logs) Ä‘á»ƒ Ä‘áº£m báº£o an toÃ n dá»¯ liá»‡u khi khá»Ÿi Ä‘á»™ng láº¡i há»‡ thá»‘ng.
+2.2.2.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.2.2.2.1 Æ¯u Ä‘iá»ƒm
+Hiá»‡u suáº¥t vÆ°á»£t trá»™i: Nhá» hoáº¡t Ä‘á»™ng hoÃ n toÃ n trÃªn bá»™ nhá»› (in-memory), Redis cung cáº¥p tá»‘c Ä‘á»™ Ä‘á»c/ghi cá»±c nhanh, thÆ°á»ng xá»­ lÃ½ hÃ ng triá»‡u yÃªu cáº§u má»—i giÃ¢y vá»›i Ä‘á»™ trá»… dÆ°á»›i má»™t mili giÃ¢y (sub-millisecond latency).
+TÃ­nh nguyÃªn tá»­ (Atomicity): CÃ¡c thao tÃ¡c trÃªn dá»¯ liá»‡u Redis Ä‘á»u Ä‘áº£m báº£o tÃ­nh nguyÃªn tá»­. Äiá»u nÃ y Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n cá»§a dá»¯ liá»‡u ngay cáº£ khi cÃ³ nhiá»u client cÃ¹ng truy cáº­p vÃ  chá»‰nh sá»­a Ä‘á»“ng thá»i, trÃ¡nh Ä‘Æ°á»£c cÃ¡c tÃ¬nh tráº¡ng race condition.
+Há»— trá»£ cáº¥u trÃºc dá»¯ liá»‡u phong phÃº: Kháº£ nÄƒng thao tÃ¡c trá»±c tiáº¿p vá»›i cÃ¡c cáº¥u trÃºc dá»¯ liá»‡u phá»©c táº¡p (nhÆ° thÃªm pháº§n tá»­ vÃ o danh sÃ¡ch, tÄƒng giÃ¡ trá»‹ trong hash) ngay trÃªn server giÃºp giáº£m thiá»ƒu khá»‘i lÆ°á»£ng tÃ­nh toÃ¡n cáº§n xá»­ lÃ½ á»Ÿ phÃ­a á»©ng dá»¥ng client.
+2.2.2.2.2. NhÆ°á»£c Ä‘iá»ƒm
+Giá»›i háº¡n dung lÆ°á»£ng lÆ°u trá»¯: Do phá»¥ thuá»™c vÃ o RAM, dung lÆ°á»£ng lÆ°u trá»¯ cá»§a Redis bá»‹ giá»›i háº¡n bá»Ÿi bá»™ nhá»› váº­t lÃ½ cá»§a mÃ¡y chá»§. Chi phÃ­ váº­n hÃ nh cÃ³ thá»ƒ tÄƒng cao náº¿u Ã¡p dá»¥ng Redis cho cÃ¡c bá»™ dá»¯ liá»‡u (dataset) cÃ³ kÃ­ch thÆ°á»›c quÃ¡ lá»›n.
+Váº¥n Ä‘á» vá» Ä‘á»™ bá»n dá»¯ liá»‡u: Máº·c dÃ¹ cÃ³ cÆ¡ cháº¿ persistence, nhÆ°ng so vá»›i cÃ¡c cÆ¡ sá»Ÿ dá»¯ liá»‡u quan há»‡ truyá»n thá»‘ng, Redis váº«n cÃ³ rá»§i ro máº¥t dá»¯ liá»‡u nhá» (trong khoáº£ng thá»i gian giá»¯a cÃ¡c láº§n snapshot) náº¿u há»‡ thá»‘ng gáº·p sá»± cá»‘ báº¥t ngá».
+MÃ´ hÃ¬nh Ä‘Æ¡n luá»“ng (Single-threaded): Redis sá»­ dá»¥ng kiáº¿n trÃºc Ä‘Æ¡n luá»“ng Ä‘á»ƒ xá»­ lÃ½ lá»‡nh nháº±m Ä‘áº£m báº£o tÃ­nh nguyÃªn tá»­. Tuy nhiÃªn, Ä‘iá»u nÃ y cÃ³ nghÄ©a lÃ  náº¿u má»™t lá»‡nh thá»±c thi tá»‘n nhiá»u thá»i gian (vÃ­ dá»¥: cÃ¡c thao tÃ¡c trÃªn táº­p há»£p lá»›n), nÃ³ cÃ³ thá»ƒ cháº·n (block) toÃ n bá»™ cÃ¡c yÃªu cáº§u khÃ¡c Ä‘ang chá» xá»­ lÃ½.
+2.2.3. BullMQ
+2.2.3.1. BullMQ lÃ  gÃ¬?
+Redis (Remote Dictionary Server) lÃ  má»™t há»‡ thá»‘ng lÆ°u trá»¯ cáº¥u trÃºc dá»¯ liá»‡u trong bá»™ nhá»› (in-memory data structure store) mÃ£ nguá»“n má»Ÿ, Ä‘Æ°á»£c sá»­ dá»¥ng rá»™ng rÃ£i vá»›i vai trÃ² lÃ  cÆ¡ sá»Ÿ dá»¯ liá»‡u, bá»™ nhá»› Ä‘á»‡m (cache) vÃ  trÃ¬nh mÃ´i giá»›i tin nháº¯n (message broker). Redis cung cáº¥p kháº£ nÄƒng xá»­ lÃ½ lÆ°á»£ng dá»¯ liá»‡u lá»›n trong thá»i gian thá»±c vá»›i tá»‘c Ä‘á»™ pháº£n há»“i tá»©c thÃ¬.[12]
+Äáº·c Ä‘iá»ƒm kiáº¿n trÃºc cá»‘t lÃµi cá»§a Redis lÃ  viá»‡c lÆ°u trá»¯ toÃ n bá»™ dá»¯ liá»‡u trá»±c tiáº¿p trÃªn bá»™ nhá»› truy cáº­p ngáº«u nhiÃªn (RAM) thay vÃ¬ á»• Ä‘Ä©a cá»©ng truyá»n thá»‘ng. CÆ¡ cháº¿ nÃ y giÃºp loáº¡i bá» Ä‘á»™ trá»… do cÃ¡c thao tÃ¡c nháº­p/xuáº¥t (I/O) trÃªn Ä‘Ä©a, cho phÃ©p há»‡ thá»‘ng Ä‘áº¡t Ä‘Æ°á»£c thÃ´ng lÆ°á»£ng (throughput) cá»±c cao vÃ  Ä‘á»™ trá»… (latency) á»Ÿ má»©c tháº¥p ká»· lá»¥c.[12]
+CÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t ná»•i báº­t:
+Äa dáº¡ng cáº¥u trÃºc dá»¯ liá»‡u: Redis há»— trá»£ sáºµn nhiá»u kiá»ƒu dá»¯ liá»‡u phá»©c táº¡p nhÆ° Strings, Hashes, Lists, Sets, Sorted Sets, vÃ  tháº­m chÃ­ lÃ  cÃ¡c cáº¥u trÃºc Ä‘á»‹a lÃ½ (Geospatial indexes).[12]
+TÃ­nh Ä‘a nÄƒng: Há»‡ thá»‘ng cÃ³ thá»ƒ váº­n hÃ nh linh hoáº¡t nhÆ° má»™t database chÃ­nh (primary database), má»™t lá»›p caching hiá»‡u nÄƒng cao hoáº·c má»™t há»‡ thá»‘ng Pub/Sub Ä‘á»ƒ xá»­ lÃ½ tin nháº¯n.[12]
+CÆ¡ cháº¿ bá»n vá»¯ng dá»¯ liá»‡u (Persistence): Redis cung cáº¥p cÃ¡c tÃ¹y chá»n lÆ°u trá»¯ dá»¯ liá»‡u xuá»‘ng á»• cá»©ng thÃ´ng qua cÆ¡ cháº¿ RDB (snapshots) hoáº·c AOF (logs) Ä‘á»ƒ Ä‘áº£m báº£o an toÃ n dá»¯ liá»‡u khi khá»Ÿi Ä‘á»™ng láº¡i há»‡ thá»‘ng.[12]
+2.2.3.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.2.3.2.1 Æ¯u Ä‘iá»ƒm
+Hiá»‡u suáº¥t vÆ°á»£t trá»™i: Nhá» hoáº¡t Ä‘á»™ng hoÃ n toÃ n trÃªn bá»™ nhá»› (in-memory), Redis cung cáº¥p tá»‘c Ä‘á»™ Ä‘á»c/ghi cá»±c nhanh, thÆ°á»ng xá»­ lÃ½ hÃ ng triá»‡u yÃªu cáº§u má»—i giÃ¢y vá»›i Ä‘á»™ trá»… dÆ°á»›i má»™t mili giÃ¢y (sub-millisecond latency).[12]
+TÃ­nh nguyÃªn tá»­ (Atomicity): CÃ¡c thao tÃ¡c trÃªn dá»¯ liá»‡u Redis Ä‘á»u Ä‘áº£m báº£o tÃ­nh nguyÃªn tá»­. Äiá»u nÃ y Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n cá»§a dá»¯ liá»‡u ngay cáº£ khi cÃ³ nhiá»u client cÃ¹ng truy cáº­p vÃ  chá»‰nh sá»­a Ä‘á»“ng thá»i, trÃ¡nh Ä‘Æ°á»£c cÃ¡c tÃ¬nh tráº¡ng race condition.[12]
+Há»— trá»£ cáº¥u trÃºc dá»¯ liá»‡u phong phÃº: Kháº£ nÄƒng thao tÃ¡c trá»±c tiáº¿p vá»›i cÃ¡c cáº¥u trÃºc dá»¯ liá»‡u phá»©c táº¡p (nhÆ° thÃªm pháº§n tá»­ vÃ o danh sÃ¡ch, tÄƒng giÃ¡ trá»‹ trong hash) ngay trÃªn server giÃºp giáº£m thiá»ƒu khá»‘i lÆ°á»£ng tÃ­nh toÃ¡n cáº§n xá»­ lÃ½ á»Ÿ phÃ­a á»©ng dá»¥ng client.[12]
+2.2.3.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Giá»›i háº¡n dung lÆ°á»£ng lÆ°u trá»¯: Do phá»¥ thuá»™c vÃ o RAM, dung lÆ°á»£ng lÆ°u trá»¯ cá»§a Redis bá»‹ giá»›i háº¡n bá»Ÿi bá»™ nhá»› váº­t lÃ½ cá»§a mÃ¡y chá»§. Chi phÃ­ váº­n hÃ nh cÃ³ thá»ƒ tÄƒng cao náº¿u Ã¡p dá»¥ng Redis cho cÃ¡c bá»™ dá»¯ liá»‡u (dataset) cÃ³ kÃ­ch thÆ°á»›c quÃ¡ lá»›n.
+Váº¥n Ä‘á» vá» Ä‘á»™ bá»n dá»¯ liá»‡u: Máº·c dÃ¹ cÃ³ cÆ¡ cháº¿ persistence, nhÆ°ng so vá»›i cÃ¡c cÆ¡ sá»Ÿ dá»¯ liá»‡u quan há»‡ truyá»n thá»‘ng, Redis váº«n cÃ³ rá»§i ro máº¥t dá»¯ liá»‡u nhá» (trong khoáº£ng thá»i gian giá»¯a cÃ¡c láº§n snapshot) náº¿u há»‡ thá»‘ng gáº·p sá»± cá»‘ báº¥t ngá».[12]
+MÃ´ hÃ¬nh Ä‘Æ¡n luá»“ng (Single-threaded): Redis sá»­ dá»¥ng kiáº¿n trÃºc Ä‘Æ¡n luá»“ng Ä‘á»ƒ xá»­ lÃ½ lá»‡nh nháº±m Ä‘áº£m báº£o tÃ­nh nguyÃªn tá»­. Tuy nhiÃªn, Ä‘iá»u nÃ y cÃ³ nghÄ©a lÃ  náº¿u má»™t lá»‡nh thá»±c thi tá»‘n nhiá»u thá»i gian (vÃ­ dá»¥: cÃ¡c thao tÃ¡c trÃªn táº­p há»£p lá»›n), nÃ³ cÃ³ thá»ƒ cháº·n (block) toÃ n bá»™ cÃ¡c yÃªu cáº§u khÃ¡c Ä‘ang chá» xá»­ lÃ½.[12]
+2.2.4 Redpanda
+2.2.4.1 Redpanda lÃ  gÃ¬?
+Redpanda lÃ  má»™t ná»n táº£ng truyá»n phÃ¡t dá»¯ liá»‡u (Streaming Data Platform) hiá»‡n Ä‘áº¡i, hiá»‡u nÄƒng cao, Ä‘Æ°á»£c thiáº¿t káº¿ Ä‘á»ƒ tÆ°Æ¡ng thÃ­ch hoÃ n toÃ n (drop-in replacement) vá»›i API cá»§a Apache Kafka. KhÃ¡c vá»›i cÃ¡c há»‡ thá»‘ng truyá»n thá»‘ng cháº¡y trÃªn mÃ¡y áº£o Java (JVM), Redpanda Ä‘Æ°á»£c xÃ¢y dá»±ng tá»« Ä‘áº§u báº±ng ngÃ´n ngá»¯ C++, sá»­ dá»¥ng kiáº¿n trÃºc Thread-per-core (má»—i luá»“ng xá»­ lÃ½ gáº¯n cháº·t vá»›i má»™t lÃµi CPU) dá»±a trÃªn thÆ° viá»‡n Seastar.[22]
+Vá» máº·t váº­n hÃ nh, Redpanda loáº¡i bá» hoÃ n toÃ n sá»± phá»¥ thuá»™c vÃ o cÃ¡c thÃ nh pháº§n quáº£n lÃ½ bÃªn ngoÃ i nhÆ° ZooKeeper. Thay vÃ o Ä‘Ã³, nÃ³ tÃ­ch há»£p sáºµn thuáº­t toÃ¡n Ä‘á»“ng thuáº­n Raft Ä‘á»ƒ quáº£n lÃ½ metadata vÃ  sao chÃ©p dá»¯ liá»‡u, giÃºp Ä‘Æ¡n giáº£n hÃ³a kiáº¿n trÃºc há»‡ thá»‘ng thÃ nh má»™t tá»‡p tin nhá»‹ phÃ¢n duy nháº¥t (single binary). Redpanda Ä‘Ã³ng vai trÃ² lÃ  xÆ°Æ¡ng sá»‘ng cho cÃ¡c há»‡ thá»‘ng yÃªu cáº§u Ä‘á»™ trá»… cá»±c tháº¥p (micro-latency) vÃ  kháº£ nÄƒng xá»­ lÃ½ khá»‘i lÆ°á»£ng dá»¯ liá»‡u lá»›n mÃ  khÃ´ng gáº·p pháº£i cÃ¡c váº¥n Ä‘á» vá» táº¯c ngháº½n tÃ i nguyÃªn thÆ°á»ng tháº¥y á»Ÿ cÃ¡c ná»n táº£ng dá»±a trÃªn JVM.[22]
+CÃ¡c Ä‘áº·c tÃ­nh ká»¹ thuáº­t cá»‘t lÃµi:
+Kiáº¿n trÃºc Thread-per-core: Redpanda sá»­ dá»¥ng mÃ´ hÃ¬nh â€œshared-nothingâ€ (khÃ´ng chia sáº» tÃ i nguyÃªn), trong Ä‘Ã³ má»—i phÃ¢n vÃ¹ng dá»¯ liá»‡u Ä‘Æ°á»£c gÃ¡n cá»©ng cho má»™t lÃµi CPU cá»¥ thá»ƒ. Äiá»u nÃ y giÃºp tá»‘i Æ°u hÃ³a bá»™ nhá»› Ä‘á»‡m CPU (CPU cache locality) vÃ  loáº¡i bá» chi phÃ­ chuyá»ƒn Ä‘á»•i ngá»¯ cáº£nh (context switching) Ä‘áº¯t Ä‘á», mang láº¡i hiá»‡u suáº¥t vÆ°á»£t trá»™i.[22]
+KhÃ´ng phá»¥ thuá»™c ZooKeeper (ZooKeeper-free): Há»‡ thá»‘ng tá»± quáº£n lÃ½ cá»¥m vÃ  metadata thÃ´ng qua giao thá»©c Raft tÃ­ch há»£p sáºµn, giÃºp loáº¡i bá» gÃ¡nh náº·ng váº­n hÃ nh vÃ  cÃ¡c Ä‘iá»ƒm yáº¿u (point of failure) liÃªn quan Ä‘áº¿n viá»‡c duy trÃ¬ má»™t há»‡ thá»‘ng quáº£n lÃ½ riÃªng biá»‡t.[22]
+LÆ°u trá»¯ phÃ¢n táº§ng (Tiered Storage/Shadow Indexing): Redpanda cÃ³ kháº£ nÄƒng tá»± Ä‘á»™ng Ä‘áº©y dá»¯ liá»‡u lá»‹ch sá»­ sang cÃ¡c kho lÆ°u trá»¯ Ä‘á»‘i tÆ°á»£ng giÃ¡ ráº» (nhÆ° Amazon S3, Google Cloud Storage) mÃ  khÃ´ng lÃ m áº£nh hÆ°á»Ÿng Ä‘áº¿n hiá»‡u suáº¥t Ä‘á»c/ghi thá»i gian thá»±c, cho phÃ©p lÆ°u trá»¯ dá»¯ liá»‡u vÃ´ háº¡n vá»›i chi phÃ­ tháº¥p.[22]
+TÆ°Æ¡ng thÃ­ch hoÃ n toÃ n vá»›i Kafka API: Redpanda há»— trá»£ giao thá»©c Kafka á»Ÿ cáº¥p Ä‘á»™ dÃ¢y (wire protocol), nghÄ©a lÃ  má»i cÃ´ng cá»¥, thÆ° viá»‡n vÃ  á»©ng dá»¥ng hiá»‡n cÃ³ cá»§a há»‡ sinh thÃ¡i Kafka Ä‘á»u cÃ³ thá»ƒ hoáº¡t Ä‘á»™ng vá»›i Redpanda mÃ  khÃ´ng cáº§n sá»­a Ä‘á»•i mÃ£ nguá»“n.[22]
+2.2.4.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.2.4.2.1 Æ¯u Ä‘iá»ƒm
+Hiá»‡u suáº¥t xá»­ lÃ½ vÆ°á»£t trá»™i: Redpanda Ä‘Æ°á»£c thiáº¿t káº¿ Ä‘á»ƒ cung cáº¥p thÃ´ng lÆ°á»£ng cao vÃ  Ä‘á»™ trá»… á»Ÿ má»©c micro-giÃ¢y (micro-latency). Nhá» Ä‘Æ°á»£c viáº¿t báº±ng C++ vÃ  loáº¡i bá» cÃ¡c váº¥n Ä‘á» vá» Garbage Collection cá»§a JVM, há»‡ thá»‘ng váº­n hÃ nh mÆ°á»£t mÃ  vÃ  á»•n Ä‘á»‹nh hÆ¡n háº³n cÃ¡c message broker truyá»n thá»‘ng [22].
+ÄÆ¡n giáº£n hÃ³a váº­n hÃ nh: KhÃ¡c vá»›i Kafka, Redpanda khÃ´ng cáº§n ZooKeeper hay JVM Ä‘á»ƒ hoáº¡t Ä‘á»™ng. Viá»‡c triá»ƒn khai chá»‰ gÃ³i gá»n trong má»™t tá»‡p tin nhá»‹ phÃ¢n duy nháº¥t (single binary), giÃºp giáº£m bá»›t gÃ¡nh náº·ng vá» giÃ¡m sÃ¡t vÃ  quáº£n lÃ½ háº¡ táº§ng [22].
+TÆ°Æ¡ng thÃ­ch há»‡ sinh thÃ¡i Kafka: Nhá» viá»‡c há»— trá»£ hoÃ n toÃ n Kafka API, Redpanda cho phÃ©p cÃ¡c á»©ng dá»¥ng hiá»‡n cÃ³ chuyá»ƒn Ä‘á»•i sang sá»­ dá»¥ng má»™t cÃ¡ch tá»©c thÃ¬ (drop-in replacement) mÃ  khÃ´ng cáº§n thay Ä‘á»•i mÃ£ nguá»“n, giÃºp táº­n dá»¥ng tá»‘i Ä‘a cÃ¡c cÃ´ng cá»¥ vÃ  thÆ° viá»‡n sáºµn cÃ³ [22].
+Tá»‘i Æ°u hÃ³a tÃ i nguyÃªn pháº§n cá»©ng: Kiáº¿n trÃºc â€œthread-per-coreâ€ giÃºp Redpanda khai thÃ¡c tá»‘i Ä‘a sá»©c máº¡nh cá»§a cÃ¡c dÃ²ng CPU hiá»‡n Ä‘áº¡i, loáº¡i bá» lÃ£ng phÃ­ do chuyá»ƒn Ä‘á»•i ngá»¯ cáº£nh (context switching) vÃ  tá»‘i Æ°u hÃ³a bá»™ nhá»› Ä‘á»‡m [22].
+2.2.4.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Há»‡ sinh thÃ¡i tráº» hÆ¡n Kafka: Máº·c dÃ¹ tÆ°Æ¡ng thÃ­ch vá»›i Kafka API, nhÆ°ng Redpanda lÃ  má»™t ná»n táº£ng má»›i hÆ¡n. Cá»™ng Ä‘á»“ng há»— trá»£ vÃ  cÃ¡c tÃ i liá»‡u hÆ°á»›ng dáº«n tá»« bÃªn thá»© ba cÃ³ thá»ƒ chÆ°a phong phÃº báº±ng lá»‹ch sá»­ hÆ¡n 10 nÄƒm cá»§a Apache Kafka.
+ÄÃ²i há»i kiáº¿n thá»©c vá» kiáº¿n trÃºc hiá»‡n Ä‘áº¡i: Äá»ƒ khai thÃ¡c háº¿t sá»©c máº¡nh cá»§a mÃ´ hÃ¬nh â€œthread-per-coreâ€ vÃ  thuáº­t toÃ¡n Raft, Ä‘á»™i ngÅ© phÃ¡t triá»ƒn cáº§n cÃ³ kiáº¿n thá»©c nháº¥t Ä‘á»‹nh vá» cÃ¡ch phÃ¢n bá»• tÃ i nguyÃªn vÃ  quáº£n lÃ½ cá»¥m (cluster) theo phÆ°Æ¡ng thá»©c má»›i [22].
+YÃªu cáº§u pháº§n cá»©ng tá»‘i Æ°u: Äá»ƒ Ä‘áº¡t Ä‘Æ°á»£c hiá»‡u suáº¥t cá»±c cao nhÆ° cam káº¿t, Redpanda phÃ¡t huy tá»‘t nháº¥t trÃªn cÃ¡c há»‡ thá»‘ng sá»­ dá»¥ng á»• cá»©ng NVMe vÃ  máº¡ng tá»‘c Ä‘á»™ cao. CÃ¡c mÃ´i trÆ°á»ng pháº§n cá»©ng cÅ© hoáº·c áº£o hÃ³a khÃ´ng tá»‘i Æ°u cÃ³ thá»ƒ lÃ m háº¡n cháº¿ sá»©c máº¡nh cá»§a ná»n táº£ng nÃ y [22].
+Äá»™ phá»©c táº¡p trong tÃ¹y chá»‰nh chuyÃªn sÃ¢u: Äá»‘i vá»›i cÃ¡c bÃ i toÃ¡n yÃªu cáº§u can thiá»‡p sÃ¢u vÃ o giao thá»©c truyá»n tin, viá»‡c há»‡ thá»‘ng Ä‘Ã³ng gÃ³i má»i thá»© trong má»™t binary duy nháº¥t Ä‘Ã´i khi khiáº¿n viá»‡c tÃ¹y chá»‰nh cÃ¡c tham sá»‘ cáº¥p tháº¥p trá»Ÿ nÃªn khÃ¡c biá»‡t so vá»›i cÃ¡ch lÃ m truyá»n thá»‘ng trÃªn Kafka.
+2.2.5 JWT (JSON Web Token)
+2.2.5.1 JWT lÃ  gÃ¬?
+JSON Web Token (JWT) lÃ  má»™t tiÃªu chuáº©n má»Ÿ (RFC 7519) Ä‘á»‹nh nghÄ©a má»™t phÆ°Æ¡ng thá»©c nhá» gá»n vÃ  khÃ©p kÃ­n (self-contained) dÃ¹ng Ä‘á»ƒ truyá»n táº£i thÃ´ng tin an toÃ n giá»¯a cÃ¡c bÃªn dÆ°á»›i dáº¡ng Ä‘á»‘i tÆ°á»£ng JSON. ThÃ´ng tin trong JWT Ä‘Æ°á»£c Ä‘áº£m báº£o tÃ­nh toÃ n váº¹n vÃ  xÃ¡c thá»±c thÃ´ng qua chá»¯ kÃ½ Ä‘iá»‡n tá»­ (Digital Signature), sá»­ dá»¥ng thuáº­t toÃ¡n mÃ£ hÃ³a khÃ³a bÃ­ máº­t (HMAC) hoáº·c cáº·p khÃ³a cÃ´ng khai/bÃ­ máº­t (RSA hoáº·c ECDSA).[6]
+Trong kiáº¿n trÃºc cÃ¡c á»©ng dá»¥ng web hiá»‡n Ä‘áº¡i, Ä‘áº·c biá»‡t lÃ  cÃ¡c há»‡ thá»‘ng sá»­ dá»¥ng NestJS, JWT Ä‘Ã³ng vai trÃ² cá»‘t lÃµi trong cÆ¡ cháº¿ xÃ¡c thá»±c (Authentication) vÃ  á»§y quyá»n (Authorization). Quy trÃ¬nh hoáº¡t Ä‘á»™ng Ä‘iá»ƒn hÃ¬nh diá»…n ra nhÆ° sau: sau khi ngÆ°á»i dÃ¹ng Ä‘Äƒng nháº­p thÃ nh cÃ´ng, mÃ¡y chá»§ sáº½ cáº¥p phÃ¡t má»™t chuá»—i JWT. Trong cÃ¡c yÃªu cáº§u tiáº¿p theo, phÃ­a mÃ¡y khÃ¡ch (Client) sáº½ Ä‘Ã­nh kÃ¨m token nÃ y vÃ o tiÃªu Ä‘á» (Header) cá»§a gÃ³i tin HTTP (thÆ°á»ng theo Ä‘á»‹nh dáº¡ng Authorization: Bearer <token>). MÃ¡y chá»§ sáº½ tiáº¿n hÃ nh xÃ¡c thá»±c chá»¯ kÃ½ cá»§a token Ä‘á»ƒ Ä‘á»‹nh danh ngÆ°á»i dÃ¹ng vÃ  cáº¥p quyá»n truy cáº­p tÃ i nguyÃªn mÃ  khÃ´ng cáº§n thá»±c hiá»‡n truy váº¥n kiá»ƒm tra phiÃªn lÃ m viá»‡c (session) trong cÆ¡ sá»Ÿ dá»¯ liá»‡u.[9]
+Cáº¥u trÃºc ká»¹ thuáº­t: Má»™t chuá»—i JWT Ä‘Æ°á»£c cáº¥u thÃ nh tá»« ba pháº§n riÃªng biá»‡t, ngÄƒn cÃ¡ch nhau bá»Ÿi dáº¥u cháº¥m (.), bao gá»“m:
+Header (TiÃªu Ä‘á»): Chá»©a thÃ´ng tin vá» loáº¡i token (máº·c Ä‘á»‹nh lÃ  JWT) vÃ  thuáº­t toÃ¡n mÃ£ hÃ³a Ä‘Æ°á»£c sá»­ dá»¥ng Ä‘á»ƒ táº¡o chá»¯ kÃ½ (nhÆ° HMAC SHA256 hoáº·c RSA).[6]
+Payload (Pháº§n táº£i): Chá»©a cÃ¡c tuyÃªn bá»‘ (claims) vá» thá»±c thá»ƒ (thÆ°á»ng lÃ  thÃ´ng tin ngÆ°á»i dÃ¹ng) vÃ  cÃ¡c dá»¯ liá»‡u bá»• trá»£ khÃ¡c (nhÆ° thá»i gian phÃ¡t hÃ nh, thá»i gian háº¿t háº¡n).[6]
+Signature (Chá»¯ kÃ½): ÄÆ°á»£c táº¡o ra báº±ng cÃ¡ch mÃ£ hÃ³a pháº§n Header vÃ  Payload cÃ¹ng vá»›i má»™t khÃ³a bÃ­ máº­t. ThÃ nh pháº§n nÃ y Ä‘áº£m báº£o ráº±ng token khÃ´ng bá»‹ giáº£ máº¡o hoáº·c thay Ä‘á»•i trong quÃ¡ trÃ¬nh truyá»n táº£i.[6]
+2.2.5.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.2.5.2.1 Æ¯u Ä‘iá»ƒm
+TÃ­nh phi tráº¡ng thÃ¡i (Stateless): ÄÃ¢y lÃ  Æ°u Ä‘iá»ƒm quan trá»ng nháº¥t cá»§a JWT. MÃ¡y chá»§ khÃ´ng cáº§n lÆ°u trá»¯ tráº¡ng thÃ¡i phiÃªn lÃ m viá»‡c (session) cá»§a ngÆ°á»i dÃ¹ng, do toÃ n bá»™ thÃ´ng tin Ä‘á»‹nh danh cáº§n thiáº¿t Ä‘Ã£ Ä‘Æ°á»£c gÃ³i gá»n trong token. Äáº·c Ä‘iá»ƒm nÃ y giÃºp há»‡ thá»‘ng dá»… dÃ ng má»Ÿ rá»™ng theo chiá»u ngang (horizontal scaling), Ä‘áº·c biá»‡t phÃ¹ há»£p vá»›i kiáº¿n trÃºc vi dá»‹ch vá»¥ (Microservices).[6]
+Nhá» gá»n vÃ  Tá»± chá»©a (Compact & Self-contained): KÃ­ch thÆ°á»›c nhá» cá»§a JWT cho phÃ©p truyá»n táº£i dá»… dÃ ng qua URL, tham sá»‘ POST hoáº·c HTTP Header mÃ  khÃ´ng gÃ¢y áº£nh hÆ°á»Ÿng lá»›n Ä‘áº¿n hiá»‡u suáº¥t máº¡ng.[6]
+Kháº£ nÄƒng tÆ°Æ¡ng tÃ¡c (Interoperability): Do dá»±a trÃªn tiÃªu chuáº©n JSON phá»• biáº¿n, JWT cÃ³ thá»ƒ Ä‘Æ°á»£c táº¡o ra vÃ  xÃ¡c thá»±c bá»Ÿi nhiá»u ngÃ´n ngá»¯ láº­p trÃ¬nh khÃ¡c nhau (nhÆ° Node.js, Java, Python, .NET), táº¡o Ä‘iá»u kiá»‡n thuáº­n lá»£i cho viá»‡c giao tiáº¿p giá»¯a cÃ¡c há»‡ thá»‘ng Ä‘a ná»n táº£ng.[6]
+Hiá»‡u quáº£ cho API vÃ  Mobile: CÆ¡ cháº¿ xÃ¡c thá»±c qua token Ä‘áº·c biá»‡t tá»‘i Æ°u cho cÃ¡c á»©ng dá»¥ng di Ä‘á»™ng vÃ  Single Page Applications (SPA), nÆ¡i viá»‡c duy trÃ¬ cookie phiÃªn lÃ m viá»‡c thÆ°á»ng gáº·p nhiá»u háº¡n cháº¿ ká»¹ thuáº­t.
+2.2.5.2.2 NhÆ°á»£c Ä‘iá»ƒm
+KhÃ³ khÄƒn trong viá»‡c thu há»“i (Revocation): Do Ä‘áº·c tÃ­nh phi tráº¡ng thÃ¡i, viá»‡c vÃ´ hiá»‡u hÃ³a má»™t token trÆ°á»›c khi nÃ³ háº¿t háº¡n lÃ  ráº¥t phá»©c táº¡p. Khi token Ä‘Ã£ Ä‘Æ°á»£c phÃ¡t hÃ nh, nÃ³ sáº½ cÃ³ hiá»‡u lá»±c cho Ä‘áº¿n thá»i Ä‘iá»ƒm háº¿t háº¡n Ä‘á»‹nh sáºµn, trá»« khi há»‡ thá»‘ng triá»ƒn khai thÃªm cÃ¡c cÆ¡ cháº¿ kiá»ƒm soÃ¡t phá»¥ (nhÆ° Blacklist) lÃ m giáº£m Ä‘i tÃ­nh Æ°u viá»‡t vá» hiá»‡u nÄƒng ban Ä‘áº§u.
+Rá»§i ro lá»™ lá»t thÃ´ng tin: Pháº§n Payload cá»§a JWT chá»‰ Ä‘Æ°á»£c mÃ£ hÃ³a Base64 Ä‘Æ¡n thuáº§n chá»© khÃ´ng pháº£i mÃ£ hÃ³a báº£o máº­t (encrypted). Do Ä‘Ã³, báº¥t ká»³ ai sá»Ÿ há»¯u token Ä‘á»u cÃ³ thá»ƒ giáº£i mÃ£ vÃ  Ä‘á»c Ä‘Æ°á»£c ná»™i dung bÃªn trong. VÃ¬ váº­y, tuyá»‡t Ä‘á»‘i khÃ´ng Ä‘Æ°á»£c lÆ°u trá»¯ cÃ¡c thÃ´ng tin nháº¡y cáº£m (nhÆ° máº­t kháº©u, sá»‘ tháº» tÃ­n dá»¥ng) trong Payload.[6]
+Váº¥n Ä‘á» vá» kÃ­ch thÆ°á»›c: Náº¿u chá»©a quÃ¡ nhiá»u thÃ´ng tin (claims) trong Payload, kÃ­ch thÆ°á»›c token sáº½ tÄƒng lÃªn Ä‘Ã¡ng ká»ƒ. VÃ¬ token pháº£i Ä‘Æ°á»£c gá»­i kÃ¨m trong má»—i yÃªu cáº§u HTTP, Ä‘iá»u nÃ y cÃ³ thá»ƒ gÃ¢y tiÃªu tá»‘n bÄƒng thÃ´ng vÃ  áº£nh hÆ°á»Ÿng Ä‘áº¿n Ä‘á»™ trá»… cá»§a há»‡ thá»‘ng.[6]
+
+2.2.6 CÆ¡ sá»Ÿ dá»¯ liá»‡u vÃ  thÆ° viá»‡n truy cáº­p cÆ¡ sá»Ÿ dá»¯ liá»‡u
+2.2.6.1 MongoDB vÃ  Mongoose lÃ  gÃ¬?
+MongoDB lÃ  má»™t há»‡ quáº£n trá»‹ cÆ¡ sá»Ÿ dá»¯ liá»‡u mÃ£ nguá»“n má»Ÿ thuá»™c dÃ²ng NoSQL, Ä‘Æ°á»£c thiáº¿t káº¿ theo hÆ°á»›ng Ä‘á»‹nh hÆ°á»›ng tÃ i liá»‡u (document-oriented). Thay vÃ¬ sá»­ dá»¥ng cÃ¡c báº£ng vÃ  hÃ ng nhÆ° cÆ¡ sá»Ÿ dá»¯ liá»‡u quan há»‡ (RDBMS), MongoDB lÆ°u trá»¯ dá»¯ liá»‡u dÆ°á»›i dáº¡ng cÃ¡c tÃ i liá»‡u BSON (Binary JSON). Cáº¥u trÃºc nÃ y mang láº¡i tÃ­nh linh hoáº¡t cao, cho phÃ©p lÆ°á»£c Ä‘á»“ dá»¯ liá»‡u (schema) cÃ³ thá»ƒ thay Ä‘á»•i vÃ  phÃ¡t triá»ƒn theo thá»i gian mÃ  khÃ´ng chá»‹u sá»± rÃ ng buá»™c bá»Ÿi cÃ¡c cáº¥u trÃºc cá»©ng nháº¯c.[8]
+
+HÃ¬nh  5 MongoDB [8]
+Mongoose lÃ  má»™t thÆ° viá»‡n MÃ´ hÃ¬nh hÃ³a dá»¯ liá»‡u Ä‘á»‘i tÆ°á»£ng (Object Data Modeling - ODM) dÃ nh cho mÃ´i trÆ°á»ng Node.js, Ä‘Æ°á»£c thiáº¿t káº¿ chuyÃªn biá»‡t Ä‘á»ƒ tÆ°Æ¡ng tÃ¡c vá»›i MongoDB. Vá» báº£n cháº¥t, Mongoose cung cáº¥p má»™t lá»›p trá»«u tÆ°á»£ng hÃ³a (abstraction layer) giÃºp Ä‘Æ¡n giáº£n hÃ³a cÃ¡c thao tÃ¡c vá»›i cÆ¡ sá»Ÿ dá»¯ liá»‡u. NÃ³ cho phÃ©p láº­p trÃ¬nh viÃªn Ä‘á»‹nh nghÄ©a má»™t â€œlÆ°á»£c Ä‘á»“ bÃ¡n cá»©ng nháº¯câ€ (semi-rigid schema) ngay táº¡i táº§ng á»©ng dá»¥ng, qua Ä‘Ã³ há»— trá»£ thá»±c thi cáº¥u trÃºc dá»¯ liá»‡u, kiá»ƒm tra tÃ­nh há»£p lá»‡ (validation) vÃ  quáº£n lÃ½ logic nghiá»‡p vá»¥ má»™t cÃ¡ch cháº·t cháº½.[2]
+CÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t cá»‘t lÃµi cá»§a Mongoose:
+Äá»‹nh nghÄ©a LÆ°á»£c Ä‘á»“ (Schema Definition): Cung cáº¥p kháº£ nÄƒng Ä‘á»‹nh nghÄ©a chi tiáº¿t cáº¥u trÃºc dá»¯ liá»‡u mong muá»‘n, bao gá»“m cÃ¡c kiá»ƒu dá»¯ liá»‡u, giÃ¡ trá»‹ máº·c Ä‘á»‹nh vÃ  cÃ¡c rÃ ng buá»™c toÃ n váº¹n.[2]
+CÆ¡ cháº¿ XÃ¡c thá»±c (Validation): TÃ­ch há»£p sáºµn bá»™ cÃ´ng cá»¥ máº¡nh máº½ Ä‘á»ƒ kiá»ƒm tra tÃ­nh há»£p lá»‡ cá»§a dá»¯ liá»‡u Ä‘áº§u vÃ o trÆ°á»›c khi thá»±c hiá»‡n thao tÃ¡c lÆ°u trá»¯, Ä‘áº£m báº£o cháº¥t lÆ°á»£ng dá»¯ liá»‡u.[2]
+Middleware (Hooks): Cung cáº¥p cÃ¡c â€œmÃ³câ€ sá»± kiá»‡n cho phÃ©p thá»±c thi logic tÃ¹y chá»‰nh táº¡i cÃ¡c thá»i Ä‘iá»ƒm trÆ°á»›c hoáº·c sau khi thao tÃ¡c vá»›i cÆ¡ sá»Ÿ dá»¯ liá»‡u (vÃ­ dá»¥: tá»± Ä‘á»™ng bÄƒm máº­t kháº©u trÆ°á»›c khi lÆ°u save()).[2]
+Truy váº¥n trá»«u tÆ°á»£ng: Cung cáº¥p há»‡ thá»‘ng phÆ°Æ¡ng thá»©c (nhÆ° .find(), .create(), .updateOne()) giÃºp xÃ¢y dá»±ng cÃ¡c cÃ¢u lá»‡nh truy váº¥n phá»©c táº¡p má»™t cÃ¡ch trá»±c quan vÃ  dá»… Ä‘á»c hÆ¡n so vá»›i cÃº phÃ¡p nguyÃªn báº£n cá»§a MongoDB driver.[2]
+2.2.6.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm (cá»§a Mongoose)
+2.2.6.2.1 Æ¯u Ä‘iá»ƒm
+Äáº£m báº£o tÃ­nh nháº¥t quÃ¡n dá»¯ liá»‡u: Viá»‡c thá»±c thi lÆ°á»£c Ä‘á»“ táº¡i cáº¥p Ä‘á»™ á»©ng dá»¥ng giÃºp dá»¯ liá»‡u lÆ°u trá»¯ trong MongoDB tuÃ¢n thá»§ má»™t cáº¥u trÃºc thá»‘ng nháº¥t, giáº£m thiá»ƒu lá»—i logic vÃ  tÄƒng tÃ­nh toÃ n váº¹n.[2]
+TÃ­ch há»£p xÃ¡c thá»±c máº¡nh máº½: GiÃºp giáº£m thiá»ƒu Ä‘Ã¡ng ká»ƒ lÆ°á»£ng mÃ£ nguá»“n láº·p láº¡i (boilerplate code) cáº§n thiáº¿t cho viá»‡c kiá»ƒm tra dá»¯ liá»‡u, giÃºp mÃ£ nguá»“n trá»Ÿ nÃªn sáº¡ch sáº½ vÃ  táº­p trung hÆ¡n vÃ o logic nghiá»‡p vá»¥ chÃ­nh.[2]
+ÄÆ¡n giáº£n hÃ³a thao tÃ¡c CRUD: CÃ¡c phÆ°Æ¡ng thá»©c há»— trá»£ truy váº¥n (query helpers) cá»§a Mongoose giÃºp viá»‡c thao tÃ¡c dá»¯ liá»‡u trá»Ÿ nÃªn trá»±c quan, giáº£m Ä‘á»™ phá»©c táº¡p so vá»›i viá»‡c sá»­ dá»¥ng trÃ¬nh Ä‘iá»u khiá»ƒn gá»‘c (native driver).[2]
+Kháº£ nÄƒng má»Ÿ rá»™ng logic vá»›i Middleware: TÃ­nh nÄƒng Hooks cá»±c ká»³ há»¯u Ã­ch Ä‘á»ƒ triá»ƒn khai cÃ¡c logic nghiá»‡p vá»¥ phá»©c táº¡p má»™t cÃ¡ch tá»± Ä‘á»™ng vÃ  táº­p trung, nhÆ° cáº­p nháº­t thá»i gian chá»‰nh sá»­a hoáº·c kÃ­ch hoáº¡t cÃ¡c sá»± kiá»‡n phá»¥ trá»£.[2]
+2.2.6.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Giáº£m tÃ­nh linh hoáº¡t tá»± nhiÃªn cá»§a MongoDB: Viá»‡c Ã¡p Ä‘áº·t má»™t lÆ°á»£c Ä‘á»“ bÃ¡n cá»©ng nháº¯c vÃ´ tÃ¬nh lÃ m máº¥t Ä‘i má»™t pháº§n lá»£i tháº¿ â€œschema-lessâ€ (khÃ´ng cáº§n lÆ°á»£c Ä‘á»“) Ä‘áº·c trÆ°ng cá»§a NoSQL, cÃ³ thá»ƒ gÃ¢y trá»Ÿ ngáº¡i trong cÃ¡c trÆ°á»ng há»£p yÃªu cáº§u lÆ°u trá»¯ dá»¯ liá»‡u phi cáº¥u trÃºc hoÃ n toÃ n.
+áº¢nh hÆ°á»Ÿng Ä‘áº¿n hiá»‡u suáº¥t (Overhead): LÃ  má»™t lá»›p trá»«u tÆ°á»£ng trung gian, Mongoose tiÃªu tá»‘n thÃªm tÃ i nguyÃªn há»‡ thá»‘ng (CPU/RAM) Ä‘á»ƒ xá»­ lÃ½ logic ná»™i táº¡i, dáº«n Ä‘áº¿n hiá»‡u suáº¥t tháº¥p hÆ¡n Ä‘Ã´i chÃºt so vá»›i viá»‡c sá»­ dá»¥ng MongoDB Native Driver cho cÃ¡c truy váº¥n Ä‘Æ¡n giáº£n.
+ÄÆ°á»ng cong há»c táº­p: Láº­p trÃ¬nh viÃªn cáº§n Ä‘áº§u tÆ° thá»i gian Ä‘á»ƒ lÃ m chá»§ cÃ¡c khÃ¡i niá»‡m riÃªng cá»§a Mongoose nhÆ° Schema, Models, Virtuals vÃ  cÃ¡ch thá»©c hoáº¡t Ä‘á»™ng cá»§a Middleware.[2]
+Háº¡n cháº¿ trong xá»­ lÃ½ quan há»‡: Máº·c dÃ¹ cung cáº¥p phÆ°Æ¡ng thá»©c populate() Ä‘á»ƒ giáº£ láº­p phÃ©p káº¿t ná»‘i (JOIN), nhÆ°ng cÆ¡ cháº¿ nÃ y khÃ´ng hiá»‡u quáº£ báº±ng phÃ©p JOIN thá»±c sá»± trong SQL vÃ  cÃ³ thá»ƒ dáº«n Ä‘áº¿n váº¥n Ä‘á» hiá»‡u suáº¥t (váº¥n Ä‘á» N+1 query) náº¿u khÃ´ng Ä‘Æ°á»£c tá»‘i Æ°u hÃ³a cáº©n tháº­n.[2]
+2.2.7 Sentry
+2.2.7.1 Sentry lÃ  gÃ¬?
+Sentry lÃ  má»™t ná»n táº£ng mÃ£ nguá»“n má»Ÿ chuyÃªn dá»¥ng cho viá»‡c giÃ¡m sÃ¡t hiá»‡u suáº¥t á»©ng dá»¥ng (Application Performance Monitoring - APM) vÃ  theo dÃµi lá»—i (Error Tracking) theo thá»i gian thá»±c. CÃ´ng cá»¥ nÃ y Ä‘Ã³ng vai trÃ² thiáº¿t yáº¿u trong quy trÃ¬nh DevOps, giÃºp cÃ¡c nhÃ  phÃ¡t triá»ƒn nhanh chÃ³ng phÃ¡t hiá»‡n, cháº©n Ä‘oÃ¡n vÃ  kháº¯c phá»¥c cÃ¡c sá»± cá»‘ pháº§n má»m ngay khi chÃºng phÃ¡t sinh trÃªn mÃ´i trÆ°á»ng sáº£n pháº©m (production).[10]
+Trong kiáº¿n trÃºc cá»§a há»‡ thá»‘ng NestJS, viá»‡c tÃ­ch há»£p Sentry (thÃ´ng qua gÃ³i SDK @sentry/nestjs) cho phÃ©p tá»± Ä‘á»™ng thu tháº­p cÃ¡c ngoáº¡i lá»‡ (exceptions) vÃ  cÃ¡c váº¥n Ä‘á» vá» hiá»‡u suáº¥t nhÆ° Ä‘á»™ trá»… cá»§a giao dá»‹ch. Sentry khÃ´ng chá»‰ bÃ¡o cÃ¡o lá»—i mÃ  cÃ²n cung cáº¥p ngá»¯ cáº£nh chi tiáº¿t vá» tráº¡ng thÃ¡i há»‡ thá»‘ng táº¡i thá»i Ä‘iá»ƒm xáº£y ra sá»± cá»‘, giÃºp rÃºt ngáº¯n Ä‘Ã¡ng ká»ƒ quy trÃ¬nh gá»¡ lá»—i (debugging).[10]
+CÃ¡c tÃ­nh nÄƒng ká»¹ thuáº­t cá»‘t lÃµi:
+Theo dÃµi lá»—i thá»i gian thá»±c: Há»‡ thá»‘ng tá»± Ä‘á»™ng báº¯t (capture) vÃ  bÃ¡o cÃ¡o cÃ¡c ngoáº¡i lá»‡ chÆ°a Ä‘Æ°á»£c xá»­ lÃ½ (uncaught exceptions) ngay láº­p tá»©c, giÃºp Ä‘á»™i ngÅ© ká»¹ thuáº­t náº¯m báº¯t tÃ¬nh tráº¡ng sá»©c khá»e cá»§a á»©ng dá»¥ng tá»«ng giÃ¢y.[10]
+GiÃ¡m sÃ¡t hiá»‡u suáº¥t (APM): Cung cáº¥p kháº£ nÄƒng theo dÃµi cÃ¡c giao dá»‹ch (transactions) vÃ  luá»“ng dá»¯ liá»‡u, giÃºp xÃ¡c Ä‘á»‹nh cÃ¡c Ä‘iá»ƒm ngháº½n cá»• chai (bottlenecks) hoáº·c cÃ¡c truy váº¥n cÆ¡ sá»Ÿ dá»¯ liá»‡u cÃ³ Ä‘á»™ trá»… cao lÃ m áº£nh hÆ°á»Ÿng Ä‘áº¿n tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng.[10]
+BÃ¡o cÃ¡o giÃ u ngá»¯ cáº£nh: CÃ¡c thÃ´ng bÃ¡o lá»—i Ä‘i kÃ¨m vá»›i thÃ´ng tin cháº©n Ä‘oÃ¡n sÃ¢u sáº¯c bao gá»“m Stack trace, thÃ´ng tin mÃ´i trÆ°á»ng (há»‡ Ä‘iá»u hÃ nh, phiÃªn báº£n á»©ng dá»¥ng) vÃ  Breadcrumbs (dáº¥u váº¿t hÃ nh vi cá»§a ngÆ°á»i dÃ¹ng dáº«n Ä‘áº¿n lá»—i).[10]
+Há»‡ thá»‘ng cáº£nh bÃ¡o thÃ´ng minh: Cho phÃ©p cáº¥u hÃ¬nh cÃ¡c quy táº¯c cáº£nh bÃ¡o (Alert Rules) linh hoáº¡t Ä‘á»ƒ gá»­i thÃ´ng bÃ¡o tá»©c thÃ¬ Ä‘áº¿n Ä‘á»™i ngÅ© phÃ¡t triá»ƒn qua Email, Slack hoáº·c cÃ¡c kÃªnh liÃªn láº¡c khÃ¡c khi phÃ¡t hiá»‡n sá»± cá»‘ nghiÃªm trá»ng.[10]
+2.2.7.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm
+2.2.7.2.1 Æ¯u Ä‘iá»ƒm
+Kháº£ nÄƒng quan sÃ¡t toÃ n diá»‡n (Real-time Visibility): Æ¯u Ä‘iá»ƒm lá»›n nháº¥t cá»§a Sentry lÃ  cung cáº¥p cÃ¡i nhÃ¬n trá»±c quan vÃ  tá»©c thá»i vá» cÃ¡c lá»—i Ä‘ang xáº£y ra. Äiá»u nÃ y cho phÃ©p doanh nghiá»‡p pháº£n á»©ng nhanh chÃ³ng Ä‘á»ƒ kháº¯c phá»¥c sá»± cá»‘ trÆ°á»›c khi chÃºng gÃ¢y áº£nh hÆ°á»Ÿng rá»™ng rÃ£i Ä‘áº¿n ngÆ°á»i dÃ¹ng cuá»‘i.[10]
+Há»— trá»£ gá»¡ lá»—i chuyÃªn sÃ¢u: Thay vÃ¬ chá»‰ nháº­n Ä‘Æ°á»£c cÃ¡c dÃ²ng log lá»—i khÃ´ khan, Sentry tÃ¡i hiá»‡n láº¡i ngá»¯ cáº£nh Ä‘áº§y Ä‘á»§ cá»§a sá»± cá»‘ (thÃ´ng qua Breadcrumbs vÃ  Tags), giÃºp láº­p trÃ¬nh viÃªn hiá»ƒu rÃµ nguyÃªn nhÃ¢n gá»‘c rá»… (root cause) mÃ  khÃ´ng máº¥t nhiá»u thá»i gian tÃ¡i láº­p lá»—i thá»§ cÃ´ng.[10]
+TÃ­ch há»£p APM hiá»‡u quáº£: Viá»‡c káº¿t há»£p theo dÃµi lá»—i vÃ  giÃ¡m sÃ¡t hiá»‡u suáº¥t trÃªn cÃ¹ng má»™t ná»n táº£ng giÃºp phÃ¡t hiá»‡n cÃ¡c váº¥n Ä‘á» tiá»m áº©n nhÆ° váº¥n Ä‘á» â€œN+1 queryâ€ hoáº·c cÃ¡c API endpoints pháº£n há»“i cháº­m, mang láº¡i cÃ¡i nhÃ¬n tá»•ng thá»ƒ vá» cháº¥t lÆ°á»£ng pháº§n má»m.[10]
+Dá»… dÃ ng tÃ­ch há»£p: Sentry cung cáº¥p há»‡ sinh thÃ¡i SDK Ä‘a dáº¡ng, há»— trá»£ tá»‘i Æ°u cho nhiá»u ngÃ´n ngá»¯ vÃ  framework hiá»‡n Ä‘áº¡i (bao gá»“m NestJS), giÃºp quÃ¡ trÃ¬nh cÃ i Ä‘áº·t vÃ  cáº¥u hÃ¬nh diá»…n ra Ä‘Æ¡n giáº£n vÃ  nhanh chÃ³ng.[10]
+2.2.7.2.2 NhÆ°á»£c Ä‘iá»ƒm
+Chi phÃ­ váº­n hÃ nh: Äá»‘i vá»›i cÃ¡c á»©ng dá»¥ng cÃ³ lÆ°u lÆ°á»£ng truy cáº­p lá»›n, phiÃªn báº£n Ä‘Ã¡m mÃ¢y (SaaS) cá»§a Sentry Ã¡p dá»¥ng mÃ´ hÃ¬nh tÃ­nh phÃ­ dá»±a trÃªn sá»‘ lÆ°á»£ng sá»± kiá»‡n (events), Ä‘iá»u nÃ y cÃ³ thá»ƒ dáº«n Ä‘áº¿n chi phÃ­ tÄƒng cao náº¿u khÃ´ng cÃ³ chiáº¿n lÆ°á»£c kiá»ƒm soÃ¡t log há»£p lÃ½.
+Nhiá»…u thÃ´ng tin (Alert Fatigue): Náº¿u khÃ´ng Ä‘Æ°á»£c cáº¥u hÃ¬nh lá»c ká»¹ cÃ ng, Sentry cÃ³ thá»ƒ gá»­i vá» má»™t lÆ°á»£ng lá»›n cÃ¡c cáº£nh bÃ¡o khÃ´ng quan trá»ng hoáº·c lá»—i tá»« phÃ­a mÃ¡y khÃ¡ch (nhÆ° lá»—i do tiá»‡n Ã­ch trÃ¬nh duyá»‡t), gÃ¢y xao nhÃ£ng vÃ  khÃ³ khÄƒn trong viá»‡c táº­p trung vÃ o cÃ¡c sá»± cá»‘ nghiÃªm trá»ng.
+Äá»™ phá»©c táº¡p khi tá»± triá»ƒn khai (Self-hosting): Máº·c dÃ¹ lÃ  mÃ£ nguá»“n má»Ÿ, viá»‡c tá»± xÃ¢y dá»±ng vÃ  duy trÃ¬ háº¡ táº§ng Sentry riÃªng (On-premise) Ä‘Ã²i há»i tÃ i nguyÃªn pháº§n cá»©ng lá»›n vÃ  quy trÃ¬nh váº­n hÃ nh phá»©c táº¡p Ä‘á»ƒ Ä‘áº£m báº£o tÃ­nh á»•n Ä‘á»‹nh.
+áº¢nh hÆ°á»Ÿng nháº¹ Ä‘áº¿n hiá»‡u suáº¥t (Overhead): Viá»‡c thu tháº­p vÃ  gá»­i dá»¯ liá»‡u giÃ¡m sÃ¡t liÃªn tá»¥c cháº¯c cháº¯n sáº½ tiÃªu tá»‘n má»™t lÆ°á»£ng nhá» tÃ i nguyÃªn há»‡ thá»‘ng. Náº¿u cáº¥u hÃ¬nh thu tháº­p quÃ¡ nhiá»u dá»¯ liá»‡u hiá»‡u suáº¥t (sampling rate cao), thá»i gian pháº£n há»“i cá»§a á»©ng dá»¥ng cÃ³ thá»ƒ bá»‹ áº£nh hÆ°á»Ÿng.[10]
+2.2.8 Socket.io
+2.2.8.1 Socket.io lÃ  gÃ¬? 
+Socket.io lÃ  má»™t thÆ° viá»‡n javascript cho phÃ©p giao tiáº¿p hai chiá»u (bi-directional), thá»i gian thá»±c (real-time) vÃ  dá»±a trÃªn sá»± kiá»‡n (event-based) giá»¯a mÃ¡y khÃ¡ch (client) vÃ  mÃ¡y chá»§ (server). NÃ³ hoáº¡t Ä‘á»™ng dá»±a trÃªn giao thá»©c websocket nhÆ°ng cung cáº¥p thÃªm cÃ¡c tÃ­nh nÄƒng nÃ¢ng cao nhÆ° tá»± Ä‘á»™ng káº¿t ná»‘i láº¡i (auto-reconnection), phÃ¡t sÃ³ng (broadcasting) vÃ  xÃ¡c nháº­n gá»­i tin nháº¯n (acknowledgments).[9]
+Trong kiáº¿n trÃºc cá»§a há»‡ thá»‘ng FoodMap, socket.io Ä‘Ã³ng vai trÃ² cá»‘t lÃµi trong viá»‡c duy trÃ¬ káº¿t ná»‘i liÃªn tá»¥c giá»¯a ngÆ°á»i dÃ¹ng vÃ  há»‡ thá»‘ng quáº£n trá»‹, thay tháº¿ cho cÆ¡ cháº¿ há»i vÃ²ng (polling) truyá»n thá»‘ng vá»‘n tiÃªu tá»‘n nhiá»u tÃ i nguyÃªn.[9]
+2.2.8.2 Æ¯u vÃ  nhÆ°á»£c Ä‘iá»ƒm 
+2.2.8.2.1 Æ¯u Ä‘iá»ƒm
+Giao tiáº¿p thá»i gian thá»±c: cho phÃ©p truyá»n táº£i dá»¯ liá»‡u tá»©c thÃ¬ vá»›i Ä‘á»™ trá»… cá»±c tháº¥p (low latency), lÃ½ tÆ°á»Ÿng cho cÃ¡c tÃ­nh nÄƒng thÃ´ng bÃ¡o Ä‘Æ¡n hÃ ng hoáº·c cáº­p nháº­t vá»‹ trÃ­ tÃ i xáº¿.[9]
+TÃ­nh tin cáº­y cao: tÃ­ch há»£p cÆ¡ cháº¿ tá»± Ä‘á»™ng chuyá»ƒn Ä‘á»•i (fallback) sang http long polling náº¿u mÃ´i trÆ°á»ng máº¡ng khÃ´ng há»— trá»£ websocket, Ä‘áº£m báº£o káº¿t ná»‘i luÃ´n Ä‘Æ°á»£c duy trÃ¬.[9]
+Há»— trá»£ phÃ²ng (rooms) vÃ  khÃ´ng gian tÃªn (namespaces): giÃºp phÃ¢n chia luá»“ng dá»¯ liá»‡u hiá»‡u quáº£, vÃ­ dá»¥ nhÆ° gá»­i thÃ´ng bÃ¡o riÃªng biá»‡t cho tá»«ng chá»§ nhÃ  hÃ ng cá»¥ thá»ƒ mÃ  khÃ´ng áº£nh hÆ°á»Ÿng Ä‘áº¿n toÃ n bá»™ há»‡ thá»‘ng.[9]
+2.2.8.2.2 NhÆ°á»£c Ä‘iá»ƒm
+ThÃ¡ch thá»©c khi má»Ÿ rá»™ng (scaling): khi triá»ƒn khai trÃªn nhiá»u mÃ¡y chá»§ (cluster), socket.io yÃªu cáº§u pháº£i sá»­ dá»¥ng thÃªm redis adapter Ä‘á»ƒ Ä‘á»“ng bá»™ hÃ³a cÃ¡c sá»± kiá»‡n giá»¯a cÃ¡c node, lÃ m tÄƒng Ä‘á»™ phá»©c táº¡p cá»§a háº¡ táº§ng.[9][12]
+Duy trÃ¬ káº¿t ná»‘i: viá»‡c duy trÃ¬ má»™t káº¿t ná»‘i má»Ÿ liÃªn tá»¥c (open connection) cho má»—i ngÆ°á»i dÃ¹ng cÃ³ thá»ƒ tiÃªu tá»‘n tÃ i nguyÃªn mÃ¡y chá»§ náº¿u sá»‘ lÆ°á»£ng ngÆ°á»i dÃ¹ng Ä‘á»“ng thá»i (ccu) quÃ¡ lá»›n.
+2.2.9 AI Agent vÃ  Ná»n táº£ng n8n (Workflow Automation)
+n8n (viáº¿t táº¯t cá»§a â€œnodemationâ€) lÃ  má»™t ná»n táº£ng tá»± Ä‘á»™ng hÃ³a quy trÃ¬nh lÃ m viá»‡c (workflow automation) mÃ£ nguá»“n má»Ÿ, cho phÃ©p káº¿t ná»‘i cÃ¡c á»©ng dá»¥ng, cÆ¡ sá»Ÿ dá»¯ liá»‡u vÃ  dá»‹ch vá»¥ API thÃ´ng qua giao diá»‡n trá»±c quan dáº¡ng biá»ƒu Ä‘á»“ nÃºt (node-based) [23]. Trong khuÃ´n khá»• Ä‘á» tÃ i, n8n Ä‘Ã³ng vai trÃ² lÃ  lá»›p trung gian Ä‘iá»u phá»‘i (Orchestrator), káº¿t há»£p sá»©c máº¡nh cá»§a mÃ´ hÃ¬nh ngÃ´n ngá»¯ lá»›n (Google Gemini) vá»›i dá»¯ liá»‡u doanh nghiá»‡p Ä‘á»ƒ táº¡o ra má»™t AI Agent thÃ´ng minh.
+2.2.9.1 KhÃ¡i niá»‡m vá» AI Agent trong há»‡ thá»‘ng
+Trong ngá»¯ cáº£nh cá»§a á»©ng dá»¥ng FoodMap, AI Agent khÃ´ng chá»‰ Ä‘Æ¡n thuáº§n lÃ  má»™t cÃ´ng cá»¥ tráº£ lá»i tin nháº¯n tá»± Ä‘á»™ng mÃ  lÃ  má»™t tÃ¡c nhÃ¢n pháº§n má»m cÃ³ kháº£ nÄƒng suy luáº­n. NÃ³ sá»­ dá»¥ng mÃ´ hÃ¬nh ngÃ´n ngá»¯ Google Gemini Ä‘á»ƒ:
+Hiá»ƒu ngÃ´n ngá»¯ tá»± nhiÃªn (NLP): PhÃ¢n tÃ­ch cÃ¡c cÃ¢u há»i phá»©c táº¡p cá»§a ngÆ°á»i dÃ¹ng nhÆ° â€œTÃ¬m quÃ¡n láº©u ngon bá»• ráº» á»Ÿ GÃ² Váº¥pâ€ [24].
+Truy xuáº¥t thÃ´ng tin (Retrieval): Káº¿t ná»‘i vá»›i cÆ¡ sá»Ÿ dá»¯ liá»‡u vector Ä‘á»ƒ tÃ¬m kiáº¿m thÃ´ng tin thá»±c táº¿ vá» nhÃ  hÃ ng, mÃ³n Äƒn [23].
+Tá»•ng há»£p cÃ¢u tráº£ lá»i: Sinh ra pháº£n há»“i tá»± nhiÃªn, chÃ­nh xÃ¡c dá»±a trÃªn dá»¯ liá»‡u tÃ¬m Ä‘Æ°á»£c chá»© khÃ´ng chá»‰ dá»±a vÃ o dá»¯ liá»‡u huáº¥n luyá»‡n sáºµn cá»§a mÃ´ hÃ¬nh [24].
+2.2.9.2 Kiáº¿n trÃºc vÃ  hoáº¡t Ä‘á»™ng cá»§a AI Agent trong n8n
+Dá»±a trÃªn quy trÃ¬nh thá»±c táº¿ Ä‘Æ°á»£c triá»ƒn khai trong Ä‘á»“ Ã¡n, kiáº¿n trÃºc cá»§a AI Agent trÃªn n8n bao gá»“m cÃ¡c thÃ nh pháº§n cá»‘t lÃµi sau:
+Webhook Trigger: Äiá»ƒm tiáº¿p nháº­n yÃªu cáº§u tin nháº¯n tá»« phÃ­a á»©ng dá»¥ng Client (Frontend) gá»­i vá» server [23].
+AI Agent Node (RAG Chain): ÄÃ¢y lÃ  â€œbá»™ nÃ£oâ€ trung tÃ¢m Ä‘iá»u phá»‘i quy trÃ¬nh Retrieval-Augmented Generation (RAG). Node nÃ y chá»‹u trÃ¡ch nhiá»‡m gá»i cÃ¡c cÃ´ng cá»¥ há»— trá»£ Ä‘á»ƒ xá»­ lÃ½ yÃªu cáº§u [23].
+Google Gemini Chat Model: MÃ´ hÃ¬nh ngÃ´n ngá»¯ lá»›n (LLM) Ä‘Æ°á»£c tÃ­ch há»£p Ä‘á»ƒ xá»­ lÃ½ ngá»¯ nghÄ©a, Ä‘Ã³ng vai trÃ² hiá»ƒu Ã½ Ä‘á»‹nh ngÆ°á»i dÃ¹ng vÃ  soáº¡n tháº£o cÃ¢u tráº£ lá»i [24].
+Vector Store Tool (Supabase): CÃ´ng cá»¥ cho phÃ©p AI Agent truy váº¥n dá»¯ liá»‡u ngá»¯ nghÄ©a tá»« cÆ¡ sá»Ÿ dá»¯ liá»‡u Supabase. Nhá» Ä‘Ã³, AI cÃ³ thá»ƒ â€œÄ‘á»câ€ Ä‘Æ°á»£c thá»±c Ä‘Æ¡n vÃ  thÃ´ng tin quÃ¡n Äƒn Ä‘á»ƒ tráº£ lá»i chÃ­nh xÃ¡c [23].
+Window Buffer Memory (Postgres): Há»‡ thá»‘ng bá»™ nhá»› lÆ°u trá»¯ lá»‹ch sá»­ há»™i thoáº¡i vÃ o PostgreSQL, giÃºp AI nhá»› Ä‘Æ°á»£c ngá»¯ cáº£nh cÃ¡c cÃ¢u há»i trÆ°á»›c Ä‘Ã³ Ä‘á»ƒ duy trÃ¬ máº¡ch Ä‘á»‘i thoáº¡i liÃªn tá»¥c [23].
+
+
+
+HÃ¬nh  6 SÆ¡ Ä‘á»“ luá»“ng xá»­ lÃ½ thá»±c táº¿ cá»§a AI Agent trÃªn ná»n táº£ng n8n
+2.2.9.3 á»¨ng dá»¥ng trong há»‡ thá»‘ng FoodMap
+Viá»‡c tÃ­ch há»£p AI Agent thÃ´ng qua n8n giÃºp giáº£i quyáº¿t cÃ¡c bÃ i toÃ¡n tÃ¬m kiáº¿m áº©m thá»±c mÃ  cÃ¡c bá»™ lá»c truyá»n thá»‘ng khÃ´ng lÃ m Ä‘Æ°á»£c:
+TÆ° váº¥n áº©m thá»±c theo ngá»¯ cáº£nh (Contextual Recommendation): Thay vÃ¬ pháº£i chá»n tá»«ng bá»™ lá»c (Quáº­n, GiÃ¡, Loáº¡i mÃ³n), ngÆ°á»i dÃ¹ng cÃ³ thá»ƒ Ä‘Æ°a ra cÃ¡c yÃªu cáº§u trá»«u tÆ°á»£ng nhÆ° â€œTÃ¬m quÃ¡n cÃ  phÃª yÃªn tÄ©nh Ä‘á»ƒ lÃ m viá»‡câ€ hoáº·c â€œQuÃ¡n nháº­u cÃ³ khÃ´ng gian má»Ÿ cho nhÃ³m 10 ngÆ°á»iâ€. AI Agent sáº½ phÃ¢n tÃ­ch cÃ¡c tá»« khÃ³a â€œyÃªn tÄ©nhâ€, â€œlÃ m viá»‡câ€, â€œnhÃ³m Ä‘Ã´ngâ€ Ä‘á»ƒ tÃ¬m cÃ¡c Ä‘á»‹a Ä‘iá»ƒm cÃ³ Ä‘áº·c Ä‘iá»ƒm tÆ°Æ¡ng á»©ng trong cÆ¡ sá»Ÿ dá»¯ liá»‡u vector.
+Tra cá»©u thÃ´ng tin chi tiáº¿t: NgÆ°á»i dÃ¹ng cÃ³ thá»ƒ há»i chi tiáº¿t vá» mÃ³n Äƒn hoáº·c dá»‹ch vá»¥ cá»¥ thá»ƒ, vÃ­ dá»¥: â€œQuÃ¡n Láº©u ThÃ¡i MeKong cÃ³ bÃ¡n mang vá» khÃ´ng?â€ hoáº·c â€œGiÃ¡ trung bÃ¬nh cá»§a mÃ³n nÆ°á»›ng lÃ  bao nhiÃªu?â€. AI Agent sáº½ trÃ­ch xuáº¥t thÃ´ng tin tá»« dá»¯ liá»‡u nhÃ  hÃ ng Ä‘á»ƒ tráº£ lá»i chÃ­nh xÃ¡c, thay vÃ¬ Ä‘Æ°a ra cÃ¡c thÃ´ng tin chung chung.
+CÃ¡ nhÃ¢n hÃ³a tráº£i nghiá»‡m: ThÃ´ng qua bá»™ nhá»› há»™i thoáº¡i, AI Agent cÃ³ thá»ƒ ghi nhá»› sá»Ÿ thÃ­ch cá»§a ngÆ°á»i dÃ¹ng trong phiÃªn lÃ m viá»‡c. VÃ­ dá»¥, náº¿u ngÆ°á»i dÃ¹ng vá»«a tÃ¬m â€œmÃ³n Nháº­tâ€, cÃ¢u há»i tiáº¿p theo â€œCÃ³ quÃ¡n nÃ o gáº§n Ä‘Ã¢y khÃ´ng?â€ sáº½ Ä‘Æ°á»£c AI tá»± hiá»ƒu lÃ  â€œQuÃ¡n mÃ³n Nháº­t gáº§n Ä‘Ã¢yâ€.
+2.2.9.4 Háº¡n cháº¿
+Máº·c dÃ¹ mang láº¡i tráº£i nghiá»‡m vÆ°á»£t trá»™i, viá»‡c triá»ƒn khai AI Agent trÃªn n8n cÅ©ng tá»“n táº¡i má»™t sá»‘ thÃ¡ch thá»©c ká»¹ thuáº­t:
+Äá»™ trá»… pháº£n há»“i (Latency): Do quy trÃ¬nh xá»­ lÃ½ pháº£i Ä‘i qua nhiá»u bÆ°á»›c trung gian (Webhook -> n8n -> Embedding -> Vector Search -> Gemini -> Response), thá»i gian pháº£n há»“i cá»§a Chatbot cÃ³ thá»ƒ cháº­m hÆ¡n so vá»›i cÃ¡c truy váº¥n cÆ¡ sá»Ÿ dá»¯ liá»‡u thÃ´ng thÆ°á»ng, Ä‘áº·c biá»‡t khi máº¡ng khÃ´ng á»•n Ä‘á»‹nh.
+Rá»§i ro vá» â€œáº¢o giÃ¡c AIâ€: DÃ¹ Ä‘Ã£ Ã¡p dá»¥ng ká»¹ thuáº­t RAG Ä‘á»ƒ cung cáº¥p dá»¯ liá»‡u tháº­t, nhÆ°ng trong má»™t sá»‘ trÆ°á»ng há»£p cÃ¢u há»i quÃ¡ mÆ¡ há»“ hoáº·c dá»¯ liá»‡u quÃ¡n Äƒn chÆ°a cáº­p nháº­t Ä‘á»§, Google Gemini váº«n cÃ³ thá»ƒ tá»± sinh ra cÃ¡c thÃ´ng tin khÃ´ng chÃ­nh xÃ¡c hoáº·c bá»‹a Ä‘áº·t Ä‘á»ƒ lÃ m hÃ i lÃ²ng ngÆ°á»i dÃ¹ng.[24]
+Phá»¥ thuá»™c vÃ o bÃªn thá»© ba: Hoáº¡t Ä‘á»™ng cá»§a há»‡ thá»‘ng phá»¥ thuá»™c hoÃ n toÃ n vÃ o tÃ­nh sáºµn sÃ ng cá»§a cÃ¡c dá»‹ch vá»¥ bÃªn ngoÃ i nhÆ° Google Gemini API vÃ  n8n Cloud [23]. Báº¥t ká»³ sá»± cá»‘ giÃ¡n Ä‘oáº¡n nÃ o tá»« cÃ¡c nhÃ  cung cáº¥p nÃ y Ä‘á»u sáº½ khiáº¿n tÃ­nh nÄƒng Chatbot ngá»«ng hoáº¡t Ä‘á»™ng.
+Chi phÃ­ váº­n hÃ nh: Viá»‡c lÆ°u trá»¯ vector trÃªn Supabase vÃ  gá»i API cá»§a Google Gemini liÃªn tá»¥c vá»›i má»—i tin nháº¯n cÃ³ thá»ƒ lÃ m phÃ¡t sinh chi phÃ­ lá»›n khi lÆ°á»£ng ngÆ°á»i dÃ¹ng tÄƒng cao, Ä‘Ã²i há»i chiáº¿n lÆ°á»£c tá»‘i Æ°u hÃ³a token vÃ  bá»™ nhá»› Ä‘á»‡m phÃ¹ há»£p.[24]
+
+ChÆ°Æ¡ng III: KHáº¢O SÃT THá»°C TRáº NG
+3.1 Kháº£o sÃ¡t cÃ¡c website Ná»n táº£ng Foodtech
+3.1.1 Website ShopeeFood 
+CÃ¡c mÃ n hÃ¬nh chÃ­nh:
+
+
+HÃ¬nh  7 Giao diá»‡n trang chá»§ cá»§a ShopeeFood
+
+HÃ¬nh  8 Giao diá»‡n trang ShopeeFood
+
+HÃ¬nh  9 Giao diá»‡n trang chi tiáº¿t sáº£n pháº©m cá»§a ShopeeFood
+
+HÃ¬nh  10 Giao diá»‡n trang há»“ sÆ¡ cá»§a tÃ´i cá»§a ShopeeFood.vn
+CÃ¡c chá»©c nÄƒng nghiá»‡p vá»¥ cá»‘t lÃµi:
+CÆ¡ cháº¿ tÃ¬m kiáº¿m vÃ  bá»™ lá»c Ä‘a chiá»u, há»‡ thá»‘ng cung cáº¥p cÃ´ng cá»¥ tÃ¬m kiáº¿m máº¡nh máº½, cho phÃ©p ngÆ°á»i dÃ¹ng tra cá»©u khÃ´ng chá»‰ nhÃ  hÃ ng, quÃ¡n Äƒn mÃ  cÃ²n má»Ÿ rá»™ng sang thá»±c pháº©m tÆ°Æ¡i sá»‘ng vÃ  nhu yáº¿u pháº©m. CÃ¡c thuáº­t toÃ¡n gá»£i Ã½ Ä‘Æ°á»£c tá»‘i Æ°u hÃ³a dá»±a trÃªn tá»« khÃ³a, danh má»¥c vÃ  lá»‹ch sá»­ tÃ¬m kiáº¿m cá»§a ngÆ°á»i dÃ¹ng.[15]
+Quy trÃ¬nh Ä‘áº·t hÃ ng vÃ  thanh toÃ¡n linh hoáº¡t, há»— trá»£ quy trÃ¬nh Ä‘áº·t mÃ³n khÃ©p kÃ­n tá»« lá»±a chá»n thá»±c Ä‘Æ¡n Ä‘áº¿n thanh toÃ¡n. Äiá»ƒm ná»•i báº­t lÃ  kháº£ nÄƒng tÃ­ch há»£p Ä‘a phÆ°Æ¡ng thá»©c thanh toÃ¡n: tá»« truyá»n thá»‘ng (Tiá»n máº·t - COD) Ä‘áº¿n hiá»‡n Ä‘áº¡i (Thanh toÃ¡n khÃ´ng tiá»n máº·t qua VÃ­ ShopeePay, tháº» tÃ­n dá»¥ng/ghi ná»£), giÃºp tá»‘i Æ°u hÃ³a tá»· lá»‡ chuyá»ƒn Ä‘á»•i Ä‘Æ¡n hÃ ng.[15]
+GiÃ¡m sÃ¡t hÃ nh trÃ¬nh thá»i gian thá»±c (Real-time Tracking), á»©ng dá»¥ng tÃ­ch há»£p cÃ´ng nghá»‡ Ä‘á»‹nh vá»‹ GPS (nhÆ° Google Maps), cho phÃ©p ngÆ°á»i dÃ¹ng theo dÃµi chÃ­nh xÃ¡c vá»‹ trÃ­ cá»§a tÃ i xáº¿ vÃ  tiáº¿n trÃ¬nh xá»­ lÃ½ Ä‘Æ¡n hÃ ng theo thá»i gian thá»±c (Äang chuáº©n bá»‹, Äang tÃ¬m tÃ i xáº¿, Äang giao hÃ ng), giÃºp giáº£m thiá»ƒu tÃ¢m lÃ½ chá» Ä‘á»£i cá»§a khÃ¡ch hÃ ng.[15]
+Há»‡ thá»‘ng Ä‘Ã¡nh giÃ¡ tÃ­n nhiá»‡m, cung cáº¥p cÆ¡ cháº¿ Ä‘Ã¡nh giÃ¡ hai chiá»u (Ä‘á»‘i vá»›i tÃ i xáº¿ vÃ  quÃ¡n Äƒn) sau khi hoÃ n táº¥t giao dá»‹ch. Dá»¯ liá»‡u Ä‘Ã¡nh giÃ¡ (Rating & Review) Ä‘Ã³ng vai trÃ² quan trá»ng trong viá»‡c xÃ¢y dá»±ng uy tÃ­n Ä‘á»‘i tÃ¡c vÃ  há»— trá»£ quyáº¿t Ä‘á»‹nh cho nhá»¯ng ngÆ°á»i dÃ¹ng sau.[15]
+Chiáº¿n lÆ°á»£c khuyáº¿n mÃ£i vÃ  kÃ­ch cáº§u, tÃ­ch há»£p há»‡ thá»‘ng quáº£n lÃ½ khuyáº¿n mÃ£i phá»©c táº¡p vá»›i cÃ¡c loáº¡i hÃ¬nh Ä‘a dáº¡ng nhÆ° voucher giáº£m giÃ¡, mÃ£ miá»…n phÃ­ váº­n chuyá»ƒn, chÆ°Æ¡ng trÃ¬nh Flash Sale theo khung giá» vÃ  cÃ¡c chiáº¿n dá»‹ch Ä‘á»“ng giÃ¡, nháº±m duy trÃ¬ tá»· lá»‡ giá»¯ chÃ¢n ngÆ°á»i dÃ¹ng.[15]
+Vá» Æ°u Ä‘iá»ƒm:
+Sá»©c máº¡nh tá»« há»‡ sinh thÃ¡i tÃ­ch há»£p, shopeeFood Ä‘Æ°á»£c hÆ°á»Ÿng lá»£i lá»›n tá»« viá»‡c náº±m trong há»‡ sinh thÃ¡i cá»§a sÃ n thÆ°Æ¡ng máº¡i Ä‘iá»‡n tá»­ Shopee vÃ  vÃ­ Ä‘iá»‡n tá»­ ShopeePay. Sá»± liÃªn káº¿t cháº·t cháº½ nÃ y táº¡o ra tráº£i nghiá»‡m liá»n máº¡ch, cho phÃ©p ngÆ°á»i dÃ¹ng sá»­ dá»¥ng chung kho voucher vÃ  thanh toÃ¡n tiá»‡n lá»£i mÃ  khÃ´ng cáº§n chuyá»ƒn Ä‘á»•i ná»n táº£ng.[15]
+ChÃ­nh sÃ¡ch Æ°u Ä‘Ã£i cáº¡nh tranh, vá»›i vá»‹ tháº¿ thá»‹ pháº§n lá»›n, ná»n táº£ng nÃ y liÃªn tá»¥c tung ra cÃ¡c chÆ°Æ¡ng trÃ¬nh khuyáº¿n mÃ£i sÃ¢u vÃ  táº§n suáº¥t dÃ y Ä‘áº·c, Ä‘áº·c biá»‡t lÃ  cÃ¡c mÃ£ miá»…n phÃ­ váº­n chuyá»ƒn, táº¡o nÃªn lá»£i tháº¿ cáº¡nh tranh lá»›n vá» giÃ¡ so vá»›i Ä‘á»‘i thá»§.[15]
+Máº¡ng lÆ°á»›i Ä‘á»‘i tÃ¡c rá»™ng kháº¯p, sá»Ÿ há»¯u cÆ¡ sá»Ÿ dá»¯ liá»‡u Ä‘á»‘i tÃ¡c vÃ  Ä‘á»™i ngÅ© tÃ i xáº¿ khá»•ng lá»“, Ä‘áº£m báº£o Ä‘á»™ phá»§ sÃ³ng rá»™ng rÃ£i vÃ  kháº£ nÄƒng Ä‘Ã¡p á»©ng nhu cáº§u áº©m thá»±c Ä‘a dáº¡ng cá»§a ngÆ°á»i dÃ¹ng táº¡i cÃ¡c Ä‘Ã´ thá»‹ lá»›n.[15]
+Vá» nhÆ°á»£c Ä‘iá»ƒm:
+NgoÃ i giÃ¡ mÃ³n Äƒn, ngÆ°á»i dÃ¹ng pháº£i chi tráº£ nhiá»u khoáº£n phá»¥ phÃ­ nhÆ° phÃ­ dá»‹ch vá»¥, phÃ­ ná»n táº£ng, phÃ­ gá»­i xe... Äiá»u nÃ y khiáº¿n tá»•ng giÃ¡ trá»‹ Ä‘Æ¡n hÃ ng thá»±c táº¿ thÆ°á»ng cao hÆ¡n Ä‘Ã¡ng ká»ƒ so vá»›i giÃ¡ niÃªm yáº¿t, Ä‘Ã´i khi gÃ¢y tÃ¢m lÃ½ e ngáº¡i cho khÃ¡ch hÃ ng.
+ThÃ¡ch thá»©c trong kiá»ƒm soÃ¡t cháº¥t lÆ°á»£ng váº­n hÃ nh. Do phá»¥ thuá»™c vÃ o Ä‘á»™i ngÅ© tÃ i xáº¿ tá»± do vÃ  quy trÃ¬nh cháº¿ biáº¿n táº¡i quÃ¡n, cháº¥t lÆ°á»£ng dá»‹ch vá»¥ (thÃ¡i Ä‘á»™ tÃ i xáº¿, tÃ¬nh tráº¡ng mÃ³n Äƒn khi giao) khÃ´ng luÃ´n á»•n Ä‘á»‹nh, Ä‘áº·c biá»‡t lÃ  trong cÃ¡c khung giá» cao Ä‘iá»ƒm hoáº·c Ä‘iá»u kiá»‡n thá»i tiáº¿t xáº¥u.
+Quy trÃ¬nh há»— trá»£ khÃ¡ch hÃ ng (CS) chÆ°a tá»‘i Æ°u. CÆ¡ cháº¿ giáº£i quyáº¿t khiáº¿u náº¡i (nhÆ° giao sai mÃ³n, thiáº¿u mÃ³n) Ä‘Ã´i khi cÃ²n thá»¥ Ä‘á»™ng, thá»i gian pháº£n há»“i cháº­m hoáº·c yÃªu cáº§u nhiá»u bÆ°á»›c xÃ¡c minh phá»©c táº¡p, áº£nh hÆ°á»Ÿng Ä‘áº¿n tráº£i nghiá»‡m háº­u mÃ£i cá»§a ngÆ°á»i dÃ¹ng.
+3.1.2 Website foody.vn
+CÃ¡c mÃ n hÃ¬nh chÃ­nh:
+
+HÃ¬nh  11 Giao diá»‡n trang chá»§ cá»§a Foody.vn
+
+HÃ¬nh  12 Giao diá»‡n trang chi tiáº¿t sáº£n pháº©m cá»§a Foody.vn
+
+HÃ¬nh  13 Giao diá»‡n trang tÃ i khoáº£n cá»§a Foody.vn
+CÃ¡c chá»©c nÄƒng nghiá»‡p vá»¥ cá»‘t lÃµi:
+Há»‡ thá»‘ng tÃ¬m kiáº¿m vÃ  bá»™ lá»c chuyÃªn sÃ¢u: Foody cung cáº¥p cÃ´ng cá»¥ tra cá»©u Ä‘á»‹a Ä‘iá»ƒm áº©m thá»±c vá»›i kháº£ nÄƒng lá»c dá»¯ liá»‡u Ä‘a táº§ng. NgÆ°á»i dÃ¹ng cÃ³ thá»ƒ tÃ¬m kiáº¿m dá»±a trÃªn cÃ¡c tiÃªu chÃ­ chi tiáº¿t nhÆ°: vá»‹ trÃ­ Ä‘á»‹a lÃ½, loáº¡i hÃ¬nh, má»©c giÃ¡, vÃ  má»¥c Ä‘Ã­ch sá»­ dá»¥ng giÃºp tá»‘i Æ°u hÃ³a káº¿t quáº£ tÃ¬m kiáº¿m theo nhu cáº§u cá»¥ thá»ƒ.[4]
+Ná»n táº£ng ná»™i dung do ngÆ°á»i dÃ¹ng táº¡o (UGC - User Generated Content): ÄÃ¢y lÃ  tÃ­nh nÄƒng xÆ°Æ¡ng sá»‘ng cá»§a há»‡ thá»‘ng. Foody cho phÃ©p ngÆ°á»i dÃ¹ng Ä‘Äƒng táº£i hÃ¬nh áº£nh, video vÃ  viáº¿t cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡ chi tiáº¿t vá» cháº¥t lÆ°á»£ng mÃ³n Äƒn, khÃ´ng gian vÃ  dá»‹ch vá»¥. Há»‡ thá»‘ng cháº¥m Ä‘iá»ƒm Ä‘Ã³ng vai trÃ² tham chiáº¿u quan trá»ng cho cá»™ng Ä‘á»“ng.[4]
+CÃ¡ nhÃ¢n hÃ³a tráº£i nghiá»‡m qua Bá»™ sÆ°u táº­p: NgÆ°á»i dÃ¹ng cÃ³ thá»ƒ tá»± táº¡o vÃ  quáº£n lÃ½ cÃ¡c danh sÃ¡ch Ä‘á»‹a Ä‘iá»ƒm yÃªu thÃ­ch (nhÆ° â€œTop quÃ¡n Äƒn váº·tâ€, â€œQuÃ¡n Cafe lÃ m viá»‡câ€). TÃ­nh nÄƒng nÃ y khÃ´ng chá»‰ giÃºp lÆ°u trá»¯ cÃ¡ nhÃ¢n mÃ  cÃ²n khuyáº¿n khÃ­ch chia sáº» vÃ  tÆ°Æ¡ng tÃ¡c xÃ£ há»™i giá»¯a cÃ¡c thÃ nh viÃªn.[4]
+Tiá»‡n Ã­ch Ä‘áº·t bÃ n trá»±c tuyáº¿n: Cung cáº¥p giáº£i phÃ¡p Ä‘áº·t chá»— trÆ°á»›c táº¡i cÃ¡c nhÃ  hÃ ng Ä‘á»‘i tÃ¡c, thÆ°á»ng Ä‘i kÃ¨m vá»›i cÃ¡c chÆ°Æ¡ng trÃ¬nh Æ°u Ä‘Ã£i hoáº·c giáº£m giÃ¡ Ä‘á»™c quyá»n (E-voucher) nháº±m kÃ­ch cáº§u sá»­ dá»¥ng dá»‹ch vá»¥.[4]
+TÃ­ch há»£p há»‡ sinh thÃ¡i giao hÃ ng: Foody Ä‘Ã³ng vai trÃ² lÃ  cá»•ng thÃ´ng tin dáº«n ngÆ°á»i dÃ¹ng Ä‘áº¿n dá»‹ch vá»¥ Ä‘áº·t mÃ³n vÃ  giao hÃ ng táº­n nÆ¡i thÃ´ng qua liÃªn káº¿t trá»±c tiáº¿p vá»›i ná»n táº£ng ShopeeFood.[4]
+Vá» Æ°u Ä‘iá»ƒm:
+CÆ¡ sá»Ÿ dá»¯ liá»‡u khá»•ng lá»“: LÃ  Ä‘Æ¡n vá»‹ tiÃªn phong trong lÄ©nh vá»±c Food Review táº¡i Viá»‡t Nam, Foody sá»Ÿ há»¯u kho dá»¯ liá»‡u lá»‹ch sá»­ lá»›n nháº¥t thá»‹ trÆ°á»ng vá» thÃ´ng tin quÃ¡n, hÃ¬nh áº£nh thá»±c táº¿ vÃ  hÃ ng triá»‡u bÃ¬nh luáº­n tÃ­ch lÅ©y qua nhiá»u nÄƒm. ÄÃ¢y lÃ  tÃ i sáº£n vÃ´ giÃ¡ giÃºp ná»n táº£ng duy trÃ¬ vá»‹ tháº¿ dáº«n Ä‘áº§u trong viá»‡c khÃ¡m phÃ¡ Ä‘á»‹a Ä‘iá»ƒm má»›i.[4]
+TÃ­nh xÃ¡c thá»±c vÃ  khÃ¡ch quan: Nhá» nguá»“n dá»¯ liá»‡u hÃ¬nh áº£nh vÃ  video thá»±c táº¿ tá»« cá»™ng Ä‘á»“ng, Foody Ä‘Æ°á»£c ngÆ°á»i dÃ¹ng tin cáº­y nhÆ° má»™t cÃ´ng cá»¥ tham chiáº¿u quan trá»ng trÆ°á»›c khi Ä‘Æ°a ra quyáº¿t Ä‘á»‹nh Äƒn uá»‘ng, giáº£m thiá»ƒu rá»§i ro tráº£i nghiá»‡m kÃ©m.[4]
+Cá»™ng Ä‘á»“ng ngÆ°á»i dÃ¹ng trung thÃ nh: Sá»Ÿ há»¯u lÆ°á»£ng ngÆ°á»i dÃ¹ng tÃ­ch cá»±c lá»›n, sáºµn sÃ ng Ä‘Ã³ng gÃ³p ná»™i dung vÃ  tÆ°Æ¡ng tÃ¡c thÆ°á»ng xuyÃªn, táº¡o nÃªn hiá»‡u á»©ng máº¡ng lÆ°á»›i máº¡nh máº½ khÃ³ cÃ³ thá»ƒ sao chÃ©p.[4]
+Vá» nhÆ°á»£c Ä‘iá»ƒm:
+ThÃ¡ch thá»©c trong viá»‡c cáº­p nháº­t dá»¯ liá»‡u (Data Freshness): Do khá»‘i lÆ°á»£ng thÃ´ng tin quÃ¡ lá»›n vÃ  phá»¥ thuá»™c vÃ o Ä‘Ã³ng gÃ³p cá»™ng Ä‘á»“ng, nhiá»u dá»¯ liá»‡u vá» menu, giÃ¡ cáº£ hoáº·c tráº¡ng thÃ¡i hoáº¡t Ä‘á»™ng (ÄÃ³ng/Má»Ÿ cá»­a) cá»§a cÃ¡c quÃ¡n Äƒn thÆ°á»ng khÃ´ng Ä‘Æ°á»£c cáº­p nháº­t ká»‹p thá»i, dáº«n Ä‘áº¿n tráº£i nghiá»‡m sai lá»‡ch cho ngÆ°á»i dÃ¹ng.
+Váº¥n Ä‘á» vá» tÃ­nh trung thá»±c cá»§a Ä‘Ã¡nh giÃ¡ (Content Authenticity): TÃ¬nh tráº¡ng Ä‘Ã¡nh giÃ¡ áº£o (Seeding), quáº£ng cÃ¡o trÃ¡ hÃ¬nh hoáº·c cÃ¡c hÃ nh vi cáº¡nh tranh khÃ´ng lÃ nh máº¡nh (dÃ¬m hÃ ng Ä‘á»‘i thá»§) váº«n cÃ²n tá»“n táº¡i, gÃ¢y áº£nh hÆ°á»Ÿng Ä‘áº¿n Ä‘á»™ tin cáº­y chung cá»§a há»‡ thá»‘ng xáº¿p háº¡ng.
+Tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng (UX/UI) chÆ°a tá»‘i Æ°u: Giao diá»‡n cá»§a Foody bá»‹ Ä‘Ã¡nh giÃ¡ lÃ  chá»©a quÃ¡ nhiá»u thÃ´ng tin thiáº¿t káº¿ cÃ³ pháº§n lá»—i thá»i so vá»›i xu hÆ°á»›ng tá»‘i giáº£n cá»§a cÃ¡c á»©ng dá»¥ng hiá»‡n Ä‘áº¡i, khiáº¿n thao tÃ¡c tÃ¬m kiáº¿m vÃ  tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng Ä‘Ã´i khi trá»Ÿ nÃªn náº·ng ná».
+3.1.3 Ná»n táº£ng Riviu
+CÃ¡c mÃ n hÃ¬nh chÃ­nh:
+
+HÃ¬nh  14 Giao diá»‡n Website cá»§a ná»n táº£ng Riviu
+
+HÃ¬nh  15 Giao diá»‡n hiá»ƒn thá»‹ bÃ i Ä‘Ã¡nh giÃ¡ trÃªn ná»n táº£ng Riviu
+Tá»•ng quan: Riviu (tiá»n thÃ¢n lÃ  cá»™ng Ä‘á»“ng trá»±c tuyáº¿n â€œThÃ¡nh Riviuâ€) lÃ  má»™t ná»n táº£ng chuyÃªn biá»‡t vá» Ä‘Ã¡nh giÃ¡ áº©m thá»±c vÃ  Ä‘á»i sá»‘ng, Ä‘Æ°á»£c xÃ¢y dá»±ng dá»±a trÃªn mÃ´ hÃ¬nh máº¡ng xÃ£ há»™i (Social Media). KhÃ¡c vá»›i cáº¥u trÃºc danh báº¡ Ä‘á»‹a Ä‘iá»ƒm truyá»n thá»‘ng cá»§a Foody, Riviu Ä‘á»‹nh vá»‹ lÃ  má»™t há»‡ sinh thÃ¡i ná»™i dung do ngÆ°á»i dÃ¹ng táº¡o (User Generated Content - UGC), táº­p trung khai thÃ¡c tráº£i nghiá»‡m thá»±c táº¿ cá»§a ngÆ°á»i dÃ¹ng thÃ´ng qua Ä‘á»‹nh dáº¡ng Ä‘a phÆ°Æ¡ng tiá»‡n. Ná»n táº£ng nÃ y cÃ³ Ä‘á»™ phá»§ lá»›n trong phÃ¢n khÃºc khÃ¡ch hÃ ng tráº» (Gen Z) vÃ  táº­p trung chá»§ yáº¿u vÃ o nhÃ³m áº©m thá»±c Ä‘Æ°á»ng phá»‘ (Street food) cÅ©ng nhÆ° cÃ¡c xu hÆ°á»›ng áº©m thá»±c thá»‹nh hÃ nh (Trending).[13]
+CÃ¡c chá»©c nÄƒng nghiá»‡p vá»¥ cá»‘t lÃµi:
+ÄÃ¡nh giÃ¡ dá»±a trÃªn Ä‘a phÆ°Æ¡ng tiá»‡n (Multimedia Reviews): ÄÃ¢y lÃ  tÃ­nh nÄƒng trá»ng tÃ¢m táº¡o nÃªn sá»± khÃ¡c biá»‡t cá»§a Riviu. Há»‡ thá»‘ng Æ°u tiÃªn hiá»ƒn thá»‹ vÃ  khuyáº¿n khÃ­ch ngÆ°á»i dÃ¹ng Ä‘Äƒng táº£i cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡ dÆ°á»›i dáº¡ng video ngáº¯n (Short-form video) vÃ  hÃ¬nh áº£nh thá»±c táº¿ khÃ´ng qua chá»‰nh sá»­a cáº§u ká»³. Äiá»u nÃ y giÃºp tÄƒng tÃ­nh trá»±c quan vÃ  Ä‘á»™ tin cáº­y vá» máº·t hÃ¬nh áº£nh cho cÃ¡c mÃ³n Äƒn.[13]
+CÆ¡ cháº¿ Gamification vÃ  TÆ°Æ¡ng tÃ¡c xÃ£ há»™i: Riviu tÃ­ch há»£p sÃ¢u cÃ¡c thuáº­t toÃ¡n tÆ°Æ¡ng tÃ¡c xÃ£ há»™i vÃ  cÆ¡ cháº¿ trÃ² chÆ¡i hÃ³a (Gamification) nhÆ° há»‡ thá»‘ng tÃ­ch Ä‘iá»ƒm, Ä‘á»•i quÃ , vÃ  xáº¿p háº¡ng thÃ nh viÃªn (Reviewer Ranking). CÃ¡c cÆ¡ cháº¿ nÃ y táº¡o Ä‘á»™ng lá»±c thÃºc Ä‘áº©y ngÆ°á»i dÃ¹ng liÃªn tá»¥c Ä‘Ã³ng gÃ³p ná»™i dung vÃ  tÆ°Æ¡ng tÃ¡c (thÃ­ch, bÃ¬nh luáº­n, chia sáº») trÃªn ná»n táº£ng.[13]
+Äá»‹nh vá»‹ vÃ  gá»£i Ã½ theo khu vá»±c: á»¨ng dá»¥ng cung cáº¥p tÃ­nh nÄƒng lá»c vÃ  hiá»ƒn thá»‹ cÃ¡c Ä‘á»‹a Ä‘iá»ƒm Äƒn uá»‘ng ná»•i báº­t dá»±a trÃªn vá»‹ trÃ­ thá»i gian thá»±c cá»§a ngÆ°á»i dÃ¹ng (Location-based Service), vá»›i dá»¯ liá»‡u táº­p trung nhiá»u vÃ o cÃ¡c quÃ¡n Äƒn bÃ¬nh dÃ¢n vÃ  vá»‰a hÃ¨.[13]
+Vá» Æ°u Ä‘iá»ƒm:
+TÃ­nh cáº­p nháº­t vÃ  pháº£n Ã¡nh xu hÆ°á»›ng thá»‹ trÆ°á»ng: Nhá» cá»™ng Ä‘á»“ng ngÆ°á»i dÃ¹ng tráº» vÃ  nÄƒng Ä‘á»™ng, dá»¯ liá»‡u trÃªn Riviu cÃ³ tá»‘c Ä‘á»™ cáº­p nháº­t ráº¥t nhanh, pháº£n Ã¡nh chÃ­nh xÃ¡c cÃ¡c xu hÆ°á»›ng áº©m thá»±c má»›i ná»•i trÃªn thá»‹ trÆ°á»ng.[13]
+TÃ­nh chÃ¢n thá»±c cá»§a dá»¯ liá»‡u hÃ¬nh áº£nh: CÃ¡c ná»™i dung video vÃ  hÃ¬nh áº£nh trÃªn ná»n táº£ng thÆ°á»ng mang tÃ­nh khÃ¡ch quan, pháº£n Ã¡nh Ä‘Ãºng thá»±c táº¿ cÆ¡ sá»Ÿ váº­t cháº¥t vÃ  mÃ³n Äƒn táº¡i quÃ¡n, giÃºp ngÆ°á»i dÃ¹ng cÃ³ cÃ¡i nhÃ¬n cáº­n cáº£nh trÆ°á»›c khi tráº£i nghiá»‡m.[13]
+Vá» nhÆ°á»£c Ä‘iá»ƒm :
+Háº¡n cháº¿ vá» kháº£ nÄƒng tiáº¿p cáº­n Ä‘á»‘i vá»›i khÃ¡ch du lá»‹ch quá»‘c táº¿: Ná»™i dung trÃªn Riviu chá»§ yáº¿u sá»­ dá»¥ng tiáº¿ng Viá»‡t vá»›i vÄƒn phong tá»± do, chá»©a nhiá»u tá»« ngá»¯ Ä‘á»‹a phÆ°Æ¡ng vÃ  tiáº¿ng lÃ³ng. Há»‡ thá»‘ng thiáº¿u hoÃ n toÃ n cÆ¡ cháº¿ chuyá»ƒn Ä‘á»•i ngÃ´n ngá»¯ tá»± Ä‘á»™ng hoáº·c há»— trá»£ Ä‘a ngÃ´n ngá»¯, táº¡o ra rÃ o cáº£n lá»›n Ä‘á»‘i vá»›i du khÃ¡ch nÆ°á»›c ngoÃ i.
+Thiáº¿u dá»¯ liá»‡u tiÃªu chuáº©n hÃ³a cho du lá»‹ch: CÃ¡c bÃ i Ä‘Ã¡nh giÃ¡ thÆ°á»ng thiÃªn vá» cáº£m nháº­n chá»§ quan mÃ  thiáº¿u cÃ¡c thÃ´ng tin Ä‘á»‹nh lÆ°á»£ng cáº§n thiáº¿t cho khÃ¡ch du lá»‹ch nhÆ°: báº£ng giÃ¡ niÃªm yáº¿t chÃ­nh xÃ¡c, chá»©ng nháº­n vá»‡ sinh an toÃ n thá»±c pháº©m, hoáº·c hÆ°á»›ng dáº«n di chuyá»ƒn chi tiáº¿t.
+Thiáº¿u cÃ´ng cá»¥ há»— trá»£ hoáº¡ch Ä‘á»‹nh lá»‹ch trÃ¬nh: Ná»n táº£ng chÆ°a tÃ­ch há»£p cÃ¡c tÃ­nh nÄƒng há»— trá»£ du khÃ¡ch xÃ¢y dá»±ng lá»™ trÃ¬nh Äƒn uá»‘ng tá»‘i Æ°u theo tuyáº¿n Ä‘Æ°á»ng tham quan. NgÆ°á»i dÃ¹ng pháº£i máº¥t nhiá»u thá»i gian sÃ ng lá»c thÃ´ng tin thá»§ cÃ´ng Ä‘á»ƒ tÃ¬m kiáº¿m Ä‘á»‹a Ä‘iá»ƒm phÃ¹ há»£p vá»›i hÃ nh trÃ¬nh di chuyá»ƒn.
+
+
+CHÆ¯Æ NG IV: PHÃ‚N TÃCH VÃ€ Äáº¶C Táº¢ CHá»¨C NÄ‚NG Há»† THá»NG
+4.1 Kiáº¿n trÃºc tá»•ng thá»ƒ
+
+HÃ¬nh  16 SÆ¡ Ä‘á»“ kiáº¿n trÃºc há»‡ thá»‘ng(Nest.js -Next.js-MongoDB)
+4.2 YÃªu cáº§u há»‡ thá»‘ng
+4.2.1 YÃªu cáº§u chá»©c nÄƒng
+Chá»©c nÄƒng chung:
+TrÆ°á»›c khi Ä‘Äƒng nháº­p, ngÆ°á»i dÃ¹ng cÃ³ thá»ƒ tÃ¬m kiáº¿m vÃ  duyá»‡t danh sÃ¡ch cÃ¡c nhÃ  hÃ ng, xem thÃ´ng tin chi tiáº¿t vá» nhÃ  hÃ ng vÃ  sá»­ dá»¥ng chatbot Ä‘á»ƒ nháº­n tÆ° váº¥n mÃ³n Äƒn. Äá»ƒ sá»­ dá»¥ng Ä‘áº§y Ä‘á»§ cÃ¡c tÃ­nh nÄƒng nÃ¢ng cao, ngÆ°á»i dÃ¹ng báº¯t buá»™c pháº£i Ä‘Äƒng nháº­p vÃ o há»‡ thá»‘ng.	
+Chá»©c nÄƒng dÃ nh cho Admin :
+Quáº£n lÃ½ nhÃ  hÃ ng: CÃ³ thá»ƒ thá»±c hiá»‡n cÃ¡c thao tÃ¡c thÃªm, sá»­a, xoÃ¡ vÃ  xem danh sÃ¡ch nhÃ  hÃ ng trÃªn há»‡ thá»‘ng.
+Quáº£n lÃ½ ngÆ°á»i dÃ¹ng: Xem thÃ´ng tin ngÆ°á»i dÃ¹ng,xÃ³a bÃ i viáº¿t blog, thay Ä‘á»•i vai trÃ², hoáº·c vÃ´ hiá»‡u hÃ³a tÃ i khoáº£n náº¿u cáº§n.
+Quáº£n lÃ½ liÃªn há»‡: Tiáº¿p nháº­n vÃ  xá»­ lÃ½ cÃ¡c thÃ´ng tin liÃªn há»‡ Ä‘Æ°á»£c gá»­i tá»« phÃ­a ngÆ°á»i dÃ¹ng.
+Quáº£n lÃ½ bÃ i viáº¿t blog: ThÃªm má»›i hoáº·c xoÃ¡ cÃ¡c danh má»¥c vÃ  ná»™i dung bÃ i viáº¿t trÃªn há»‡ thá»‘ng.
+Quáº£n lÃ½ review quÃ¡n Äƒn: Xem ná»™i dung Ä‘Ã¡nh giÃ¡ xÃ³a bÃ i viáº¿t náº¿u cáº§n 
+Quáº£n lÃ½ Ä‘Æ¡n hÃ ng: Theo dÃµi, xÃ¡c nháº­n, xá»­ lÃ½ hoáº·c huá»· cÃ¡c Ä‘Æ¡n Ä‘áº·t bÃ n tá»« ngÆ°á»i dÃ¹ng.
+Chá»©c nÄƒng cá»§a nhÃ  hÃ ng:
+Thá»‘ng kÃª vÃ  bÃ¡o cÃ¡o: Truy xuáº¥t sá»‘ liá»‡u thá»‘ng kÃª vá» doanh thu, Ä‘Æ¡n hÃ ng vÃ  lá»£i nhuáº­n nháº±m há»— trá»£ phÃ¢n tÃ­ch hiá»‡u quáº£ kinh doanh.
+Quáº£n lÃ½ nhÃ  hÃ ng:  ThÃªm, sá»­a, cáº­p nháº­t thÃ´ng tin nhÃ  hÃ ng
+Xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n: Thá»±c hiá»‡n cÃ¡c thao tÃ¡c liÃªn quan Ä‘áº¿n Ä‘Æ¡n Ä‘áº·t mÃ³n cá»§a khÃ¡ch, bao gá»“m kiá»ƒm tra tÃ¬nh tráº¡ng mÃ³n, xÃ¡c nháº­n Ä‘Æ¡n, cáº­p nháº­t tráº¡ng thÃ¡i vÃ  há»§y Ä‘Æ¡n khi cáº§n thiáº¿t.
+Xem Ä‘Ã¡nh giÃ¡: Xem danh sÃ¡ch vÃ  ná»™i dung cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡ vá» quÃ¡n.
+Chá»©c nÄƒng cho ngÆ°á»i dÃ¹ng:
+Xem vÃ  tÃ¬m kiáº¿m nhÃ  hÃ ng: NgÆ°á»i dÃ¹ng cÃ³ thá»ƒ duyá»‡t danh sÃ¡ch nhÃ  hÃ ng, tÃ¬m kiáº¿m theo tÃªn hoáº·c lá»c theo má»©c giÃ¡, Ä‘á»‹nh vá»‹ cÃ¡c quÃ¡n gáº§n mÃ¬nh.
+Äáº·t bÃ n vÃ  thanh toÃ¡n: Há»— trá»£ Ä‘áº·t mua vÃ  thanh toÃ¡n trá»±c tuyáº¿n cho cÃ¡c Ä‘Æ¡n hÃ ng Ä‘Ã£ chá»n.
+Quáº£n lÃ½ thÃ´ng tin cÃ¡ nhÃ¢n: NgÆ°á»i dÃ¹ng cÃ³ thá»ƒ cáº­p nháº­t Ä‘á»‹a chá»‰, sá»‘ Ä‘iá»‡n thoáº¡i, email, vÃ  Ä‘Äƒng xuáº¥t tÃ i khoáº£n.
+Viáº¿t blog : Táº¡o bÃ i viáº¿t vÃ  chia sáº» tráº£i nghiá»‡m cá»§a báº¡n vá» cÃ¡c quÃ¡n Äƒn, nhÃ  hÃ ng. 
+ÄÃ¡nh giÃ¡ quÃ¡n Äƒn: ÄÃ¡nh giÃ¡ vÃ  Ä‘Æ°a ra nháº­n xÃ©t vá» quÃ¡n Äƒn 
+Chatbot há»— trá»£: TrÃ² chuyá»‡n vá»›i chatbot Ä‘á»ƒ Ä‘Æ°á»£c gá»£i Ã½ cÃ¡c quÃ¡n Äƒn hay mÃ³n Äƒn phÃ¹ há»£p.
+4.2.2 YÃªu cáº§u phi chá»©c nÄƒng
+YÃªu cáº§u phi chá»©c nÄƒng cho Há»‡ thá»‘ng FoodMap
+Hiá»‡u nÄƒng:
+Hiá»‡u suáº¥t táº£i trang (Page Load Performance): Há»‡ thá»‘ng pháº£i Ä‘áº£m báº£o tá»‘c Ä‘á»™ pháº£n há»“i vÃ  hiá»ƒn thá»‹ ná»™i dung cá»±c nhanh nháº±m duy trÃ¬ tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng liá»n máº¡ch. Cá»¥ thá»ƒ, thá»i gian táº£i hoÃ n táº¥t Ä‘á»‘i vá»›i cÃ¡c giao diá»‡n trá»ng yáº¿u nhÆ° trang chá»§, trang tÃ¬m kiáº¿m vÃ  báº£n Ä‘á»“ sá»‘ báº¯t buá»™c pháº£i khÃ´ng vÆ°á»£t quÃ¡ 1 giÃ¢y trong Ä‘iá»u kiá»‡n káº¿t ná»‘i tiÃªu chuáº©n.
+Äá»™ trá»… truy váº¥n (Query Latency): Chá»©c nÄƒng tÃ¬m kiáº¿m Ä‘á»‹a Ä‘iá»ƒm vÃ  mÃ³n Äƒn pháº£i Ä‘Ã¡p á»©ng tiÃªu chuáº©n thá»i gian thá»±c. Káº¿t quáº£ truy váº¥n pháº£i Ä‘Æ°á»£c pháº£n há»“i gáº§n nhÆ° tá»©c thÃ¬ vá»›i Ä‘á»™ trá»… tá»‘i Ä‘a lÃ  100ms, vÃ  má»©c trung bÃ¬nh ká»³ vá»ng Ä‘áº¡t 50ms, Ä‘áº£m báº£o khÃ´ng cÃ³ Ä‘á»™ trá»… nháº­n thá»©c (perceived latency) Ä‘á»‘i vá»›i ngÆ°á»i dÃ¹ng.
+Chá»‹u táº£i (Stress Tolerance): Há»‡ thá»‘ng pháº£i Ä‘áº£m báº£o hoáº¡t Ä‘á»™ng á»•n Ä‘á»‹nh, khÃ´ng bá»‹ â€œsáº­pâ€ ngay cáº£ khi cÃ³ nhiá»u ngÆ°á»i truy cáº­p cÃ¹ng lÃºc, Ä‘áº·c biá»‡t lÃ  vÃ o giá» cao Ä‘iá»ƒm (vÃ­ dá»¥: 11h trÆ°a - 1h chiá»u, 6h - 8h tá»‘i).
+Báº£o máº­t:
+MÃ£ hÃ³a máº­t kháº©u: Máº­t kháº©u cá»§a ngÆ°á»i dÃ¹ng pháº£i Ä‘Æ°á»£c mÃ£ hÃ³a (hashing) trÆ°á»›c khi lÆ°u vÃ o cÆ¡ sá»Ÿ dá»¯ liá»‡u Ä‘á»ƒ Ä‘áº£m báº£o khÃ´ng ai (ká»ƒ cáº£ Admin) biáº¿t Ä‘Æ°á»£c máº­t kháº©u tháº­t.
+Báº£o vá»‡ káº¿t ná»‘i: ToÃ n bá»™ trang web pháº£i sá»­ dá»¥ng HTTPS (SSL) Ä‘á»ƒ mÃ£ hÃ³a dá»¯ liá»‡u gá»­i Ä‘i vÃ  nháº­n vá», trÃ¡nh bá»‹ hacker â€œnghe lÃ©nâ€ thÃ´ng tin.
+PhÃ¢n quyá»n vai trÃ²: Pháº£i cÃ³ phÃ¢n quyá»n rÃµ rÃ ng:
+NgÆ°á»i dÃ¹ng: Chá»‰ cÃ³ thá»ƒ sá»­a thÃ´ng tin cÃ¡ nhÃ¢n vÃ  cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡/blog cá»§a chÃ­nh mÃ¬nh.
+Chá»§ quÃ¡n: Chá»‰ cÃ³ thá»ƒ quáº£n lÃ½ thÃ´ng tin, thá»±c Ä‘Æ¡n vÃ  Æ°u Ä‘Ã£i cá»§a quÃ¡n mÃ  há» sá»Ÿ há»¯u.
+Quáº£n trá»‹ viÃªn: CÃ³ quyá»n quáº£n lÃ½ toÃ n bá»™ há»‡ thá»‘ng (xÃ³a review xáº¥u, khÃ³a tÃ i khoáº£n vi pháº¡m...).
+Kháº£ nÄƒng sá»­ dá»¥ng: 
+Trá»±c quan, dá»… dÃ¹ng: Giao diá»‡n pháº£i sáº¡ch sáº½, logic. NgÆ°á»i dÃ¹ng má»›i vÃ o láº§n Ä‘áº§u tiÃªn pháº£i cÃ³ thá»ƒ tá»± tÃ¬m kiáº¿m quÃ¡n Äƒn vÃ  Ä‘á»c Ä‘Ã¡nh giÃ¡ mÃ  khÃ´ng cáº§n báº¥t ká»³ hÆ°á»›ng dáº«n nÃ o.
+TÆ°Æ¡ng thÃ­ch Ä‘a thiáº¿t bá»‹: Website pháº£i tá»± Ä‘á»™ng co giÃ£n, hiá»ƒn thá»‹ Ä‘áº¹p vÃ  Ä‘áº§y Ä‘á»§ chá»©c nÄƒng trÃªn cáº£ mÃ¡y tÃ­nh (PC/Laptop) vÃ  cÃ¡c trÃ¬nh duyá»‡t Ä‘iá»‡n thoáº¡i di Ä‘á»™ng.
+TÆ°Æ¡ng thÃ­ch trÃ¬nh duyá»‡t: Äáº£m báº£o hoáº¡t Ä‘á»™ng mÆ°á»£t mÃ  trÃªn cÃ¡c trÃ¬nh duyá»‡t phá»• biáº¿n nháº¥t (Google Chrome, Cá»‘c Cá»‘c, Safari, Firefox).
+Sao lÆ°u vÃ  Phá»¥c há»“i 
+Sao lÆ°u tá»± Ä‘á»™ng: ToÃ n bá»™ cÆ¡ sá»Ÿ dá»¯ liá»‡u (thÃ´ng tin quÃ¡n, tÃ i khoáº£n ngÆ°á»i dÃ¹ng, vÃ  cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡, bÃ¬nh luáº­n) pháº£i Ä‘Æ°á»£c tá»± Ä‘á»™ng sao lÆ°u hÃ ng ngÃ y.
+Kháº£ nÄƒng khÃ´i phá»¥c: Pháº£i cÃ³ quy trÃ¬nh rÃµ rÃ ng Ä‘á»ƒ khÃ´i phá»¥c láº¡i toÃ n bá»™ dá»¯ liá»‡u tá»« báº£n sao lÆ°u gáº§n nháº¥t, Ä‘á» phÃ²ng trÆ°á»ng há»£p server gáº·p sá»± cá»‘ (nhÆ° há»ng á»• cá»©ng, bá»‹ táº¥n cÃ´ng...).
+Äá»™ sáºµn sÃ ng
+Hoáº¡t Ä‘á»™ng 24/7: Há»‡ thá»‘ng pháº£i hoáº¡t Ä‘á»™ng liÃªn tá»¥c, ngÆ°á»i dÃ¹ng cÃ³ thá»ƒ truy cáº­p báº¥t cá»© lÃºc nÃ o Ä‘á»ƒ tÃ¬m quÃ¡n Äƒn hoáº·c viáº¿t review. Thá»i gian hoáº¡t Ä‘á»™ng mong muá»‘n lÃ  99.9%.
+4.3 SÆ¡ Ä‘á»“ Usecase
+4.3.1 SÆ¡ Ä‘á»“ Usecase tá»•ng quÃ¡t
+
+HÃ¬nh  17 SÆ¡ Ä‘á»“ Usecase tá»•ng quÃ¡t
+4.3.2  Usecase Ä‘Äƒng kÃ½
+4.3.2.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng kÃ½ 
+
+HÃ¬nh  18 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng kÃ½
+4.3.2.2 Äáº·c táº£ Ä‘Äƒng kÃ½ 
+Báº£ng 1 Äáº·c táº£ Usecase ÄÄƒng kÃ½
+
+4.3.3 Usecase Ä‘Äƒng nháº­p 
+4.3.3.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng nháº­p
+
+HÃ¬nh  19 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng nháº­p
+4.3.3.2 Äáº·c táº£ usecase Ä‘Äƒng nháº­p 
+Báº£ng 2 Äáº·c táº£ usecase Ä‘Äƒng nháº­p
+4.3.4 Usecase quÃªn máº­t kháº©u
+4.3.4.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quÃªn máº­t kháº©u 
+
+ 
+HÃ¬nh  20 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ Usecase quÃªn máº­t kháº©u
+4.3.4.2 Äáº·c táº£ quÃªn máº­t kháº©u
+Báº£ng 3 Äáº·c táº£ usecase quÃªn máº­t kháº©u
+4.3.5 Usecase Ä‘Äƒng xuáº¥t
+4.3.5.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ use case Ä‘Äƒng xuáº¥t 
+
+HÃ¬nh  21 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Äƒng xuáº¥t
+4.3.5.2 Äáº·c táº£ Ä‘Äƒng xuáº¥t 
+Báº£ng 4 Äáº·c táº£ usecase Ä‘Äƒng xuáº¥t
+4.3.6 Usecase Ä‘áº·t mÃ³n
+4.3.6.1 SÆ¡ Ä‘á»“ use case phÃ¢n rÃ£ Ä‘áº·t mÃ³n
+
+HÃ¬nh  22 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘áº·t mÃ³n
+4.3.6.2 Äáº·c táº£ Ä‘áº·t mÃ³n
+Báº£ng 5 Äáº·c táº£ Usecase Ä‘áº·t mÃ³n
+4.3.7 Usecase quáº£n lÃ½ blog
+4.3.7.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase táº¡o bÃ i viáº¿t blog
+
+HÃ¬nh  23 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase táº¡o bÃ i viáº¿t blog
+4.3.7.2 Äáº·c táº£ quáº£n lÃ½ blog
+Báº£ng 6 Äáº·c táº£ usecase quáº£n lÃ½ blog
+4.3.8 Usecase Cáº­p nháº­t tÃ i khoáº£n 
+4.3.8.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase cáº­p nháº­t tÃ i khoáº£n
+
+HÃ¬nh  24 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase cáº­p nháº­t tÃ i khoáº£n
+4.3.8.2 Äáº·c táº£ cáº­p nháº­t tÃ i khoáº£n 
+Báº£ng 7 Äáº·c táº£ usecase cáº­p nháº­t tÃ i khoáº£n
+4.3.9 Usecase Ä‘Ã¡nh giÃ¡
+4.3.9.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Ã¡nh giÃ¡ 
+
+HÃ¬nh  25 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase Ä‘Ã¡nh giÃ¡
+4.3.9.2 Äáº·c táº£ Ä‘Ã¡nh giÃ¡ 
+Báº£ng 8 Äáº·c táº£ usecase Ä‘Ã¡nh giÃ¡
+4.3.10 Usecase quáº£n lÃ½ nhÃ  hÃ ng
+4.3.10.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ nhÃ  hÃ ng 
+
+HÃ¬nh  26 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ nhÃ  hÃ ng
+4.3.10.2 Äáº·c táº£ quáº£n lÃ½ nhÃ  hÃ ng
+Báº£ng 9 Äáº·c táº£ usecase quáº£n lÃ½ nhÃ  hÃ ng
+4.3.11 Usecase xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n
+4.3.11.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n
+
+HÃ¬nh  27 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n
+4.3.11.2 Äáº·c táº£ xá»­ lÃ½ Ä‘Æ¡n Ä‘áº·t mÃ³n
+Báº£ng 10 Äáº·c táº£ usecase Ä‘áº·t mÃ³n
+4.3.12 Usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng
+4.3.12.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng
+
+HÃ¬nh  28 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng
+4.3.12.2 Äáº·c táº£ quáº£n lÃ½ ngÆ°á»i dÃ¹ng 
+Báº£ng 11 Äáº·c táº£ usecase quáº£n lÃ½ ngÆ°á»i dÃ¹ng
+4.3.13 Usecase quáº£n lÃ½ review
+4.3.13.1 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ review
+
+HÃ¬nh  29 SÆ¡ Ä‘á»“ phÃ¢n rÃ£ usecase quáº£n lÃ½ review
+4.3.13.2 Äáº·c táº£ quáº£n lÃ½ review
+Báº£ng 12 Äáº·c táº£ usecase quáº£n lÃ½ review
+
+
+4.3.14 CÃ¡c mÃ£ thÃ´ng bÃ¡o há»‡ thá»‘ng 
+
+Báº£ng 13 Báº£ng mÃ£ thÃ´ng bÃ¡o há»‡ thá»‘ng
+
+
+CHÆ¯Æ NG V: THIáº¾T Káº¾ TRANG WEB
+5.1  SÆ¡ Ä‘á»“ tuáº§n tá»± 
+5.1.1 ÄÄƒng nháº­p
+
+HÃ¬nh  30 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Äƒng nháº­p
+5.1.2 ÄÄƒng kÃ½
+
+HÃ¬nh  31 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Äƒng kÃ½
+5.1.3 QuÃªn máº­t kháº©u
+5.1.3.1 SÆ¡ Ä‘á»“ tuáº§n tá»± Gá»­i mÃ£ PIN Ä‘áº·t láº¡i máº­t kháº©u
+
+HÃ¬nh  32 SÆ¡ Ä‘á»“ tuáº§n tá»± gá»­i mÃ£ PIN
+5.1.3.2 SÆ¡ Ä‘á»“ tuáº§n tá»± XÃ¡c thá»±c mÃ£ PIN
+
+HÃ¬nh  33 SÆ¡ Ä‘á»“ tuáº§n tá»± xÃ¡c thá»±c mÃ£ PIN
+5.1.3.3 SÆ¡ Ä‘á»“ tuáº§n tá»± Äáº·t láº¡i máº­t kháº©u má»›i
+
+HÃ¬nh  34 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘áº·t máº­t kháº©u má»›i
+5.1.4 ÄÃ¡nh giÃ¡ 
+
+HÃ¬nh  35 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘Ã¡nh giÃ¡
+5.1.5 Äáº·t mÃ³n
+
+HÃ¬nh  36 SÆ¡ Ä‘á»“ tuáº§n tá»± Ä‘áº·t mÃ³n
+5.1.6 Viáº¿t blog
+
+HÃ¬nh  37 SÆ¡ Ä‘á»“ tuáº§n tá»± viáº¿t blog
+5.1.7 TrÃ² chuyá»‡n ngÆ°á»i dÃ¹ng
+
+HÃ¬nh  38 SÆ¡ Ä‘á»“ tuáº§n tá»± TrÃ² chuyá»‡n ngÆ°á»i dÃ¹ng
+5.2 LÆ°á»£c Ä‘á»“ ERD (Entity - Relationship Diagram)
+
+HÃ¬nh  39 LÆ°á»£c Ä‘á»“ cÆ¡ sá»Ÿ dá»¯ liá»‡u dáº¡ng logical (Entity - Relationship Diagram)
+
+5.3 Äáº·c táº£ cÆ¡ sá»Ÿ dá»¯ liá»‡u 
+5.3.1 Báº£ng Users
+Báº£ng 14 Äáº·c táº£ báº£ng users trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+5.3.2 Báº£ng UserHistory
+Báº£ng 15 Äáº·c táº£ báº£ng UserHistory trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+
+5.3.3 Báº£ng Reviews
+Báº£ng 16 Äáº·c táº£ báº£ng Reviews trong cÆ¡ sá»Ÿ dá»¯ liá»‡u 
+5.3.4 Báº£ng Restaurants
+Báº£ng 17 Äáº·c táº£ báº£ng Restaurants trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+
+5.3.5 Báº£ng Categories
+Báº£ng 18 Äáº·c táº£ báº£ng Categories trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+
+
+5.3.6 Báº£ng Blogs
+Báº£ng 19 Äáº·c táº£ báº£ng Blogs trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+
+5.3.7 Báº£ng Menu
+Báº£ng 20 Äáº·c táº£ báº£ng trong cÆ¡ sá»Ÿ dá»¯ liá»‡u Menu
+
+5.3.8 Báº£ng PreOrders
+Báº£ng 21 Äáº·c táº£ báº£ng PreOrders trong cÆ¡ sá»Ÿ dá»¯ liá»‡u
+5.4 Triá»ƒn khai Website
+5.4.1 Model xin quyá»n vá»‹ trÃ­
+
+HÃ¬nh  40 Modle xin vá»‹ trÃ­
+5.4.2 Giao diá»‡n trang chá»§
+
+HÃ¬nh  41 Giao diá»‡n trang chá»§
+5.4.3 Giao diá»‡n Ä‘Äƒng nháº­p
+
+HÃ¬nh  42 Giao diá»‡n trang Ä‘Äƒng nháº­p
+
+HÃ¬nh  43 Giao diá»‡n khÃ´i phá»¥c máº­t kháº©u
+
+HÃ¬nh  44 Giao diá»‡n nháº­p mÃ£ pin xÃ¡c nháº­n
+
+HÃ¬nh  45 Giao diá»‡n email gá»­i mÃ£ PIN xÃ¡c nháº­n Ä‘áº·t láº¡i máº­t kháº©u
+
+
+HÃ¬nh  46 Giao diá»‡n táº¡o máº­t kháº©u má»›i
+5.4.4 Giao diá»‡n Ä‘Äƒng kÃ½
+
+HÃ¬nh  47 Giao diá»‡n trang Ä‘Äƒng kÃ½
+5.4.5 Giao diá»‡n trang quÃ¡n gáº§n báº¡n
+
+HÃ¬nh  48 Giao diá»‡n trang quÃ¡n gáº§n báº¡n
+5.4.6 Giao diá»‡n trang mÃ³n Äƒn Æ°u Ä‘Ã£i hot 
+
+HÃ¬nh  49 Giao diá»‡n trang mÃ³n Äƒn Æ°u Ä‘Ã£i hot
+5.4.7 Giao diá»‡n trang danh sÃ¡ch quÃ¡n Äƒn
+
+HÃ¬nh  50 Giao diá»‡n trang danh sÃ¡ch quÃ¡n
+5.4.8 Giao diá»‡n trang chi tiáº¿t nhÃ  hÃ ng 
+
+HÃ¬nh  51 Giao diá»‡n trang chi tiáº¿t nhÃ  hÃ ng
+
+5.4.9 Giao diá»‡n trang viáº¿t blog 
+
+HÃ¬nh  52 Giao diá»‡n trang viáº¿t blog
+5.4.10 Giao diá»‡n chatbot
+
+HÃ¬nh  53 Giao diá»‡n chatbot
+5.4.11 Model chatbot 
+
+HÃ¬nh  54 Model chatbot
+5.4.12 Giao diá»‡n quáº£n lÃ½ cá»§a owner 
+
+HÃ¬nh  55 Giao diá»‡n trang tá»•ng quan cá»§a owner
+
+HÃ¬nh  56 Giao diá»‡n trang quáº£n lÃ½ thÃ´ng tin nhÃ  hÃ ng
+
+HÃ¬nh  57 Giao diá»‡n xem Ä‘Ã¡nh giÃ¡ vÃ  pháº£n há»“i
+
+
+HÃ¬nh  58 Giao diá»‡n trang quáº£n lÃ½ menu nhÃ  hÃ ng
+
+
+HÃ¬nh  59 Giao diá»‡n trang thÃªm menu nhÃ  hÃ ng
+
+HÃ¬nh  60 Giao diá»‡n trang  xá»­ lÃ½ Ä‘áº·t bÃ n
+5.4.13 Giao diá»‡n quáº£n lÃ½ admin
+
+HÃ¬nh  61 Giao diá»‡n trang tá»•ng quan admin
+
+HÃ¬nh  62 Giao diá»‡n trang danh sÃ¡ch nhÃ  hÃ ng
+
+
+HÃ¬nh  63 Giao diá»‡n trang danh sÃ¡ch bÃ i viáº¿t
+5.4.14 Giao diá»‡n ngÆ°á»i dÃ¹ng 
+
+HÃ¬nh  64 Giao diá»‡n trang thÃ´ng tin ngÆ°á»i dÃ¹ng
+
+HÃ¬nh  65 Giao diá»‡n trang táº¡o bÃ i viáº¿t blog
+
+
+
+5.4.16 Giao diá»‡n Ä‘áº·t bÃ n 
+
+HÃ¬nh  66 Giao diá»‡n thÃªm sáº£n pháº©m vÃ o giá» hÃ ng
+
+HÃ¬nh  67 Giao diá»‡n form Ä‘iá»n thÃ´ng tin Ä‘áº·t bÃ n
+5.5 Kiá»ƒm thá»­ há»‡ thá»‘ng
+5.5.1 Ká»‹ch báº£n kiá»ƒm thá»­
+Báº£ng 22 Báº£ng Ká»‹ch báº£n Kiá»ƒm thá»­ Pháº§n má»m
+5.5.2 Káº¿t quáº£ kiá»ƒm thá»­
+Báº£ng 23 Báº£ng BÃ¡o cÃ¡o Káº¿t quáº£ Kiá»ƒm thá»­
+
+
+
+5.5.3 ÄÃ¡nh giÃ¡ chung
+CÄƒn cá»© vÃ o káº¿t quáº£ thu Ä‘Æ°á»£c tá»« cÃ¡c ká»‹ch báº£n kiá»ƒm thá»­ vÃ  quÃ¡ trÃ¬nh váº­n hÃ nh thá»±c nghiá»‡m táº¡i Ä‘á»‹a bÃ n phÆ°á»ng Háº¡nh ThÃ´ng, phÆ°á»ng GÃ² Váº¥p, phÆ°á»ng An NhÆ¡n, phÆ°á»ng ThÃ´ng TÃ¢y Há»™i, phÆ°á»ng An Há»™i TÃ¢y, phÆ°á»ng An Há»™i ÄÃ´ng (TP.HCM), nhÃ³m nghiÃªn cá»©u Ä‘Æ°a ra nhá»¯ng Ä‘Ã¡nh giÃ¡ tá»•ng quan vá» há»‡ thá»‘ng FoodMap nhÆ° sau:
+5.5.3.1 ÄÃ¡nh giÃ¡ vá» máº·t chá»©c nÄƒng 
+Há»‡ thá»‘ng Ä‘Ã£ Ä‘Ã¡p á»©ng Ä‘áº§y Ä‘á»§ vÃ  chÃ­nh xÃ¡c cÃ¡c yÃªu cáº§u chá»©c nÄƒng cá»‘t lÃµi Ä‘Æ°á»£c Ä‘á» ra trong giai Ä‘oáº¡n phÃ¢n tÃ­ch thiáº¿t káº¿. CÃ¡c quy trÃ¬nh nghiá»‡p vá»¥ quan trá»ng bao gá»“m ÄÄƒng kÃ½, ÄÄƒng nháº­p, TÃ¬m kiáº¿m Ä‘á»‹a Ä‘iá»ƒm, Äáº·t mÃ³n vÃ  Thanh toÃ¡n Ä‘á»u váº­n hÃ nh á»•n Ä‘á»‹nh, Ä‘áº£m báº£o tÃ­nh logic cháº·t cháº½ cá»§a luá»“ng dá»¯ liá»‡u. Äáº·c biá»‡t, tÃ­nh nÄƒng báº£n Ä‘á»“ sá»‘ á»©ng dá»¥ng cÃ´ng nghá»‡ MongoDB Geospatial hoáº¡t Ä‘á»™ng hiá»‡u quáº£ trong viá»‡c Ä‘á»‹nh vá»‹ tá»a Ä‘á»™ ngÆ°á»i dÃ¹ng, cá»¥ thá»ƒ lÃ  táº¡i khu vá»±c thá»­ nghiá»‡m TrÆ°á»ng Äáº¡i há»c CÃ´ng nghiá»‡p TP.HCM, Ä‘á»“ng thá»i hiá»ƒn thá»‹ danh sÃ¡ch cÃ¡c quÃ¡n Äƒn lÃ¢n cáº­n vá»›i Ä‘á»™ chÃ­nh xÃ¡c cao vÃ  sai sá»‘ khÃ´ng Ä‘Ã¡ng ká»ƒ. BÃªn cáº¡nh Ä‘Ã³, Chatbot AI tÃ­ch há»£p Google Gemini Ä‘Ã£ chá»©ng minh Ä‘Æ°á»£c kháº£ nÄƒng xá»­ lÃ½ ngÃ´n ngá»¯ tá»± nhiÃªn Æ°u viá»‡t thÃ´ng qua viá»‡c phÃ¢n tÃ­ch nhu cáº§u vÃ  Ä‘Æ°a ra cÃ¡c gá»£i Ã½ mÃ³n Äƒn phÃ¹ há»£p vá»›i ngá»¯ cáº£nh cá»¥ thá»ƒ (nhÆ° tá»‘i Æ°u chi phÃ­, khoáº£ng cÃ¡ch Ä‘á»‹a lÃ½ hay loáº¡i hÃ¬nh áº©m thá»±c), tá»« Ä‘Ã³ nÃ¢ng cao cháº¥t lÆ°á»£ng tÃ¬m kiáº¿m so vá»›i phÆ°Æ¡ng phÃ¡p truy váº¥n tá»« khÃ³a truyá»n thá»‘ng.
+5.5.3.2 ÄÃ¡nh giÃ¡ vá» hiá»‡u nÄƒng vÃ  Ä‘á»™ á»•n Ä‘á»‹nh 
+Vá» máº·t ká»¹ thuáº­t, viá»‡c á»©ng dá»¥ng Next.js vá»›i cÆ¡ cháº¿ Server-Side Rendering (SSR) Ä‘Ã£ tá»‘i Æ°u hÃ³a Ä‘Ã¡ng ká»ƒ tá»‘c Ä‘á»™ táº£i trang ban Ä‘áº§u, giÃºp giáº£m thiá»ƒu thá»i gian chá» cá»§a ngÆ°á»i dÃ¹ng khi truy cáº­p há»‡ thá»‘ng. Há»‡ thá»‘ng cÅ©ng thá»ƒ hiá»‡n kháº£ nÄƒng xá»­ lÃ½ tá»‘t cÃ¡c tÃ¡c vá»¥ thá»i gian thá»±c. QuÃ¡ trÃ¬nh Ä‘á»“ng bá»™ tráº¡ng thÃ¡i Ä‘Æ¡n hÃ ng giá»¯a ngÆ°á»i dÃ¹ng vÃ  chá»§ quÃ¡n diá»…n ra tá»©c thá»i, khÃ´ng ghi nháº­n Ä‘á»™ trá»… lá»›n, Ä‘áº£m báº£o tÃ­nh liÃªn tá»¥c cá»§a quy trÃ¬nh váº­n hÃ nh. NgoÃ i ra, cÆ¡ sá»Ÿ dá»¯ liá»‡u MongoDB Ä‘Ã£ chá»©ng minh kháº£ nÄƒng chá»‹u táº£i á»•n Ä‘á»‹nh khi xá»­ lÃ½ cÃ¡c truy váº¥n phá»©c táº¡p, bao gá»“m viá»‡c káº¿t há»£p giá»¯a tÃ¬m kiáº¿m vÄƒn báº£n vÃ  truy váº¥n dá»¯ liá»‡u Ä‘á»‹a lÃ½. 
+5.5.3.3 ÄÃ¡nh giÃ¡ vá» giao diá»‡n vÃ  tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng 
+Giao diá»‡n há»‡ thá»‘ng Ä‘Æ°á»£c thiáº¿t káº¿ theo hÆ°á»›ng trá»±c quan, hiá»‡n Ä‘áº¡i, phÃ¹ há»£p vá»›i thá»‹ hiáº¿u cá»§a Ä‘á»‘i tÆ°á»£ng ngÆ°á»i dÃ¹ng má»¥c tiÃªu lÃ  sinh viÃªn vÃ  giá»›i tráº». NhÃ³m nghiÃªn cá»©u Ä‘Ã£ tá»‘i Æ°u hÃ³a quy trÃ¬nh Ä‘áº·t mÃ³n báº±ng viá»‡c tinh giáº£n sá»‘ lÆ°á»£ng thao tÃ¡c, Ä‘á»“ng thá»i tÃ­ch há»£p cá»•ng thanh toÃ¡n VietQR giÃºp quÃ¡ trÃ¬nh giao dá»‹ch tÃ i chÃ­nh diá»…n ra thuáº­n tiá»‡n vÃ  nhanh chÃ³ng. Nhá»¯ng cáº£i tiáº¿n nÃ y gÃ³p pháº§n nÃ¢ng cao tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng tá»•ng thá»ƒ trÃªn á»©ng dá»¥ng.
+5.5.3.4 Káº¿t luáº­n chung
+NhÃ¬n chung, há»‡ thá»‘ng FoodMap Ä‘Ã£ Ä‘áº¡t má»©c Ä‘á»™ hoÃ n thiá»‡n tá»‘t vÃ  hoáº¡t Ä‘á»™ng á»•n Ä‘á»‹nh trÃªn mÃ´i trÆ°á»ng triá»ƒn khai thá»±c táº¿ (tÃªn miá»n: food-map.online). CÃ¡c váº¥n Ä‘á» phÃ¡t sinh trong giai Ä‘oáº¡n kiá»ƒm thá»­, chá»§ yáº¿u liÃªn quan Ä‘áº¿n viá»‡c xÃ¡c thá»±c dá»¯ liá»‡u Ä‘áº§u vÃ o, Ä‘Ã£ Ä‘Æ°á»£c nhÃ³m nghiÃªn cá»©u kháº¯c phá»¥c triá»‡t Ä‘á»ƒ. Há»‡ thá»‘ng hiá»‡n táº¡i Ä‘Ã¡p á»©ng Ä‘á»§ cÃ¡c Ä‘iá»u kiá»‡n ká»¹ thuáº­t cáº§n thiáº¿t Ä‘á»ƒ má»Ÿ rá»™ng pháº¡m vi dá»¯ liá»‡u vÃ  triá»ƒn khai thÃ­ Ä‘iá»ƒm á»Ÿ quy mÃ´ lá»›n hÆ¡n trong tÆ°Æ¡ng lai.
+
+CHÆ¯Æ NG VI: Káº¾T LUáº¬N VÃ€ HÆ¯á»šNG PHÃT TRIá»‚N
+6.1 Káº¿t luáº­n
+Äá» tÃ i Ä‘Ã£ hoÃ n thÃ nh cÃ¡c má»¥c tiÃªu nghiÃªn cá»©u Ä‘á» ra vÃ  hiá»‡n thá»±c hÃ³a thÃ nh cÃ´ng há»‡ thá»‘ng â€œBáº£n Ä‘á»“ áº©m thá»±c du lá»‹châ€ - má»™t ná»n táº£ng cÃ´ng nghá»‡ toÃ n diá»‡n há»— trá»£ Ä‘áº·t mÃ³n vÃ  tÆ° váº¥n áº©m thá»±c thÃ´ng minh vá»›i kháº£ nÄƒng má»Ÿ rá»™ng linh hoáº¡t.
+Vá» kiáº¿n trÃºc cÃ´ng nghá»‡: NhÃ³m nghiÃªn cá»©u Ä‘Ã£ á»©ng dá»¥ng thÃ nh cÃ´ng bá»™ cÃ´ng nghá»‡ tiÃªn tiáº¿n, táº­p trung giáº£i quyáº¿t bÃ i toÃ¡n xá»­ lÃ½ báº¥t Ä‘á»“ng bá»™ vÃ  tá»‘i Æ°u hÃ³a tráº£i nghiá»‡m thÃ´ng minh:
+Há»‡ thá»‘ng Front-end: ÄÆ°á»£c xÃ¢y dá»±ng trÃªn ná»n táº£ng Next.js káº¿t há»£p TypeScript, tá»‘i Æ°u hÃ³a tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng thÃ´ng qua cÆ¡ cháº¿ Render phÃ­a mÃ¡y chá»§ (SSR) vÃ  Táº¡o trang tÄ©nh (SSG), Ä‘áº£m báº£o tá»‘c Ä‘á»™ táº£i trang vÆ°á»£t trá»™i.
+Há»‡ thá»‘ng Back-end vÃ  Xá»­ lÃ½ sá»± kiá»‡n: Kiáº¿n trÃºc hÆ°á»›ng sá»± kiá»‡n (Event-driven) vá»¯ng cháº¯c Ä‘Æ°á»£c thiáº¿t láº­p dá»±a trÃªn NestJS, Kafka vÃ  BullMQ. Giáº£i phÃ¡p nÃ y cho phÃ©p xá»­ lÃ½ hiá»‡u quáº£ cÃ¡c luá»“ng dá»¯ liá»‡u thá»i gian thá»±c vÃ  quáº£n lÃ½ cÃ¡c tÃ¡c vá»¥ ná»n phá»©c táº¡p trÃªn háº¡ táº§ng Redis.
+LÃµi TrÃ­ tuá»‡ nhÃ¢n táº¡o vÃ  Dá»¯ liá»‡u: Háº¡ táº§ng dá»¯ liá»‡u sá»­ dá»¥ng MongoDB Ä‘á»ƒ quáº£n lÃ½ thÃ´ng tin nghiá»‡p vá»¥ vÃ  khÃ´ng gian Ä‘á»‹a lÃ½. Äáº·c biá»‡t, lÃµi trÃ­ tuá»‡ nhÃ¢n táº¡o Ä‘Æ°á»£c váº­n hÃ nh bá»Ÿi mÃ´ hÃ¬nh ngÃ´n ngá»¯ lá»›n Google Gemini, káº¿t há»£p ká»¹ thuáº­t truy xuáº¥t dá»¯ liá»‡u tÄƒng cÆ°á»ng (RAG).
+Vá» káº¿t quáº£ thá»±c tiá»…n:
+Thá»© nháº¥t, váº­n hÃ nh thÃ nh cÃ´ng Trá»£ lÃ½ áº£o tÆ° váº¥n thÃ´ng minh. Há»‡ thá»‘ng Ä‘Ã£ chá»©ng minh Ä‘Æ°á»£c kháº£ nÄƒng tháº¥u hiá»ƒu ngÃ´n ngá»¯ tá»± nhiÃªn vÃ  ngá»¯ cáº£nh thá»±c táº¿ cá»§a ngÆ°á»i dÃ¹ng (vÃ­ dá»¥: hiá»ƒu nhu cáº§u tÃ¬m mÃ³n Äƒn cá»¥ thá»ƒ nhÆ° â€œbÃ¡nh mÃ¬â€ hoáº·c tÃ¬m quÃ¡n â€œgáº§n Ä‘Ã¢yâ€). ThÃ´ng qua cÆ¡ cháº¿ RAG, Trá»£ lÃ½ áº£o truy xuáº¥t trá»±c tiáº¿p dá»¯ liá»‡u tá»« cÆ¡ sá»Ÿ dá»¯ liá»‡u Ä‘á»ƒ Ä‘Æ°a ra cÃ¡c gá»£i Ã½ chÃ­nh xÃ¡c vá» tÃªn quÃ¡n, Ä‘á»‹a chá»‰ vÃ  giÃ¡ cáº£ thá»±c táº¿, thay vÃ¬ Ä‘Æ°a ra cÃ¡c thÃ´ng tin chung chung.
+Thá»© hai, hoÃ n thiá»‡n há»‡ thá»‘ng nghiá»‡p vá»¥ cá»‘t lÃµi. CÃ¡c tÃ­nh nÄƒng quan trá»ng Ä‘Ã£ Ä‘Æ°á»£c triá»ƒn khai Ä‘áº§y Ä‘á»§, bao gá»“m quy trÃ¬nh quáº£n lÃ½ Ä‘á»‘i tÃ¡c, váº­n hÃ nh thá»±c Ä‘Æ¡n, xá»­ lÃ½ Ä‘Æ¡n hÃ ng vÃ  tÃ­ch há»£p thanh toÃ¡n trá»±c tiáº¿p qua mÃ£ QR, Ä‘Ã¡p á»©ng nhu cáº§u sá»­ dá»¥ng thá»±c táº¿.
+Thá»© ba, Ä‘áº£m báº£o tÃ­nh á»•n Ä‘á»‹nh vÃ  kháº£ nÄƒng má»Ÿ rá»™ng. Nhá» kiáº¿n trÃºc hÆ°á»›ng sá»± kiá»‡n, há»‡ thá»‘ng sáºµn sÃ ng Ä‘Ã¡p á»©ng lÆ°u lÆ°á»£ng truy cáº­p lá»›n vÃ  dá»… dÃ ng tÃ­ch há»£p thÃªm cÃ¡c mÃ´-Ä‘un chá»©c nÄƒng má»›i trong tÆ°Æ¡ng lai.
+Háº¡n cháº¿ cá»§a Ä‘á» tÃ i: BÃªn cáº¡nh nhá»¯ng thÃ nh quáº£ Ä‘áº¡t Ä‘Æ°á»£c, há»‡ thá»‘ng váº«n cÃ²n tá»“n táº¡i má»™t sá»‘ háº¡n cháº¿ cáº§n kháº¯c phá»¥c trong cÃ¡c giai Ä‘oáº¡n phÃ¡t triá»ƒn tiáº¿p theo:
+Háº¡n cháº¿ vá» há»— trá»£ Ä‘a ngÃ´n ngá»¯: Há»‡ thá»‘ng hiá»‡n táº¡i táº­p trung tá»‘i Æ°u hÃ³a dá»¯ liá»‡u vÃ  giao diá»‡n ngÆ°á»i dÃ¹ng cho ngÃ´n ngá»¯ tiáº¿ng Viá»‡t. TÃ­nh nÄƒng Ä‘a ngÃ´n ngá»¯ Ä‘á»ƒ phá»¥c vá»¥ trá»±c tiáº¿p cho Ä‘á»‘i tÆ°á»£ng du khÃ¡ch quá»‘c táº¿ chÆ°a Ä‘Æ°á»£c tÃ­ch há»£p hoÃ n chá»‰nh á»Ÿ phiÃªn báº£n nÃ y.
+Vá» tráº£i nghiá»‡m báº£n Ä‘á»“: TÃ­nh nÄƒng dáº«n Ä‘Æ°á»ng hiá»‡n táº¡i phá»¥ thuá»™c vÃ o cÆ¡ cháº¿ chuyá»ƒn tiáº¿p sang á»©ng dá»¥ng báº£n Ä‘á»“ thá»© ba (Google Maps), chÆ°a tÃ­ch há»£p Ä‘Æ°á»£c há»‡ thá»‘ng Ä‘iá»u hÆ°á»›ng trá»±c tiáº¿p ngay trÃªn giao diá»‡n á»©ng dá»¥ng.
+Vá» phÃ¢n tÃ­ch dá»¯ liá»‡u chuyÃªn sÃ¢u: Há»‡ thá»‘ng chÆ°a á»©ng dá»¥ng AI Ä‘á»ƒ tá»± Ä‘á»™ng phÃ¢n tÃ­ch cáº£m xÃºc hoáº·c trÃ­ch xuáº¥t cÃ¡c thÃ´ng tin chi tiáº¿t tá»« ná»™i dung bÃ¬nh luáº­n cá»§a ngÆ°á»i dÃ¹ng Ä‘á»ƒ nÃ¢ng cao cháº¥t lÆ°á»£ng Ä‘Ã¡nh giÃ¡.
+Vá» nÄƒng lá»±c thá»±c thi cá»§a AI: Trá»£ lÃ½ áº£o hiá»‡n táº¡i táº­p trung chá»§ yáº¿u vÃ o vai trÃ² tÆ° váº¥n vÃ  cung cáº¥p thÃ´ng tin, chÆ°a tÃ­ch há»£p kháº£ nÄƒng thá»±c thi hÃ nh Ä‘á»™ng trá»±c tiáº¿p (nhÆ° tá»± Ä‘á»™ng táº¡o Ä‘Æ¡n hÃ ng) theo yÃªu cáº§u cá»§a ngÆ°á»i dÃ¹ng.
+6.2 HÆ°á»›ng phÃ¡t triá»ƒn
+TrÃªn cÆ¡ sá»Ÿ ná»n táº£ng cÃ´ng nghá»‡ Ä‘Ã£ xÃ¢y dá»±ng vÃ  cÃ¡c háº¡n cháº¿ cÃ²n tá»“n táº¡i, nhÃ³m nghiÃªn cá»©u Ä‘á» xuáº¥t lá»™ trÃ¬nh phÃ¡t triá»ƒn trong tÆ°Æ¡ng lai nháº±m hoÃ n thiá»‡n há»‡ thá»‘ng vÃ  nÃ¢ng cao tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng theo cÃ¡c Ä‘á»‹nh hÆ°á»›ng sau:
+6.2.1. NÃ¢ng cáº¥p Trá»£ lÃ½ áº£o thÃ nh tÃ¡c nhÃ¢n thÃ´ng minh toÃ n diá»‡n
+Má»Ÿ rá»™ng kháº£ nÄƒng thá»±c thi hÃ nh Ä‘á»™ng: Chuyá»ƒn Ä‘á»•i vai trÃ² cá»§a Trá»£ lÃ½ áº£o tá»« má»©c Ä‘á»™ tÆ° váº¥n thÃ´ng tin Ä‘Æ¡n thuáº§n sang má»™t trá»£ lÃ½ thÃ´ng minh cÃ³ kháº£ nÄƒng thá»±c hiá»‡n tÃ¡c vá»¥. Há»‡ thá»‘ng sáº½ Ä‘Æ°á»£c nÃ¢ng cáº¥p Ä‘á»ƒ cÃ³ thá»ƒ trá»±c tiáº¿p há»— trá»£ ngÆ°á»i dÃ¹ng thá»±c hiá»‡n cÃ¡c thao tÃ¡c phá»©c táº¡p nhÆ° Ä‘áº·t bÃ n, gá»i mÃ³n hoáº·c thanh toÃ¡n ngay trong quÃ¡ trÃ¬nh há»™i thoáº¡i mÃ  khÃ´ng cáº§n thao tÃ¡c thá»§ cÃ´ng trÃªn giao diá»‡n.
+TÃ­ch há»£p cÆ¡ cháº¿ gá»i hÃ m tá»± Ä‘á»™ng: Táº­n dá»¥ng tÃ­nh nÄƒng gá»i hÃ m cá»§a mÃ´ hÃ¬nh Google Gemini Ä‘á»ƒ cho phÃ©p Trá»£ lÃ½ áº£o tá»± Ä‘á»™ng ra quyáº¿t Ä‘á»‹nh vÃ  tÆ°Æ¡ng tÃ¡c vá»›i cÃ¡c giao diá»‡n láº­p trÃ¬nh á»©ng dá»¥ng nghiá»‡p vá»¥ cá»§a há»‡ thá»‘ng NestJS.
+Tá»‘i Æ°u hÃ³a kháº£ nÄƒng hiá»ƒu ngá»¯ cáº£nh: Tinh chá»‰nh cÃ¡c cÃ¢u lá»‡nh vÃ  quy trÃ¬nh xá»­ lÃ½ Ä‘á»ƒ Trá»£ lÃ½ áº£o cÃ³ thá»ƒ truy váº¥n dá»¯ liá»‡u quÃ¡n Äƒn vÃ  thá»±c Ä‘Æ¡n má»™t cÃ¡ch chÃ­nh xÃ¡c nháº¥t, giáº£m thiá»ƒu sá»± phá»¥ thuá»™c vÃ o cÃ¡c cÃ´ng cá»¥ Ä‘iá»u phá»‘i trung gian.
+6.2.2. PhÃ¡t triá»ƒn tÃ­nh nÄƒng há»— trá»£ Ä‘a ngÃ´n ngá»¯ 
+Äá»ƒ giáº£i quyáº¿t háº¡n cháº¿ vá» rÃ o cáº£n ngÃ´n ngá»¯ vÃ  phá»¥c vá»¥ tá»‘t hÆ¡n Ä‘á»‘i tÆ°á»£ng khÃ¡ch du lá»‹ch quá»‘c táº¿, há»‡ thá»‘ng sáº½ Æ°u tiÃªn tÃ­ch há»£p bá»™ chuyá»ƒn Ä‘á»•i ngÃ´n ngá»¯ linh hoáº¡t. Má»¥c tiÃªu lÃ  há»— trá»£ song ngá»¯ Anh - Viá»‡t hoáº·c Ä‘a ngÃ´n ngá»¯ cho toÃ n bá»™ giao diá»‡n vÃ  dá»¯ liá»‡u Ä‘Ã¡nh giÃ¡, giÃºp du khÃ¡ch nÆ°á»›c ngoÃ i dá»… dÃ ng tiáº¿p cáº­n thÃ´ng tin vÃ  tráº£i nghiá»‡m áº©m thá»±c báº£n Ä‘á»‹a.
+6.2.3. Tá»‘i Æ°u hÃ³a tráº£i nghiá»‡m báº£n Ä‘á»“ liá»n máº¡ch 
+Thay vÃ¬ sá»­ dá»¥ng cÆ¡ cháº¿ chuyá»ƒn tiáº¿p sang á»©ng dá»¥ng báº£n Ä‘á»“ bÃªn thá»© ba nhÆ° hiá»‡n táº¡i, há»‡ thá»‘ng sáº½ tÃ­ch há»£p sÃ¢u cÃ¡c dá»‹ch vá»¥ chá»‰ Ä‘Æ°á»ng trá»±c tiáº¿p vÃ o giao diá»‡n á»©ng dá»¥ng. Cáº£i tiáº¿n nÃ y cho phÃ©p ngÆ°á»i dÃ¹ng xem lá»™ trÃ¬nh chi tiáº¿t, Æ°á»›c tÃ­nh thá»i gian di chuyá»ƒn vÃ  Ä‘iá»u hÆ°á»›ng ngay trÃªn ná»n táº£ng Food Map, táº¡o ra tráº£i nghiá»‡m sá»­ dá»¥ng xuyÃªn suá»‘t vÃ  chuyÃªn nghiá»‡p.
+6.2.4. PhÃ¢n tÃ­ch dá»¯ liá»‡u vÃ  cÃ¡ nhÃ¢n hÃ³a chuyÃªn sÃ¢u
+PhÃ¢n tÃ­ch cáº£m xÃºc ngÆ°á»i dÃ¹ng: XÃ¢y dá»±ng quy trÃ¬nh xá»­ lÃ½ ngÃ´n ngá»¯ tá»± nhiÃªn Ä‘á»ƒ tá»± Ä‘á»™ng phÃ¢n tÃ­ch cÃ¡c bÃ i Ä‘Ã¡nh giÃ¡ dáº¡ng vÄƒn báº£n. Há»‡ thá»‘ng sáº½ Ã¡p dá»¥ng cÃ¡c mÃ´ hÃ¬nh trÃ­ tuá»‡ nhÃ¢n táº¡o Ä‘á»ƒ phÃ¢n loáº¡i cáº£m xÃºc tÃ­ch cá»±c hoáº·c tiÃªu cá»±c, tá»« Ä‘Ã³ trÃ­ch xuáº¥t cÃ¡c tá»« khÃ³a quan trá»ng giÃºp chá»§ nhÃ  hÃ ng tháº¥u hiá»ƒu sÃ¢u sáº¯c hÆ¡n vá» pháº£n há»“i cá»§a khÃ¡ch hÃ ng.
+Há»‡ thá»‘ng gá»£i Ã½ chá»§ Ä‘á»™ng: Táº­n dá»¥ng luá»“ng dá»¯ liá»‡u hÃ nh vi ngÆ°á»i dÃ¹ng Ä‘á»ƒ huáº¥n luyá»‡n cÃ¡c mÃ´ hÃ¬nh há»c mÃ¡y káº¿t há»£p vá»›i ká»¹ thuáº­t so sÃ¡nh vector. Äiá»u nÃ y giÃºp há»‡ thá»‘ng chá»§ Ä‘á»™ng Ä‘á» xuáº¥t cÃ¡c Ä‘á»‹a Ä‘iá»ƒm vÃ  mÃ³n Äƒn phÃ¹ há»£p nháº¥t vá»›i kháº©u vá»‹ vÃ  thÃ³i quen cÃ¡ nhÃ¢n cá»§a tá»«ng ngÆ°á»i dÃ¹ng.
+6.2.5. PhÃ¡t triá»ƒn á»©ng dá»¥ng trÃªn thiáº¿t bá»‹ di Ä‘á»™ng
+Má»Ÿ rá»™ng ná»n táº£ng tá»« giao diá»‡n web sang á»©ng dá»¥ng di Ä‘á»™ng chuyÃªn biá»‡t, Ä‘áº£m báº£o sá»± Ä‘á»“ng bá»™ hoÃ n toÃ n vá»›i há»‡ thá»‘ng mÃ¡y chá»§ hiá»‡n cÃ³. Viá»‡c phÃ¡t triá»ƒn á»©ng dá»¥ng di Ä‘á»™ng sáº½ cho phÃ©p táº­n dá»¥ng tá»‘i Ä‘a cÃ¡c tÃ­nh nÄƒng pháº§n cá»©ng nhÆ° Ä‘á»‹nh vá»‹ GPS chÃ­nh xÃ¡c cao vÃ  há»‡ thá»‘ng thÃ´ng bÃ¡o Ä‘áº©y Ä‘á»ƒ cáº­p nháº­t tráº¡ng thÃ¡i Ä‘Æ¡n hÃ ng hoáº·c gá»­i cÃ¡c chÆ°Æ¡ng trÃ¬nh Æ°u Ä‘Ã£i Ä‘á»™c quyá»n theo thá»i gian thá»±c.
+
+TÃ€I LIá»†U THAM KHáº¢O
+          Apache Software Foundation. (2025). Apache Kafka introduction. Truy xuáº¥t ngÃ y 17 thÃ¡ng 9 nÄƒm 2025, tá»« https://kafka.apache.org/intro
+          Automattic. (2025). Mongoose documentation. Truy xuáº¥t ngÃ y 20 thÃ¡ng 10 nÄƒm 2025, tá»« https://mongoosejs.com/docs/guide.html
+           Axios. (2025). Getting started. Truy xuáº¥t ngÃ y 10 thÃ¡ng 10 nÄƒm 2025, tá»« https://axios-http.com/docs/intro
+           Foody Corp. (2025). Vá» chÃºng tÃ´i - Giá»›i thiá»‡u Foody.vn. Truy xuáº¥t ngÃ y 23 thÃ¡ng 10 nÄƒm 2025, tá»« https://www.foody.vn/gioi-thieu
+           Google Developers. (2025). Google Maps Platform documentation. Truy xuáº¥t ngÃ y 30 thÃ¡ng 10 nÄƒm 2025, tá»« https://developers.google.com/maps/documentation
+           IETF. (2015). RFC 7519: JSON Web Token (JWT). Truy xuáº¥t ngÃ y 4 thÃ¡ng 11 nÄƒm 2025, tá»« https://datatracker.ietf.org/doc/html/rfc7519
+           Mapbox. (2025). Mapbox GL JS documentation. Truy xuáº¥t ngÃ y 25 thÃ¡ng 11 nÄƒm 2025, tá»« https://docs.mapbox.com/mapbox-gl-js/guides
+           MongoDB. (2025). Introduction to MongoDB. Truy xuáº¥t ngÃ y 1 thÃ¡ng 12 nÄƒm 2025, tá»« https://www.mongodb.com/docs/manual/introduction/
+           NestJS. (2025). Introduction: Efficient, scalable Node.js web applications. Truy xuáº¥t ngÃ y 26 thÃ¡ng 10 nÄƒm 2025, tá»« https://docs.nestjs.com/
+NestJS. (2025). Recipes: Sentry integration. Truy xuáº¥t ngÃ y 24 thÃ¡ng 9 nÄƒm 2025, tá»« https://docs.nestjs.com/recipes/sentry
+Pmndrs. (2025). Zustand documentation. Truy xuáº¥t ngÃ y 9 thÃ¡ng 9 nÄƒm 2025, tá»« https://github.com/pmndrs/zustand
+Redis. (2025). Introduction to Redis. Truy xuáº¥t ngÃ y 7 thÃ¡ng 9 nÄƒm 2025, tá»« https://redis.io/docs/about/
+Riviu. (2025). Giá»›i thiá»‡u vá» Riviu - ThÃ¡nh Riviu. Truy xuáº¥t ngÃ y 10 thÃ¡ng 11 nÄƒm 2025, tá»« https://riviu.vn/
+Saha, S., & Aggarwal, V. (2022). CSR, SSR, SSG explained. Truy xuáº¥t ngÃ y 23 thÃ¡ng 10 nÄƒm 2025, tá»« https://wearecommunity.io/communities/india-united-ui-community/articles/1813
+ShopeeFood. (2025). Giá»›i thiá»‡u vá» ShopeeFood. Truy xuáº¥t ngÃ y 2 thÃ¡ng 10 nÄƒm 2025, tá»« https://shopeefood.vn/gioi-thieu
+Strapi. (2024). SSR vs. SSG in Next.js: Differences, advantages, and use cases. Truy xuáº¥t ngÃ y 18 thÃ¡ng 11 nÄƒm 2025, tá»« https://strapi.io/blog/ssr-vs-ssg-in-nextjs-differences-advantages-and-use-cases
+Tailwind Labs. (2025). Utility-first fundamentals. Truy xuáº¥t ngÃ y 15 thÃ¡ng 11 nÄƒm 2025, tá»« https://tailwindcss.com/docs/utility-first
+Taskforce.sh. (2025). BullMQ documentation. Truy xuáº¥t ngÃ y 22 thÃ¡ng 11 nÄƒm 2025, tá»« https://docs.bullmq.io/
+Vercel. (2025). Incremental Static Regeneration (ISR). Truy xuáº¥t ngÃ y 14 thÃ¡ng 10 nÄƒm 2025, tá»« https://nextjs.org/docs/pages/building-your-application/rendering/incremental-static-regeneration
+Vercel. (2025). React Foundations: What is React and Next.js?. Truy xuáº¥t ngÃ y 20 thÃ¡ng 9 nÄƒm 2025, tá»« https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs
+Vercel. (2025). Rendering: Server-side Rendering (SSR) and Static Site Generation (SSG). Truy xuáº¥t ngÃ y 20 thÃ¡ng 9 nÄƒm 2025, tá»« https://nextjs.org/docs/pages/building-your-application/rendering
+Redpanda Data. (2025). Redpanda Documentation. Truy xuáº¥t ngÃ y 23 thÃ¡ng 9 nÄƒm 2025, tá»« https://docs.redpanda.com/
+n8n.io. (2025). n8n documentation: Workflow automation. Truy xuáº¥t ngÃ y 13 thÃ¡ng 10 nÄƒm 2025, tá»« https://docs.n8n.io/
+Google DeepMind. (2025). Gemini models documentation. Truy xuáº¥t ngÃ y 15 thÃ¡ng 10 nÄƒm 2025, tá»« https://ai.google.dev/docs
+
+
+NHáº¬T KÃ LÃ€M VIá»†C
+

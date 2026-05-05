@@ -1,0 +1,293 @@
+﻿BỘ CÔNG THƯƠNG
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP TP. HỒ CHÍ MINH
+KHOA CÔNG NGHỆ THÔNG TIN
+
+
+TÊN ĐỀ TÀI
+WEB THƯƠNG MẠI ĐIỆN TỬ THỜI TRANG CAO CẤP TÍCH HỢP AI AGENT
+Tên hệ thống triển khai: AURA ARCHIVE
+
+NGÀNH: CÔNG NGHỆ THÔNG TIN
+MÃ CHUYÊN NGÀNH: 7480201
+
+SINH VIÊN: VŨ HẢI QUÂN - 21040391
+NGUYỄN ANH VŨ - 00000000
+LỚP: DHCNTT17ATT
+GVHD: THS. ĐỖ HÀ PHƯƠNG
+
+
+THÀNH PHỐ HỒ CHÍ MINH, THÁNG 04 NĂM 2026
+
+
+INDUSTRIAL UNIVERSITY OF HO CHI MINH CITY
+FACULTY OF INFORMATION TECHNOLOGY
+
+
+THESIS TITLE
+HIGH-END FASHION E-COMMERCE WEBSITE INTEGRATED WITH AI AGENT
+Implemented system name: AURA ARCHIVE
+
+MAJOR: INFORMATION TECHNOLOGY
+MAJOR CODE: 7480201
+
+STUDENTS: VU HAI QUAN - 21040391
+NGUYEN ANH VU - 00000000
+CLASS: DHCNTT17ATT
+SUPERVISOR: MSC. DO HA PHUONG
+
+
+HO CHI MINH CITY, APRIL 2026
+
+
+TÓM TẮT
+Trong bối cảnh thương mại điện tử ngày càng cạnh tranh, đặc biệt ở phân khúc thời trang cao cấp, người dùng không chỉ cần một website bán hàng thông thường mà còn cần một môi trường mua sắm có khả năng tư vấn, cá nhân hóa và tạo sự tin cậy về sản phẩm. Từ yêu cầu đó, đề tài “Web thương mại điện tử thời trang cao cấp tích hợp AI Agent” được thực hiện nhằm xây dựng hệ thống AURA ARCHIVE - một nền tảng bán hàng thời trang cao cấp theo định hướng resale và consignment, kết hợp chặt chẽ giữa trải nghiệm mua sắm, quản trị vận hành và tư vấn thông minh.
+Phiên bản hệ thống bám theo mã nguồn thực tế trong repo hiện tại được xây dựng với kiến trúc full-stack gồm Nuxt 3 ở phía giao diện, Express.js ở phía máy chủ ứng dụng và PostgreSQL làm cơ sở dữ liệu nghiệp vụ. Hệ thống hỗ trợ đầy đủ các chức năng trọng tâm như đăng ký và đăng nhập, xác thực bằng JWT, quản lý hồ sơ người dùng, địa chỉ giao hàng, giỏ hàng, wishlist, đánh giá sản phẩm, đơn hàng, blog, banner, popup, bảng điều khiển quản trị, thống kê doanh thu và tích hợp nhiều cổng thanh toán như VNPay, MoMo và PayPal. Bên cạnh đó, hệ thống còn cung cấp cơ chế xác thực xã hội qua Google và Facebook, giúp giảm rào cản khi người dùng truy cập lần đầu.
+Điểm nổi bật của đề tài là lớp AI Agent tích hợp trực tiếp trong backend. AI không bị phụ thuộc tuyệt đối vào một dịch vụ duy nhất mà được thiết kế theo hướng hybrid. Khi có khóa truy cập, hệ thống có thể sử dụng Gemini hoặc OpenAI để sinh phản hồi tự nhiên. Khi không có điều kiện gọi API, hệ thống vẫn hoạt động nhờ tập tri thức cục bộ, bộ phân loại ý định, bộ nhớ phiên hội thoại, dữ liệu sản phẩm và các template phản hồi tại chỗ. Ngoài chat văn bản, hệ thống còn hỗ trợ voice AI theo thời gian thực bằng Gemini Live API, cho phép khách hàng trò chuyện với AI Stylist bằng giọng nói, kết hợp Live2D để tăng mức độ tương tác. Cấu trúc này cho phép thay đổi model linh hoạt, bổ sung model dự phòng và mở rộng trong tương lai mà không cần viết lại toàn bộ hệ thống.
+Kết quả triển khai cho thấy đề tài đã hiện thực hóa được một nền tảng thương mại điện tử có chiều sâu về nghiệp vụ và có tính ứng dụng cao. Hệ thống không chỉ đáp ứng các chức năng cơ bản của một website bán hàng mà còn hỗ trợ tư vấn thông minh, cá nhân hóa theo ngữ cảnh, hỗ trợ nhiều phương thức thanh toán và cung cấp một không gian quản trị đầy đủ cho phía vận hành. Đây là cơ sở tốt để tiếp tục phát triển thành sản phẩm thương mại thực tế hoặc mở rộng thành một nền tảng retail AI-first trong tương lai.
+
+
+ABSTRACT
+In an increasingly competitive e-commerce landscape, especially in the high-end fashion segment, users expect more than a conventional online store. They need a trusted shopping environment that can provide guidance, personalization, and rich interaction throughout the purchase journey. Based on that demand, this thesis develops “A High-End Fashion E-Commerce Website Integrated with AI Agent”, implemented as AURA ARCHIVE, a resale and consignment oriented fashion commerce platform that combines storefront experience, operational management, and intelligent assistance.
+The implemented system is aligned with the actual source code of the current repository. It follows a full-stack architecture with Nuxt 3 on the frontend, Express.js on the backend, and PostgreSQL as the business database. The platform supports the core features of a modern e-commerce system, including registration and login, JWT-based authentication, customer profile management, shipping addresses, cart, wishlist, product reviews, order processing, blog and marketing content management, admin dashboard, revenue statistics, and payment integration through VNPay, MoMo, and PayPal. Social authentication through Google and Facebook is also provided to improve user onboarding.
+The most distinctive aspect of the system is the integrated AI Agent layer. Instead of depending on only one provider, the AI module is designed in a hybrid manner. When API credentials are available, the system can generate natural responses using Gemini or OpenAI. When those services are unavailable, the system still maintains support through local knowledge, rule-based intent classification, session memory, product search, and trained response templates. In addition to text chat, the platform also provides real-time voice AI using Gemini Live API and a Live2D based visual assistant to create a richer consultation experience. This architecture enables flexible model switching, fallback chains, and future extensibility without redesigning the entire application.
+The implementation result demonstrates that the thesis successfully delivers a practical and extensible e-commerce platform with meaningful AI integration. The system goes beyond standard online selling functions by offering personalized assistance, hybrid AI capability, multiple payment gateways, and a comprehensive administration space. This provides a solid foundation for future commercialization or expansion into an AI-first retail platform.
+
+
+LỜI CẢM ƠN
+Để hoàn thành khóa luận này, trước hết chúng em xin gửi lời cảm ơn chân thành đến Ban Giám hiệu, quý Thầy Cô Trường Đại học Công nghiệp TP. Hồ Chí Minh và đặc biệt là quý Thầy Cô Khoa Công nghệ Thông tin đã tạo điều kiện học tập, nghiên cứu và cung cấp nền tảng kiến thức giúp chúng em có thể triển khai đề tài.
+Chúng em xin bày tỏ lòng biết ơn sâu sắc đến ThS. Đỗ Hà Phương - giảng viên hướng dẫn đã trực tiếp theo sát, góp ý và định hướng cho nhóm trong suốt quá trình thực hiện khóa luận. Những nhận xét chuyên môn, sự nghiêm túc trong nghiên cứu và tinh thần làm việc cẩn trọng của Cô là cơ sở quan trọng để chúng em hoàn thiện đề tài theo đúng hướng.
+Chúng em cũng xin cảm ơn gia đình, bạn bè và các anh chị đồng hành đã luôn hỗ trợ về tinh thần, tạo điều kiện về thời gian và động viên trong những giai đoạn khó khăn của quá trình phát triển hệ thống, rà soát mã nguồn và hoàn thiện tài liệu báo cáo.
+Mặc dù đã cố gắng bám sát mã nguồn thực tế và hệ thống hóa nội dung theo tình trạng triển khai hiện có, báo cáo vẫn có thể còn một số thiếu sót. Chúng em rất mong nhận được ý kiến đóng góp của quý Thầy Cô để tiếp tục hoàn thiện hơn trong các bước tiếp theo.
+
+
+NHẬN XÉT CỦA GIẢNG VIÊN HƯỚNG DẪN
+
+
+
+
+
+
+
+
+
+TP. Hồ Chí Minh, ngày ..... tháng ..... năm .....
+Chữ ký của giảng viên
+
+
+NHẬN XÉT CỦA GIẢNG VIÊN PHẢN BIỆN 1
+
+
+
+
+
+
+
+
+
+TP. Hồ Chí Minh, ngày ..... tháng ..... năm .....
+Chữ ký của giảng viên
+
+
+NHẬN XÉT CỦA GIẢNG VIÊN PHẢN BIỆN 2
+
+
+
+
+
+
+
+
+
+TP. Hồ Chí Minh, ngày ..... tháng ..... năm .....
+Chữ ký của giảng viên
+
+
+MỤC LỤC
+Tóm tắt
+Abstract
+Lời cảm ơn
+Chương 1. Giới thiệu đề tài
+1.1 Lý do chọn đề tài
+1.2 Bài toán đặt ra
+1.3 Mục tiêu nghiên cứu
+1.4 Phạm vi thực hiện
+1.5 Đóng góp của đề tài
+1.6 Cấu trúc khóa luận
+Chương 2. Cơ sở lý thuyết và công nghệ áp dụng
+2.1 Công nghệ phía giao diện
+2.2 Công nghệ phía backend và cơ sở dữ liệu
+2.3 Nền tảng AI Agent và voice AI
+2.4 Xác thực, thanh toán và dịch vụ tích hợp
+2.5 Live2D, thời gian thực và giám sát hệ thống
+Chương 3. Phân tích và thiết kế hệ thống
+3.1 Phân tích yêu cầu nghiệp vụ
+3.2 Kiến trúc tổng thể
+3.3 Thiết kế dữ liệu
+3.4 Thiết kế luồng chức năng chính
+3.5 Yêu cầu phi chức năng
+Chương 4. Cài đặt và hiện thực hệ thống
+4.1 Hiện thực frontend
+4.2 Hiện thực backend
+4.3 Hiện thực AI Agent
+4.4 Hiện thực thanh toán và xác thực xã hội
+4.5 Hiện thực quản trị hệ thống
+Chương 5. Kết quả, đánh giá và thảo luận
+5.1 Kết quả đạt được
+5.2 Ưu điểm
+5.3 Hạn chế
+5.4 Hướng phát triển
+Chương 6. Kết luận
+Tài liệu tham khảo
+
+
+CHƯƠNG 1: GIỚI THIỆU ĐỀ TÀI
+1.1 Lý do chọn đề tài
+Phân khúc thời trang cao cấp trên môi trường số có những đặc thù rất khác so với thương mại điện tử đại trà. Người dùng không chỉ quan tâm đến giá, thương hiệu và hình ảnh sản phẩm mà còn rất chú ý tới tình trạng sản phẩm, tính chính hãng, cảm giác khi mặc, độ phù hợp với phong cách cá nhân cũng như mức độ tin cậy của đơn vị bán hàng. Với hàng resale hoặc consignment, rào cản ra quyết định còn lớn hơn do khách hàng thường cân nhắc kỹ về chất lượng thực tế, độ hiếm của món đồ và tính xứng đáng của mức giá.
+Trong khi đó, nhiều website bán hàng hiện nay vẫn vận hành theo hướng hiển thị tĩnh: người dùng tự tìm, tự đọc và tự so sánh. Mô hình này phù hợp với hàng hóa phổ thông nhưng chưa đủ thuyết phục đối với nhóm hàng thời trang cao cấp, nơi mà quyết định mua phụ thuộc nhiều vào tư vấn, ngữ cảnh sử dụng và trải nghiệm trao đổi như tại cửa hàng thật. Chính vì vậy, việc xây dựng một website thương mại điện tử tích hợp AI Agent để hỗ trợ tư vấn mua sắm là hướng đi có giá trị thực tiễn rõ rệt.
+Từ nhu cầu đó, đề tài tập trung xây dựng AURA ARCHIVE - một nền tảng thời trang cao cấp có khả năng kết hợp giữa hệ thống bán hàng đầy đủ nghiệp vụ và lớp trợ lý AI hỗ trợ người dùng bằng chat văn bản lẫn hội thoại giọng nói. Đây là hướng tiếp cận phù hợp với xu thế AI-first commerce, nơi AI không chỉ làm chatbot trả lời chung chung mà trở thành một tác nhân đồng hành xuyên suốt trong quá trình khám phá, lựa chọn và chốt đơn.
+1.2 Bài toán đặt ra
+Bài toán trung tâm của đề tài là làm thế nào để thiết kế một hệ thống thương mại điện tử cho thời trang cao cấp vừa đảm bảo đầy đủ nghiệp vụ bán hàng, vừa hỗ trợ tư vấn cá nhân hóa theo ngữ cảnh thực, đồng thời vẫn giữ được khả năng kiểm soát dữ liệu và mở rộng kỹ thuật về sau. Từ repo hiện tại, có thể thấy bài toán được chia thành nhiều lớp: lớp giao diện người dùng, lớp backend nghiệp vụ, lớp quản trị, lớp AI Agent và lớp tích hợp dịch vụ ngoài.
+Về phía người dùng, hệ thống phải xử lý các nhu cầu quen thuộc như đăng ký, đăng nhập, xem sản phẩm, lọc theo thương hiệu và danh mục, thêm vào giỏ hàng, thanh toán và quản lý đơn hàng. Tuy nhiên, khác với website bán hàng thông thường, hệ thống còn phải giải quyết những nhu cầu khó hơn như tư vấn theo phong cách, gợi ý theo budget, phản hồi về size, tương tác theo lịch sử hội thoại và hỗ trợ voice AI có ngữ cảnh.
+Về phía quản trị, hệ thống không dừng ở CRUD sản phẩm mà còn phải cho phép vận hành đồng bộ nhiều module như đơn hàng, biến thể tồn kho, coupon, review, blog, banner, popup, site settings, phiên chat, abandoned carts, cấu hình giọng nói và Live2D. Điều này đòi hỏi kiến trúc phải đủ rõ ràng để chia tách service, route, model, controller và đồng thời đủ mềm dẻo để tích hợp AI.
+1.3 Mục tiêu nghiên cứu
+Mục tiêu thứ nhất của đề tài là xây dựng một nền tảng thương mại điện tử thời trang cao cấp hoàn chỉnh theo mô hình full-stack, trong đó frontend được phát triển bằng Nuxt 3 và backend được phát triển bằng Express.js kết hợp PostgreSQL.
+Mục tiêu thứ hai là phát triển lớp AI Agent phục vụ tư vấn mua sắm, có khả năng trò chuyện theo ngữ cảnh, phân tích ý định người dùng, khai thác dữ liệu sản phẩm thực từ hệ thống và phản hồi một cách tự nhiên. Lớp AI này phải hỗ trợ cả chat văn bản lẫn voice AI.
+Mục tiêu thứ ba là thiết kế kiến trúc AI theo hướng hybrid. Khi có API key, hệ thống có thể dùng Gemini hoặc OpenAI để tăng chất lượng phản hồi. Khi API không sẵn sàng, hệ thống vẫn duy trì được năng lực hỗ trợ thông qua tập tri thức cục bộ, luật phân loại ý định, bộ nhớ phiên và dữ liệu sản phẩm lấy trực tiếp từ cơ sở dữ liệu.
+Mục tiêu thứ tư là bảo đảm hệ thống có không gian quản trị đủ mạnh để vận hành thực tế, bao gồm quản lý đơn hàng, sản phẩm, người dùng, nội dung marketing, đánh giá, coupon, cài đặt hệ thống và điều phối phiên hội thoại AI.
+Mục tiêu thứ năm là cung cấp kiến trúc mở cho việc thay đổi model, thêm model dự phòng, mở rộng phương thức thanh toán, thay đổi cấu hình giọng nói, thay đổi Live2D và mở rộng tập luật AI mà không làm phá vỡ kiến trúc tổng thể.
+1.4 Phạm vi thực hiện
+Phạm vi của đề tài bám theo đúng mã nguồn hiện tại trong repo KLTN. Hệ thống hỗ trợ các nhóm actor chính gồm Guest, Customer và Admin. Guest có thể truy cập trang chủ, xem danh sách sản phẩm, xem blog, tương tác với AI chat hoặc voice. Customer có thể quản lý tài khoản, địa chỉ, wishlist, đơn hàng và checkout. Admin có thể quản trị toàn bộ dữ liệu nghiệp vụ và cấu hình hệ thống.
+Về mặt nghiệp vụ, phạm vi hiện thực bao gồm: xác thực bằng email mật khẩu và OAuth, quản lý hồ sơ, quản lý địa chỉ, duyệt sản phẩm, tìm kiếm và lọc, wishlist, review, giỏ hàng, checkout, tạo đơn, hủy đơn trong điều kiện phù hợp, thanh toán qua nhiều cổng, quản trị sản phẩm và biến thể, thống kê quản trị, quản lý nội dung marketing, quản lý phiên chat và cấu hình AI.
+Về mặt AI, phạm vi hiện thực bao gồm: AI chat dạng widget nổi, lưu lịch sử chat theo session, đồng bộ session cho admin, AI voice dùng Gemini Live API, preview voice, thực thi tool call từ voice session, đồng bộ transcript giữa voice và text chat, hỗ trợ Live2D và trigger animation theo hội thoại.
+Đề tài chưa đi vào huấn luyện một mô hình ngôn ngữ cỡ lớn riêng hoàn toàn tại chỗ. Cơ chế local hiện tại được hiện thực bằng knowledge base, session memory, intent classifier, dữ liệu sản phẩm và template trả lời có kiểm soát. Đây là một giới hạn có chủ ý để giữ chi phí triển khai ở mức hợp lý nhưng vẫn bảo đảm khả năng vận hành khi API bên ngoài không sẵn sàng.
+1.5 Đóng góp của đề tài
+Đóng góp thứ nhất là hiện thực hóa một hệ thống e-commerce có chiều sâu nghiệp vụ, không dừng ở giao diện trình diễn. Các module sản phẩm, biến thể, đơn hàng, thanh toán, review, coupon, blog, banner, popup và site settings đều đã xuất hiện rõ ràng trong mã nguồn.
+Đóng góp thứ hai là thiết kế AI Agent theo hướng gắn chặt với dữ liệu thật của hệ thống thay vì chatbot tách biệt. Phản hồi của AI được làm giàu bằng sản phẩm, thương hiệu, chính sách, size và trạng thái kho hàng, từ đó tăng độ liên quan của hội thoại.
+Đóng góp thứ ba là đưa voice AI vào quy trình mua sắm thực. Đây không chỉ là đọc văn bản ra tiếng nói mà là một cơ chế hội thoại thời gian thực có tool calling, transcript sync, session memory và điều phối Live2D.
+Đóng góp thứ tư là xây dựng khả năng thay đổi model và cấu hình giọng nói linh hoạt. Mã nguồn cho thấy hệ thống hỗ trợ chuỗi model chính, model dự phòng, thay đổi voiceName, liveModel, nhiệt độ, nhân vật Live2D và nhiều tham số hiển thị.
+Đóng góp thứ năm là cung cấp một nền tảng tốt cho nghiên cứu tiếp theo về AI commerce tại Việt Nam, đặc biệt trong các bài toán tư vấn sản phẩm, agentic shopping và retail experience dựa trên ngữ cảnh.
+1.6 Cấu trúc khóa luận
+Khóa luận được tổ chức thành sáu chương. Chương 1 trình bày bối cảnh, bài toán, mục tiêu, phạm vi và đóng góp của đề tài. Chương 2 hệ thống hóa các nền tảng công nghệ được sử dụng trong dự án. Chương 3 phân tích yêu cầu và thiết kế hệ thống dựa trên mã nguồn thực tế. Chương 4 mô tả quá trình cài đặt và hiện thực các module chính. Chương 5 đánh giá kết quả đạt được, ưu điểm, hạn chế và thảo luận khả năng mở rộng. Chương 6 tổng kết toàn bộ đề tài và đề xuất hướng phát triển tiếp theo.
+
+
+CHƯƠNG 2: CƠ SỞ LÝ THUYẾT VÀ CÔNG NGHỆ ÁP DỤNG
+2.1 Công nghệ phía giao diện
+Phần giao diện của hệ thống được xây dựng trên Nuxt 3 và Vue 3. Đây là lựa chọn phù hợp cho một dự án thương mại điện tử hiện đại vì Nuxt 3 hỗ trợ tốt SSR, routing theo file, composables, plugins và tối ưu hóa trải nghiệm hiển thị ban đầu. Giao diện của AURA ARCHIVE được tổ chức rõ ràng thành các nhóm trang khách hàng, trang tài khoản và trang quản trị.
+Tailwind CSS được dùng để chuẩn hóa thiết kế và tăng tốc quá trình phát triển giao diện. Qua phần mã ở client, có thể thấy các thành phần giao diện được tách nhỏ thành nhiều component như header, footer, banner slider, product card, compare bar, skeleton loading, admin sidebar, modal, toast và widget AI. Điều này giúp hệ thống dễ tái sử dụng và dễ mở rộng.
+Pinia được sử dụng cho quản lý trạng thái phía client, đặc biệt trong các bài toán như xác thực người dùng, giỏ hàng, thông báo và dữ liệu liên quan tới sản phẩm. Hệ thống còn hỗ trợ i18n với hai ngôn ngữ tiếng Việt và tiếng Anh, cho thấy định hướng mở rộng thị trường ngay từ tầng giao diện.
+Ở cấp độ trải nghiệm người dùng, giao diện không chỉ gồm các trang mua sắm cơ bản mà còn có thêm những vùng chức năng chuyên biệt như recently viewed, product comparison, quick view, form review, blog, dashboard quản trị và voice widget. Điều này giúp nền tảng không bị giới hạn như một storefront tối giản mà tiến gần hơn tới một hệ sinh thái mua sắm có chiều sâu.
+2.2 Công nghệ phía backend và cơ sở dữ liệu
+Backend của hệ thống sử dụng Express.js theo mô hình route - controller - service - model. Đây là cách tổ chức phù hợp cho dự án có nhiều module nghiệp vụ vì cho phép tách rõ tầng tiếp nhận HTTP, tầng xử lý logic, tầng thao tác dữ liệu và tầng hạ tầng dùng chung. Mã nguồn server cho thấy phần service mới là nơi chứa phần lớn logic nghiệp vụ, ví dụ như tạo đơn hàng, xử lý thanh toán, quản lý coupon, tìm kiếm sản phẩm và điều phối AI.
+PostgreSQL được chọn làm cơ sở dữ liệu chính, kết hợp với Sequelize để mô hình hóa dữ liệu và quan hệ. Hệ thống hiện có nhiều model như User, Product, Variant, Order, OrderItem, Review, Address, Wishlist, Coupon, CouponUsage, Banner, Blog, Popup, Newsletter, Notification, SiteSettings, SystemPrompt, ChatLog, ChatSession và AbandonedCart. Cấu trúc này cho thấy hệ thống đã được phát triển tới mức có khả năng vận hành thực, không chỉ dừng ở mức mô phỏng.
+Một điểm quan trọng trong backend là cách xử lý order theo transaction. Trong service tạo đơn, hệ thống khóa biến thể để tránh race condition, kiểm tra tình trạng còn hàng, tính toán tổng tiền, tạo order number và cập nhật trạng thái biến thể sau khi chốt đơn. Đây là chi tiết kỹ thuật quan trọng vì thương mại điện tử thời trang cao cấp thường có số lượng biến thể ít, rủi ro tranh chấp tồn kho cao và giá trị đơn hàng lớn.
+Ngoài ra, backend còn tích hợp Helmet, CORS, rate limit, middleware xác thực JWT, middleware phân quyền admin, validator và swagger/openapi. Như vậy, phần lý thuyết của đề tài không chỉ nằm ở công nghệ hiển thị hay lưu trữ, mà còn bao gồm các nguyên tắc bảo vệ API, kiểm soát truy cập và tiêu chuẩn hóa tài liệu kỹ thuật.
+2.3 Nền tảng AI Agent và voice AI
+Phần AI là trọng tâm làm nên khác biệt của đề tài. Trong phiên bản mã nguồn hiện tại, AI không được tách thành một microservice Python độc lập như một số tài liệu cũ, mà được tích hợp trực tiếp vào backend Node.js. Cách làm này giúp giảm độ phức tạp khi triển khai, đồng thời cho phép AI truy cập gần hơn tới dữ liệu nghiệp vụ, bộ nhớ phiên và logic sản phẩm.
+Theo code trong stylist-engine, quá trình xử lý hội thoại gồm các bước: phân loại ý định, trích xuất thực thể, hợp nhất ngữ cảnh người dùng, làm giàu bằng dữ liệu sản phẩm và tri thức nội bộ, sau đó mới sinh phản hồi. Nếu hệ thống có sẵn khóa API, phản hồi được tạo bằng Gemini hoặc OpenAI. Nếu không có, hệ thống dùng trained response theo tập luật và knowledge base cục bộ. Đây chính là cơ chế hybrid giữa kéo API và xử lý local mà hệ thống đang theo đuổi.
+Tầng tri thức cục bộ của AI gồm nhiều thành phần: intent classifier, product search, session memory, knowledge base về thương hiệu, phong cách, chính sách và dữ liệu kho hàng. Nhờ đó, ngay cả khi không gọi ra model bên ngoài, hệ thống vẫn có thể tư vấn trong những trường hợp phổ biến thay vì dừng hoàn toàn. Cách tiếp cận này phù hợp với thực tế triển khai ở môi trường học thuật hoặc thử nghiệm, nơi quota hoặc chi phí API có thể là một giới hạn đáng kể.
+Một điểm đáng chú ý khác là khả năng thay đổi model. Mã nguồn hiện hỗ trợ chuỗi model Gemini chính và dự phòng, đồng thời có thể kích hoạt OpenAI khi có cấu hình tương ứng. Ở lớp voice, hệ thống còn hỗ trợ liveModel cấu hình từ dữ liệu hệ thống, danh sách fallbackModels và các thông số như temperature, voiceName, live2dModelUrl. Điều này phản ánh đúng yêu cầu “hỗ trợ thay đổi nhiều model” đã được đặt ra cho đề tài.
+Voice AI được hiện thực bằng Gemini Live API. Frontend nhận cấu hình phiên từ backend, sau đó kết nối WebSocket để truyền âm thanh và nhận phản hồi. Backend chịu trách nhiệm cấp cấu hình, thực thi tool call, đồng bộ transcript và lưu session. Điều này tạo ra một mô hình voice AI có điều phối trung tâm, thay vì chỉ đơn giản là phát âm thanh một chiều.
+2.4 Xác thực, thanh toán và dịch vụ tích hợp
+Hệ thống hỗ trợ xác thực truyền thống bằng email và mật khẩu, đồng thời tích hợp OAuth với Google và Facebook. Từ góc nhìn nghiệp vụ, đây là một phần quan trọng vì website thời trang cần tối ưu tỷ lệ đăng ký và đăng nhập. Việc cho phép người dùng vào nhanh bằng tài khoản xã hội giúp giảm bước thao tác, trong khi xác thực JWT vẫn đảm bảo duy trì phiên làm việc rõ ràng ở phía client và backend.
+Về thanh toán, hệ thống tích hợp đồng thời VNPay, MoMo và PayPal. Sự kết hợp này cho phép mở rộng phạm vi phục vụ giữa khách hàng nội địa và khách hàng quốc tế. Các service thanh toán đều xử lý bài toán tạo session giao dịch, xác minh callback hoặc IPN, và cập nhật trạng thái thanh toán về đơn hàng. Đây là nền tảng cần thiết để chuyển một dự án học thuật thành một nền tảng có thể thử nghiệm vận hành thực tế.
+Ngoài ra, hệ thống còn tích hợp email service cho các luồng OTP, quên mật khẩu và thông báo; tích hợp dịch vụ dịch ngôn ngữ trong khu vực quản trị; tích hợp Swagger cho tài liệu API; tích hợp Socket.IO để phát tin nhắn AI theo thời gian thực và đồng bộ thông tin tới giao diện quản trị.
+2.5 Live2D, thời gian thực và giám sát hệ thống
+Một thành phần giàu tính trình diễn nhưng cũng có giá trị sản phẩm thực là Live2D. Thay vì để AI chỉ xuất hiện dưới dạng hộp thoại văn bản, hệ thống sử dụng Live2D để hiển thị nhân vật đồng hành, hỗ trợ các animation như chào, suy nghĩ, giới thiệu sản phẩm, gật đầu hoặc kết thúc phiên. Voice service còn có tool play_animation để đồng bộ cử chỉ với trạng thái hội thoại.
+Đặc biệt, hệ thống cho phép quản trị viên tải lên nhân vật Live2D mới từ file ZIP, lưu metadata trong bảng SystemPrompt và phục vụ file từ uploads. Đây là một thiết kế mở, cho phép thay đổi nhân vật AI theo chiến dịch thương hiệu, theo mùa hoặc theo nhóm khách hàng mục tiêu.
+Về tính thời gian thực, hệ thống sử dụng session memory, ChatLog, ChatSession và Socket.IO để quản lý trạng thái trò chuyện. Admin có thể theo dõi phiên chat, tham gia, tạm dừng AI, gắn khách hàng vào phiên và đồng bộ transcript voice. Đây là cơ sở giúp AI Agent không vận hành như một module biệt lập mà gắn với quy trình chăm sóc khách hàng của doanh nghiệp.
+
+
+CHƯƠNG 3: PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG
+3.1 Phân tích yêu cầu nghiệp vụ
+Dựa trên tài liệu SRS và mã nguồn, hệ thống được xây dựng cho ba nhóm người dùng chính. Guest có nhu cầu khám phá sản phẩm, xem blog và thử tương tác AI trước khi quyết định đăng ký. Customer cần mua sắm, lưu sản phẩm, kiểm tra đơn hàng, thanh toán và nhận tư vấn. Admin cần một không gian vận hành đủ mạnh để quản trị dữ liệu, đơn hàng, nội dung và AI.
+Ở mức nghiệp vụ cốt lõi, hệ thống cần xử lý được vòng đời mua hàng đầy đủ: khám phá sản phẩm, xem chi tiết, thêm vào giỏ, áp mã giảm giá, chọn địa chỉ, chọn phương thức thanh toán, tạo đơn, theo dõi trạng thái và đánh giá sau mua. Phần này được hiện thực qua các trang phía client và các service bên server như product, order, coupon, address, payment và review.
+Song song với vòng đời mua hàng, hệ thống còn phải xử lý một vòng đời tương tác mới: người dùng bắt đầu chat với AI, AI đặt câu hỏi để hiểu nhu cầu, lấy ngữ cảnh từ trang đang xem, tìm sản phẩm phù hợp, gợi ý theo phong cách hoặc ngân sách và chuyển sang bước mua hàng nếu khách đã có ý định chốt đơn. Đây là luồng nghiệp vụ khác biệt của đề tài so với website bán hàng truyền thống.
+3.2 Kiến trúc tổng thể
+Kiến trúc tổng thể của hệ thống gồm bốn lớp chính: frontend Nuxt 3, backend Express.js, PostgreSQL và lớp AI provider cùng tri thức nội bộ. Frontend đóng vai trò hiển thị giao diện, quản lý tương tác người dùng và gọi API. Backend đóng vai trò trung tâm điều phối, xử lý nghiệp vụ, xác thực, thanh toán, AI, voice, Live2D và kết nối cơ sở dữ liệu. PostgreSQL lưu toàn bộ dữ liệu nghiệp vụ. Lớp AI provider được kết nối khi cần để sinh phản hồi tự nhiên hoặc xử lý giọng nói.
+Một điểm quan trọng trong thiết kế là backend vừa là tầng nghiệp vụ vừa là tầng điều phối AI. Điều này giúp AI có thể truy cập nhanh vào dữ liệu sản phẩm, tình trạng biến thể, policy, session, thông tin khách hàng và nhật ký chat mà không cần thêm một tầng trung gian phức tạp. Với lựa chọn này, kiến trúc phù hợp cho quy mô đồ án hoặc MVP có định hướng sản phẩm thật.
+Tuy nhiên, kiến trúc vẫn đủ mở để tách AI ra thành service riêng trong tương lai. Điều này được thể hiện qua việc nhiều khối logic AI đã được đóng gói rõ trong services/ai, voice.service, ai.service và các lớp liên quan. Như vậy, đề tài vừa bám sát repo thực tế, vừa giữ được khả năng tiến hóa về mặt triển khai.
+3.3 Thiết kế dữ liệu
+Thiết kế dữ liệu của hệ thống phản ánh khá sát nghiệp vụ thương mại điện tử. User lưu thông tin xác thực và hồ sơ khách hàng. Product biểu diễn sản phẩm gốc, còn Variant lưu chi tiết từng biến thể như size, màu sắc, chất liệu và trạng thái còn hàng hoặc đã bán. Order và OrderItem lưu thông tin đơn hàng và các dòng sản phẩm cụ thể trong đơn.
+Các module bổ trợ cũng được tách thành bảng riêng để thuận tiện cho mở rộng nghiệp vụ. Address phục vụ giao hàng. Wishlist lưu danh sách yêu thích. Review hỗ trợ đánh giá sản phẩm. Coupon và CouponUsage xử lý logic giảm giá. Banner, Blog, Popup và SiteSettings phục vụ nội dung marketing và cấu hình giao diện. ChatLog và ChatSession lưu trạng thái hội thoại. Notification và AbandonedCart phục vụ chăm sóc khách hàng và vận hành bán hàng.
+Bảng SystemPrompt là một điểm đặc biệt trong thiết kế vì nó không chỉ lưu prompt cho AI mà còn đóng vai trò kho cấu hình mềm cho nhiều thành phần như persona của AI, greeting, voice config, custom Live2D characters và các giá trị điều khiển khác. Nhờ cách tổ chức này, admin có thể thay đổi một số hành vi của AI mà không cần chỉnh trực tiếp mã nguồn.
+3.4 Thiết kế luồng chức năng chính
+3.4.1 Luồng xác thực và quản lý người dùng
+Người dùng có thể đăng ký bằng email hoặc đi qua luồng OAuth. Sau khi xác thực thành công, backend phát JWT và client lưu token để sử dụng cho các request tiếp theo. Với những endpoint yêu cầu quyền cao hơn, middleware protect và adminOnly sẽ kiểm soát truy cập. Thiết kế này tách rõ quyền của guest, customer và admin.
+3.4.2 Luồng duyệt sản phẩm và giỏ hàng
+Frontend cung cấp nhiều điểm vào để duyệt sản phẩm như trang chủ, new arrivals, best sellers, sale, shop và trang chi tiết. Dữ liệu lọc được truyền sang backend qua query parameters, sau đó service sản phẩm xây dựng điều kiện Sequelize theo category, brand, giá, trạng thái và từ khóa tìm kiếm. Người dùng có thể thêm sản phẩm vào giỏ, thay đổi số lượng, lưu wishlist hoặc so sánh sản phẩm.
+3.4.3 Luồng tạo đơn hàng
+Khi checkout, backend xử lý đơn hàng trong transaction để tránh xung đột tồn kho. Từng variant được khóa, kiểm tra trạng thái khả dụng, tính tổng tiền, tạo order number và cập nhật trạng thái sau khi chốt. Đây là thiết kế phù hợp cho mặt hàng giá trị cao, nơi một lỗi nhỏ về đồng bộ tồn kho có thể tạo ra trải nghiệm rất xấu cho khách hàng.
+3.4.4 Luồng AI Agent
+Khi người dùng mở AI chat hoặc AI voice, frontend tạo hoặc lấy session ID và gửi ngữ cảnh hiện tại như đường dẫn, product slug, loại trang hoặc dữ liệu khách hàng đã biết. AI service phân tích ý định, trích xuất thực thể, kết hợp session memory và truy vấn product search để tạo phản hồi. Nếu voice được sử dụng, backend còn phải xử lý tool call, transcript sync và animation.
+Thiết kế này cho phép AI bám sát ngữ cảnh thật. Chẳng hạn nếu người dùng đang ở trang chi tiết sản phẩm, voice system có thể ưu tiên current product page để hiểu “món này”, “cái này” là sản phẩm nào. Đây là ví dụ rõ cho việc AI Agent được gắn trực tiếp vào hành vi duyệt web chứ không đứng ngoài hệ thống.
+3.4.5 Luồng quản trị
+Phía admin có một dashboard riêng với middleware admin. Tại đây quản trị viên có thể xem doanh thu, số lượng đơn hàng, sản phẩm, người dùng, danh sách đơn gần đây và điều hướng sang các module quản trị khác. Ngoài phần sản phẩm, đơn hàng và người dùng, admin còn có thể quản lý review, coupon, blogs, banners, popups, settings, AI config, live2d và abandoned carts.
+3.5 Yêu cầu phi chức năng
+Về hiệu năng, hệ thống cần hỗ trợ tải trang tốt, phản hồi API ổn định và duy trì được trải nghiệm mượt mà ở các thao tác thường gặp như duyệt sản phẩm, thêm vào giỏ và chat với AI. Việc sử dụng Nuxt 3, phân tách component, lazy fetch và tối ưu cấu trúc API giúp hỗ trợ yêu cầu này.
+Về bảo mật, hệ thống phải bảo vệ trước truy cập trái phép, brute-force đăng nhập, lộ token hoặc thao tác admin ngoài quyền. Điều này được xử lý bằng JWT, Helmet, CORS, rate limiting, validation và tách quyền theo middleware.
+Về khả năng mở rộng, kiến trúc cần cho phép bổ sung model AI mới, nhân vật Live2D mới, phương thức thanh toán mới và nội dung marketing mới. Repo hiện tại đã phản ánh rõ định hướng đó thông qua cách đóng gói service và cấu hình động trong cơ sở dữ liệu.
+
+
+CHƯƠNG 4: CÀI ĐẶT VÀ HIỆN THỰC HỆ THỐNG
+4.1 Hiện thực frontend
+Phần frontend của AURA ARCHIVE được tổ chức thành nhiều lớp rõ ràng. Tầng pages đại diện cho routing, tầng components chia theo domain như home, product, cart, ai, admin, layout, common; tầng composables gom các logic dùng lại như useAuth, useCart, useNotification, useCompare, useCurrency, useRecentlyViewed và useLive2D.
+Trang chủ được xây dựng như một landing page có chiều sâu, kết hợp hero banner, featured brands, collection banners, new arrivals, best sellers, on-sale products, newsletter và các giá trị cốt lõi của thương hiệu. Việc kéo dữ liệu từ banners, settings, products và brands cho thấy trang chủ không phải là giao diện tĩnh mà có thể được quản trị từ backend.
+Các trang khách hàng quan trọng gồm shop, chi tiết sản phẩm, cart, checkout, blog, account, orders, wishlist và addresses. Ở trang chi tiết, hệ thống hỗ trợ gallery, review, compare, size guide, zoom ảnh, related products và mobile buy button. Điều này phản ánh mức độ hoàn thiện cao hơn một đồ án CRUD đơn giản.
+VoiceChat.vue và các component AI cho thấy phần frontend đã xử lý cả những luồng phức tạp như microphone, waveform, transcript, suggested products rail, minimize or maximize widget, live2d canvas, session storage và route-aware context. Đây là phần hiện thực quan trọng giúp AI Agent trở thành trải nghiệm trực tiếp chứ không chỉ là endpoint API ở backend.
+4.2 Hiện thực backend
+server.js khởi tạo toàn bộ hạ tầng ứng dụng: load biến môi trường, security middlewares, body parser, logging, static uploads, openapi, route aggregation, error handler và kết nối database. Ở môi trường development, hệ thống còn tự sync database và seed dữ liệu mặc định khi cần.
+Phần route được tổ chức theo chuẩn REST ở /api/v1, gồm các nhóm auth, products, orders, admin, chat, wishlist, users, contact, newsletter, reviews, coupons, addresses, banners, popups, locations, payments, abandoned-carts, blogs, shipping, settings, notifications, page-content và live2d. Cấu trúc này giúp chia module nghiệp vụ rõ và dễ bảo trì.
+Service layer là nơi thể hiện rõ nhất mức độ hoàn thiện của hệ thống. Chẳng hạn product.service xử lý tìm kiếm, lọc, phân trang, related products, best sellers và sale. order.service xử lý transaction và tồn kho. payment.controller kết hợp nhiều service thanh toán. oauth.service xử lý Google và Facebook. chat-admin.service chịu trách nhiệm giám sát các session AI.
+4.3 Hiện thực AI Agent
+AI chat được điều phối bởi ai.service và stylist-engine. Khi có tin nhắn mới, hệ thống kiểm tra phiên có đang bị admin pause hay không, lấy persona hiện hành từ bảng SystemPrompt, sau đó chuyển message vào engine để xử lý. Engine sẽ phân loại ý định, trích xuất thực thể, hợp nhất ngữ cảnh và làm giàu câu trả lời bằng product search, brand info, style advice, policy hoặc inventory summary.
+Nếu biến môi trường cho API đã được cấu hình, hệ thống ưu tiên tạo câu trả lời tự nhiên bằng Gemini hoặc OpenAI. Đồng thời, mã nguồn còn có model chain và cơ chế retry hoặc fallback. Khi API không sẵn sàng, engine chuyển về trained response dựa trên knowledge base và dữ liệu local. Đây là phần hiện thực rất sát với yêu cầu “vừa kéo API vừa local”.
+Ở tầng voice, voice.service cung cấp cấu hình phiên, voice preview, tool declarations, transcript sync và build voice system prompt. Frontend gọi getVoiceToken để lấy apiKey, model, fallbackModels, greetingMessage, systemPrompt và voiceSettings. Sau đó, voice session có thể gọi các tool như search_products, get_inventory_summary, navigate_to_product, add_to_cart, open_cart, go_to_checkout, save_to_wishlist, play_animation hoặc suggest_size.
+Điểm hay của voice implementation là transcript của voice không bị tách biệt hoàn toàn với chat text. Hệ thống đồng bộ transcript về session memory và ChatLog, cập nhật session stats và phát qua socket cho admin. Như vậy một khách hàng có thể bắt đầu bằng voice rồi tiếp tục bằng text mà không làm mất bối cảnh hội thoại.
+Voice layer còn được tích hợp chặt với Live2D. Từ code có thể thấy AI có thể kích hoạt các animation như greeting, nod, think, happy, introduce product, recommend product, goodbye, shy, confused hoặc apologize. Sự kết hợp giữa voice, transcript, product rail và Live2D tạo ra một trải nghiệm AI Agent mang tính thương hiệu rõ ràng.
+4.4 Hiện thực thanh toán và xác thực xã hội
+Thanh toán được hiện thực qua ba service riêng: vnpay.service, momo.service và paypal.service. Mỗi service chịu trách nhiệm tạo giao dịch, xác minh callback hoặc webhook và trả thông tin cần thiết cho controller cập nhật trạng thái đơn hàng. Cách tách service theo cổng thanh toán làm cho hệ thống dễ bảo trì và dễ thêm cổng mới nếu cần.
+Xác thực xã hội được hiện thực ở oauth.service với hai nhánh Google và Facebook. Backend nhận token từ frontend, xác minh với provider, sau đó liên kết tài khoản theo email hoặc social id. Nếu người dùng chưa tồn tại thì hệ thống tự khởi tạo user mới với dữ liệu lấy từ provider. Thiết kế này giúp giảm ma sát khi người dùng lần đầu đăng nhập.
+4.5 Hiện thực quản trị hệ thống
+Khu vực quản trị được xây dựng khá đầy đủ. Admin dashboard hiển thị tổng doanh thu, tổng đơn, tổng sản phẩm, tổng khách hàng và biểu đồ doanh thu theo tháng, quý hoặc năm. Từ dashboard, admin có thể chuyển nhanh sang quản lý orders, products, users và AI config.
+Bên cạnh đó, các module marketing như banners, blogs, popup, page builder và site settings cho phép điều chỉnh nội dung hiển thị của storefront mà không phải sửa code frontend. Admin cũng có thể chỉnh system prompts, preview voice, quản lý live2d characters và theo dõi abandoned carts để phục vụ chăm sóc khách hàng.
+Việc toàn bộ các cấu hình này nằm trong không gian admin cho thấy đề tài không chỉ nhắm tới demo giao diện mà còn hướng tới bài toán vận hành hệ thống thực. Đây là điểm giúp đề tài có giá trị ứng dụng cao hơn.
+
+
+CHƯƠNG 5: KẾT QUẢ, ĐÁNH GIÁ VÀ THẢO LUẬN
+5.1 Kết quả đạt được
+Đối chiếu với mục tiêu đặt ra ban đầu, hệ thống đã hiện thực được một website thương mại điện tử thời trang cao cấp với đầy đủ các luồng nghiệp vụ cơ bản và nâng cao. Các nhóm chức năng khách hàng, quản trị, AI chat, AI voice, thanh toán đa cổng, OAuth, marketing content, statistics và session management đều đã có mặt trong mã nguồn hiện tại.
+Đặc biệt, AI Agent không chỉ là một thành phần trình diễn mà đã có kết nối thực với dữ liệu sản phẩm, session memory, policy và inventory. Khả năng tư vấn theo context, tìm kiếm sản phẩm phù hợp, hỗ trợ add to cart hoặc mở checkout từ voice tool cho thấy đề tài đã đi xa hơn chatbot FAQ thông thường.
+5.2 Ưu điểm
+Ưu điểm lớn nhất của hệ thống là kiến trúc đồng bộ giữa thương mại điện tử và AI. Frontend, backend, dữ liệu và session AI đều liên kết với nhau. Điều này giúp AI phản hồi sát dữ liệu thật, giảm rủi ro bịa sản phẩm và tăng giá trị cho người dùng.
+Ưu điểm thứ hai là khả năng mở rộng kỹ thuật. Hệ thống hỗ trợ nhiều cổng thanh toán, nhiều cách xác thực, nhiều model AI, nhiều giọng nói, nhiều nhân vật Live2D và nhiều module quản trị. Đây là một kiến trúc mở phù hợp để tiếp tục phát triển.
+Ưu điểm thứ ba là hướng đi hybrid của AI. Trong điều kiện có API key, hệ thống tận dụng được chất lượng ngôn ngữ của model lớn. Trong điều kiện hạn chế chi phí hoặc quota, hệ thống vẫn duy trì được năng lực hỗ trợ nhờ local knowledge và rule-based flow.
+5.3 Hạn chế
+Mặc dù đã đạt nhiều kết quả tích cực, hệ thống vẫn còn những hạn chế. Thứ nhất, voice AI chất lượng cao vẫn phụ thuộc vào dịch vụ bên ngoài và giới hạn quota của provider. Thứ hai, chế độ local hiện tại chưa phải một mô hình ngôn ngữ huấn luyện riêng hoàn toàn tại chỗ mà chủ yếu dựa trên knowledge base và template. Điều này là đủ cho nhiều tình huống phổ biến nhưng chưa thể thay thế hoàn toàn model sinh ngôn ngữ quy mô lớn.
+Thứ ba, phần báo cáo hiện tại bám rất sát mã nguồn và luồng nghiệp vụ, nhưng chưa tích hợp đầy đủ hình chụp giao diện, sơ đồ UML hay benchmark hiệu năng tự động như trong một bộ hồ sơ triển khai doanh nghiệp hoàn chỉnh. Đây là hướng bổ sung cần thiết nếu muốn nâng cấp đề tài thành sản phẩm hoặc hồ sơ nghiên cứu sâu hơn.
+5.4 Hướng phát triển
+Trong giai đoạn tiếp theo, hệ thống có thể được mở rộng theo nhiều hướng. Một là bổ sung cơ chế vector search hoặc semantic recommendation để tăng chất lượng gợi ý sản phẩm. Hai là hỗ trợ thêm local model hoặc private model server để giảm phụ thuộc vào API công cộng. Ba là đưa thêm computer vision để phân tích hình ảnh trang phục hoặc hỗ trợ tìm kiếm theo ảnh.
+Ngoài ra, hệ thống có thể phát triển thêm analytics nâng cao, loyalty program, tracking hành vi mua sắm, recommendation cá nhân hóa dài hạn, social commerce và cơ chế multi-tenant cho nhiều thương hiệu. Nếu cần mở rộng ra production, hệ thống cũng nên được tăng cường CI/CD, test automation và observability toàn diện.
+
+
+CHƯƠNG 6: KẾT LUẬN
+Đề tài “Web thương mại điện tử thời trang cao cấp tích hợp AI Agent” đã xây dựng được một nền tảng AURA ARCHIVE có tính hoàn chỉnh về kỹ thuật và có chiều sâu về nghiệp vụ. Hệ thống không chỉ đáp ứng được các chức năng cốt lõi của thương mại điện tử mà còn mở rộng sang lớp tư vấn thông minh bằng AI chat và AI voice, qua đó tạo ra trải nghiệm mua sắm gần với môi trường tư vấn thực tế hơn.
+Thông qua việc bám sát mã nguồn hiện tại, khóa luận cho thấy khả năng kết hợp hiệu quả giữa Nuxt 3, Express.js, PostgreSQL, các dịch vụ xác thực và thanh toán, cùng với lớp AI hybrid có tri thức cục bộ và model API. Đây là minh chứng cho hướng phát triển các nền tảng thương mại điện tử thế hệ mới, nơi AI đóng vai trò là tác nhân hỗ trợ ra quyết định chứ không chỉ là công cụ trả lời tự động.
+Kết quả của đề tài có thể tiếp tục được mở rộng ở cả hai hướng: nâng cấp thành sản phẩm thực tế hoặc phát triển thành nền tảng nghiên cứu chuyên sâu hơn về retail AI, voice commerce và agentic shopping. Trên nền tảng kỹ thuật đã xây dựng, đây là một hướng phát triển hoàn toàn khả thi.
+
+
+TÀI LIỆU THAM KHẢO
+[1] README.md của dự án AURA ARCHIVE trong repo KLTN.
+[2] PROJECT_ANALYSIS.md - tài liệu phân tích kiến trúc và mã nguồn dự án.
+[3] SRS.md - tài liệu đặc tả yêu cầu phần mềm của hệ thống.
+[4] server/server.js - điểm khởi tạo backend Express và cấu hình bảo mật.
+[5] server/src/routes/index.js - tài liệu thực tế về phân nhóm API.
+[6] server/src/services/ai.service.js - dịch vụ điều phối AI chat.
+[7] server/src/services/ai/stylist-engine.js - lõi AI Agent xử lý intent, context và response.
+[8] server/src/services/voice.service.js - hiện thực voice AI thời gian thực.
+[9] server/src/services/live2d.service.js - quản lý nhân vật Live2D.
+[10] server/src/services/oauth.service.js - xác thực Google và Facebook.
+[11] server/src/controllers/payment.controller.js - điều phối thanh toán VNPay, MoMo và PayPal.
+[12] client/components/ai/VoiceChat.vue - hiện thực giao diện voice AI và Live2D phía client.
+[13] Tài liệu chính thức Nuxt 3, Vue 3, Express.js, Sequelize và PostgreSQL được sử dụng làm nền tảng tham khảo trong quá trình phát triển.
+[14] Tài liệu chính thức Google Gemini API, OpenAI API, PayPal Developer, VNPay và MoMo Developer được tham khảo để triển khai các kết nối dịch vụ ngoài.
+
